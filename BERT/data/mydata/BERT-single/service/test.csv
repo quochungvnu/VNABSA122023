@@ -1,0 +1,635 @@
+id	original_sentence	aspect	label_id	label
+0#91#0	chọi oi shop gì mà bán hàng siêu có tâm luôn nên mua nha mấy má ơi, giao hoả tốc siêu nhanh, chất vải siêu ưng mặc mát cực, form áo chuẩn size, nên mua nha mn ơi  sẽ ủng hộ shop dài dài luôn	Service	0	positive
+0#44#0	shop giao hành nhanh. đóng gói đẹp. cẩn thận. sản phẩm chất đẹp	Service	0	positive
+25#50#0	chất lượng sản phẩm tốt, thời gian giao hàng nhanh, giá hợp lý	Service	0	positive
+87#103#0	Màu sắc:trawngs Chất liệu:ok ổn vừa tiền Đúng với mô tả:đúng với mô tả in cungc đẹp :> tận tình chu đáo	Service	0	positive
+68#202#0	chất liệu:đẹp,vải mịn ,sờ mát tay . màu sắc:hài hoà, đúng với mô tả:shop giao hàng đúng mẫu mua của shop nhiều lần rồi nhé.shop giao hàng nhanh ,vừa đặt hôm qua hôm nay đã nhận được .sẽ ủng hộ shop tiếp	Service	0	positive
+90#114#0	áo màu giống hình, đẹp, chất vải mềm mịn, sờ mát tay, gói hàng cẩn thận, giao hàng nhanh, mua combo 3 cái giá tốt, hài lòng	Service	0	positive
+22#92#0	áo đẹp, nhìn lịch sự, đóng gói cẩn thẩn, chắc chắn mỗi giao hàng hơi lâu tí nhưng vẫn cho 5⭐	Service	0	positive
+52#67#0	chất liệu:god màu sắc:xanh, xám đúng với mô tả:đúng giao hàng nhanh, vãi tốt so với tầm giá. mới mua thử 2 cái lần sau sẽ ủng hộ shop tiếp, tks	Service	0	positive
+128#187#0	ý ga ý là tôi mua size xs luôn á nhưng mà nó giao xs nhưng mà nó lạ lắm nó bé xíu à với lại nó không có tem gì trên mạng luôn á đóng gói ở trong cái bịch ni lông chứ không phải là cái hộp	Service	2	negative
+39#64#0	mình khá hài lòng! chất và màu áo đẹp, chăm sóc khách hàng tốt a! sẽ tiếp tục mua ở đây	Service	0	positive
+231#406#0	áo đẹp chất ở trong mát ở ngoài dày dặn ko phải nóng mình cao 1m54 nặng 50kg mặc size l nó dài hơn hông một chút tay áo không phải tay lỡ mặc lên form cx ok cổ áo thì vừa ko bị trễ ai muốn mặc dáng oversize thì nên mua size to hơn mình có chút ko hài lòng về shop . shop nhắn tin tư vấn vs khách thì trống không thái độ mình ko hài lòng nh bù lại áo cx ok nhé với cả áo ko có mác gắn phía sau hơi thất vọng	Service	2	negative
+0#22#0	hàng đóng gói cẩn thận.vải đẹp.đường chỉ may chắc chắn.rất hài lòng sp của shop.đáng mua nhé mn.sẽ tiếp tục ủng hộ shop	Service	0	positive
+25#55#0	màu sắc:đen vãi hơi mỏng shiper thân thiện gói hàng đẹp săn sale nên thấy vậy cũng khá ổn rồi	Service	0	positive
+20#35#0	Áo xinh xỉu,vải xịn,giao hàng nhanh,không ngờ giá này lại mua được chiếc áo xinh z luôn.Mình 1m53 45kg mặc áo dài qua mông nhâ	Service	0	positive
+57#179#0	sản phẩm rất đẹp vải rất là mát sẽ ủng hộ shop lần sau , đóng gói sản phẩm rất đẹp , người ship là mẹ của anh shiper , bà rất thân thiện luôn đang làm bài kiểm tra chạy vội ra lấy	Service	0	positive
+84#99#0	màu sắc:đúng màu sắc đúng với mô tả:đúng mô tả chất liệu:áo polo chất cũng hơi nóng giao hàng nhanh..hợp giá tiền	Service	0	positive
+0#44#0	lần này giao hàng nhanh quá nè. tks shop nhé. lần trước đánh giá 5 sao đc shop tặng card 10k nè. đồ shop giá rẻ mà chất lượng lắm nha. lần sau lại ủng hộ shop	Service	0	positive
+14#29#0	chất vải đẹp, giao hàng nhanh, mua được giá sale nên quá ổn luôn. cao 1m67 nặng 68kg mặc vừa nhưng hơi dài.	Service	0	positive
+42#72#0	chất vải của áo rất đẹp, giá cả phải chăng, giao hàng cũng không quá lâu, nói chung mọi thứ đều rất là ok, đánh giá cho shop 5 sao nhasa	Service	0	positive
+63#96#0	đúng với mô tả:đúng chất liệu:thun màu sắc:xanh. áo đẹp lắm ạ, đóng gói phải nói là 10 điểm luôn giá rẻ mà cả áo lẫn cách đóng gói rất là tốt. rcm nên mua nhé mn ơi	Service	0	positive
+0#50#0	shop gửi hàng nhanh, đóng gói cẩn thận, hộp xịn xò  áo chất đẹp, màu đẹp, ưng ý nha.	Service	0	positive
+15#29#0	áo chuẩn form. ship siu nhanh. nhận trước lễ luôn. đường may với hình in xịn xò lắm mấy bà. nên mua	Service	0	positive
+30#69#0	chất lượng sản phẩm tuyệt vời giao hàng nhanh sẽ ủng hộ thêm dài dài.	Service	0	positive
+48#70#0	đây lần thứ 2 mua hàng ở shop đều rất hài lòng, đóng gói đẹp, cskh tốt, áo vải đẹp, dày dặn, mặc thoải mái. giao hàng đúng mẫu đúng size	Service	0	positive
+0#21#0	giao hàng nhanh chóng, chất vải ổn, đóng gói ok, sẽ ủng hộ trong những dịp tới	Service	0	positive
+0#18#0	áo giao hàng nhanh. chất đẹp, fom đẹp mà giá lại rẻ. các mẹ nên mua cho chồng, cho con trai nhé 	Service	0	positive
+30#68#0	đồ xinh, săn được với giá rẻ, shop đóng hàng cẩn thận giao rất nhanh. sẽ ủng hộ thêm ạ	Service	0	positive
+0#73#0	hàng mình đã lấy ra rồi đúng mẫu mã và kích thước, shop đóng gói cẩn thận tuy nhiên chất lượng vải hơi mỏng với size bé một chút bạn nào đặt nên lấy dư một size so với bảng size của shop là ok. nói chung là ổn với giá tiền phân khúc tầm trung	Service	0	positive
+58#95#0	áo ở shop thì khỏi bàn rồi, chất lượng sản phẩm tuyệt vời giao hàng nhanh và đóng gói cẩn thận, màu ở ngoài nhìn trẻ trung lắm size chuẩn m68 68kg size l vừa in	Service	0	positive
+0#30#0	đặt áo trắng nhưng giao áo đen nhưng tạm chấp nhận được !	Service	2	negative
+73#86#0	đúng với mô tả:đúng chất liệu:tốt màu sắc:xám ghi áo dày dặn ko bị nhăn, đóng hàng tốt với cái giá này thì đỉnh của chóp 	Service	0	positive
+0#18#0	đóng gói chắc chắn vải đẹp lứm mọi nguòi ơi nên mua nhé bố mình chắc rât thích và sec quay lại mua tiếp	Service	0	positive
+0#21#0	giao hàng nhanh chóng, chất lượng sản phẩm tuyệt vời. đóng gói sản phẩm cẩn thận	Service	0	positive
+63#106#0	đúng với mô tả:hình bông hoa hơi mờ chất liệu:vải  màu sắc:đen shiper rất vui tính nha ship cũng nhanh nữa	Service	0	positive
+121#292#0	vải mỏng chả biet mua hàng sale 185k cả ship nen shop ship cho áo vải mỏng hay sao ý. áo hơi dài so với các bạn m55 nha, gói hàng có mỗi cái bọc nilong kèm cái túi đen gói ở ngoài. áo chẳng có tag mác gì tử tế có mỗi cái áo ko? tui tưởng là áo cũ ai cắt mác rồi xong lại ship cho tui lun đó ạ 	Service	2	negative
+0#21#0	Giao hàng nhanh chóng, sản phẩm chất lượng. Sản phẩm tốt, sẽ ủng hộ shop tiếp lần sau	Service	0	positive
+230#366#0	chất liệu:khôg biết màu sắc:như hình đúng với mô tả:ổn giao hàng khá lâu. áo còn chỉ thừa khá nhiều. shop nên cho thêm giấy thơm vào áo. chất lượng oke nhưng mn nhớ chọn sz, đo đạt đồ cho cẩn thận tránh để làm việc việc với shop. shop trl tin nhắn quá chậm. mình cản thấy rằng khâu chăm sóc khách hàng của shop chưa ote lắm. nói chung chọn kĩ tránh làm việc với shop:>	Service	2	negative
+45#60#0	áo form đẹp, chất liệu vải dày dặn, mặc đẹp. giao hàng nhanh. thanks shop! sẽ ủng hộ lại	Service	0	positive
+27#43#0	sản phẩm ok, chất vải đẹp, giao hàng nhanh. mà đánh giá 5 sao để được thẻ đt là sao ạ?	Service	0	positive
+7#78#0	ảo đẹp mà cái hộp nát quá , shop nêm nâng cấp giao hàng nhé sẽ ủng hộ nhìu hơn	Service	2	negative
+0#47#0	đóng gói rất đẹp, có lời cám ơn rất chu đáo nữa. mình to béo mà vẫn có size 3xl mặc vừa, chất liệu mát mẻ. sẽ ủng hộ shop nhiều nữa.	Service	0	positive
+0#34#0	đóng gói cẩn thận, giao hàng nhanh, áo rất đẹp nói chung là ưng ạ	Service	0	positive
+50#65#0	vải dày, nhưng còn chỉ thừa, với giá này thì okie giao hàng nhanh đáng mua nè	Service	0	positive
+50#76#0	áo đẹp lắm nhé ,săn sale 11/11 nên giá rất oke,vì dịch nên giao hàng hơi lâu	Service	2	negative
+42#69#0	chất lượng sản phẩm phù hợp với giá tiền. đóng gói sản phẩm chắc chắn	Service	0	positive
+81#130#0	Đúng với mô tả:đúng Màu sắc:đẹp Chất liệu:đẹp Sản phẩm đẹp nha mọi người nên mua,shop giao hàng nhanh đóng gói cẩn thận bao bì đẹp	Service	0	positive
+105#151#0	chất liệu:vải cá xấu màu sắc:đen be vải mặc cực kì mát , k bị nóng. bạn mình 67 kí 1m67 mặc vừa như in . shiper thân thiện đặc biệt giao hàng nhanh cực	Service	0	positive
+33#52#0	Sản phẩm vải ko dày cũng ko mỏng giao hàng khá nhanh đúng mẫu đúng size nói chung vs giá này mn nên trải nghiệm thử	Service	0	positive
+91#117#0	chất liệu:cotton màu sắc:xám xanh đúng với mô tả:đúng hàng khá đẹp ạ, phù hợp với giá tiền đóng gói sản phẩm cẩn thận	Service	0	positive
+0#29#0	giao hàng nhanh, đóng gói đẹp. ao trơn, mỏng nhẹ, giặt nhanh khô, dễ bị xù. size áo hơi nhỏ, mình cao 1m68, nặng 65kg mặc size l hơi chật. hình ảnh mang tính chất nhận xu.	Service	0	positive
+73#96#0	Đúng với mô tả:đúng Màu sắc:hồng Chất liệu:vải K có giấy thơm đặt hơi to shop đóng gói chắc chắn hình in đẹp với lại vải cũng tạm ổn	Service	0	positive
+17#49#0	áo đẹp chất mát, shop đóng gói giao hàng cẩn thận, giá phù hợp mng nên mua nhé ạ. sẽ ủng hộ shop tiếp	Service	0	positive
+105#120#0	chất liệu:chất liệu vải tốt, thoáng mát màu sắc:màu sắc đẹp đúng với mô tả:form đẹp, đường may cẩn thận, giao hàng nhanh!	Service	0	positive
+48#63#0	mua lần 2. áo đẹp, chất lượng tốt, giá lại mềm, giao hàng nhanh, mình nh 70kg 1m75 mua size l mặc vừa khít, sẽ mua tiếp trong time tới.	Service	0	positive
+34#84#0	Áo đẹp, mặc vừa vặn chuẩn gu mình nma shop giao lộn áo màu đen thành be cho mình hic. Nma màu xink nên cũng k vđề gì. Sẽ ủng hộ shop nhiều mỗi tội hơi lo vụ giao lộn hui hehe	Service	2	negative
+64#83#0	áo xịn lắm ạ, mua tặng anh nhà mà anh nhà thích mê. giá lại rẻ, shop giao nhanh lắm 	Service	0	positive
+0#40#0	đóng hộp đẹp, có cả quà tặng sữa rửa mặt, vải thoáng mát, co giãn tốt	Service	0	positive
+34#72#0	áo chất đẹp, mặc mát, size chuẩn, mua dịp lễ nên shop gửi hàng hơi lâu ạ	Service	2	negative
+0#15#0	giao hàng nhanh. cầm nặng tay đường kim mũi chỉ đẹp nói chung áo sịn sò so vs giá tiền	Service	0	positive
+0#63#0	giao hàng siu nhanh. đặt hàng hôn trước sáng hôm sau đã nhận đc	Service	0	positive
+30#52#0	k ngờ áo lại đẹp đến thế luôn đóng gói hàng cận thận mình mua tặng bố mình mặc lên như trẻ ra 10 tuổi luôn á 	Service	0	positive
+66#99#0	Chất liệu:Tuyệt vời Đúng với mô tả:Đúng với quảng cáo Màu sắc:đen Giao hàng nhanh đóng gói cẩn thận	Service	0	positive
+60#101#0	vì là hàng tặng nên không biết chất lượng như thế nào nhưng giao hàng nhanh và đóng gói rất kĩ và đẹp	Service	0	positive
+49#64#0	áo vải đẹp phom và đường may đẹp. 5sao nha shop. giao hàng nhanh	Service	0	positive
+139#179#0	chất liệu:thun cá sấu màu sắc:xám, hồng đúng với mô tả:đúng đã quay lại mua lần 2. áo mua ở shop ck và ba mình mặc rất đẹp nha. giá quá tốt. lại còn đc chăm sóc khách hàng quá xịn.	Service	0	positive
+0#77#0	Shop chuẩn hàng rất đầy đủ, đóng gói cẩn thận riêng biệt, giao hàng khá nhanh,áo vải dày, hình in khá nét.	Service	0	positive
+79#94#0	Màu sắc:trang Đúng với mô tả:dung Chất liệu:vai vải đẹp nha mng ơi nên mua nhé giao hàng nhanh cuti	Service	0	positive
+86#121#0	mã săn trên live ahihi, chốt nhanh tay là được cái áo đẹp cho chồng =)))) vui ghê cơ, giao hàng nhanh, đóng chắc chắn lắm	Service	0	positive
+0#587#0	mẹ cái lũ bán hàng chó chết, thất đức, hốc cả tiền của đứa trẻ con. giao thiếu hàng cho con người ta. người ta nhắn tử tế là thiếu một cái áo màu rêu, có 29k thôi mà chúng nó cũng nuốt của đứa trẻ. nó được thưởng học sinh giỏi nó đưa tiền cho mẹ mua áo cho nó, xong giờ thanh toán hết tiền rồi mà áo của nó thì giao thiếu. làm nó đang ngồi khóc đây này, điên hết cả tiết. làm ăn thất đức như thế thì lụi hết cả họ nhà chúng mày luôn. mẹ cái lũ chó nhà chúng mày coi như con tao bố thí cho cái lũ chó nhà chúng mày. mua hàng của chúng mày là bố mày điên hết cả tiết. hốc cả cứt của con bố	Service	2	negative
+0#284#0	shop làm ăn quá mất uy tín, mình đặt 2 áo từ sớm giao hàng thì chậm trễ mình nt hỏi thì báo sẽ nhắc kho giao sớm, giờ thì giao thiếu hàng không nhắn cho khách để đổi mẫu hay j mà tự ý gửi hàng thiếu đi, giờ cận tết rồi khách biết mua áo ở đâu. quá thất vọng về cách làm việc của shop.	Service	2	negative
+60#151#0	màu sắc:xanh (hinh anh chi mang tinh chat minh hoa nhan xu) shop giao hang nhanh dung san phan duoc tang khau trang va giay thom lan sau se ung ho tiep	Service	0	positive
+0#21#0	đóng hói sản phẩm đẹp. form lên đẹp. giao hàng nhanh. sẽ ủng hộ. hình ảnh lấy xu	Service	0	positive
+36#69#0	Áo đẹp hình in sắc nét chất vải mềm giao hàng nhanh đóng gói cẩn thận	Service	0	positive
+18#93#0	áo chất vải tốt . shop phụ vụ tốt đặt trong ngày shop gửi luôn cho bên ship . giao hàng nhanh . lần nào mua xong cũng được tặng card	Service	0	positive
+0#25#0	thời gian giao hàng nhanh áo vải đẹp shop tư vấn nhiệt tình ủng hộ tiếp	Service	0	positive
+12#27#0	áo rất đẹp. giao hàng nhanh. vải mặc mát dày dặn hình dáng và màu áo chuẩn mô tả luôn. sẽ đặt thêm 3 chiếc 3 màu để mặc thay đổi ngày 6.6 này ^^ shop dễ thương kêu đánh giá và chụp lại gửi tn để nhận thẻ cào 10k kb có thật k nữa. tóm lại giá quá oki đáng mua nhé mn.	Service	0	positive
+121#139#0	săn được deal cực ngon. giá chỉ bằng một nửa mà mua được chiếc áo chất lượng. áo mặc mát, size đúng kích thước, vải mềm. 5 sao cho shop nhé!	Service	0	positive
+0#18#0	giao hàng đúng hẹn. áo mặc fit body, chất vải thoáng mát	Service	0	positive
+0#29#0	giao hàng đầy đủ, nhanh chóng, sản phẩm chất lượng. sẽ ủng hộ lần sau 	Service	0	positive
+0#25#0	shop chuẩn bị hàng nhanh, áo phông chất mềm, nhưng không nghĩ là sz M mà to vậy luôn ý, mình mặc mà cứ như sz L	Service	0	positive
+46#119#0	chất liệu ok. logo in nổi. nhưng hơi bị ngắn. hàng gửi lúc đầu bị lỗi nhưng shop xử lý đổi trả nhanh gọn. 5sao cho shop	Service	0	positive
+32#60#0	chất vải khá đẹp, sản phẩm tốt. shop giao hàng lại nhanh nữa. hình ảnh mang tính chất nhận xu	Service	0	positive
+40#81#0	áo đẹp vải thoáng thấm hút tốt màu đẹp. giao hàng nhanh đã mua của shop nhiều lần	Service	0	positive
+73#96#0	màu sắc:xanh bóng đêm đúng với mô tả:đúng vs mô tả sản phẩm tốt, giá rẻ, dễ mua, giao hàng nhanh, mk đã mua mấy chiếc mấy màu ở đây luôn rồi	Service	0	positive
+0#34#0	giao hàng nhanh, đóng gói cẩn thận, sản phẩm thoán mát và xịn sò. lần sau sẽ tiếp tục ủng hộ.	Service	0	positive
+29#64#0	chất lương sản phẩm rất đẹp. giao hàng nhanh. đóng gói chắc chắn	Service	0	positive
+96#111#0	chất liệu:mịn dẻo co dãn mạnh màu sắc:đẹp y hình đúng với mô tả:hàng đúng mẫu và màu giống clip nhạn hàng nhanh , vải áo và quần đẹp mát mịn co dãn lần đầu mua , rất ưng và thích ạ . đẹp rẻ chất lượng 	Service	0	positive
+44#90#0	áo đẹp lắm á, chất áo thì phù hợp giá tiền, giao hàng siêu nhanh shop đóng gói cũng kĩ nữa ạ	Service	0	positive
+26#134#0	Màu sắc:be áo xinh lắm nè.Mới đầu shop giao cho mình cái áo lỗi xong mình có nhắn tin với shop và đc gửi lại cái áo mới, 10đ cho shop.	Service	0	positive
+27#67#0	áo đẹp. vải đẹp. giá tốt . đóng gói đẹp . giao hàng hơi lâu một xíu .	Service	1	neutral
+0#18#0	đonhs gói cẩn thận chất lượng tốt vải mát đường may đẹp. nhận hành ưng ý lăm luôn. giá sale lại rẻ ck mình mạc vừa im sẽ ủng hộ	Service	0	positive
+70#127#0	Chất liệu:nóng Giao hàng lâu, áo vải nóng, còn có một mảng màu trắng, shop nhắn tin không trả lời trong khi mình gọi điện 2 lần	Service	2	negative
+44#114#0	chất liệu:dep màu sắc:đen đúng với mô tả:ok giao hàng siêu nhanh, đóng gói đẹp và cẩn thận. shop tư vấn size chuẩn, chất vải đẹp. nói chung rất đáng mua nha mn	Service	0	positive
+40#57#0	sản phẩm có chất lượng tốt, co giãn ít, đóng gói cản thận	Service	0	positive
+0#70#0	hàng giao đúng size, đúng màu, shop uy tín, sẽ ủng hộ khi có nhu cầu ạ	Service	0	positive
+18#37#0	vải đẹp ,mặc mát. giao hàng khá nhanh. mua sale mà đẹp hết sức. lần sau sẽ ủng hộ shop tiếp	Service	0	positive
+76#96#0	giờ mới tìm được shop mua áo cho ba vs ngiu ưng ý. chất đẹp, đường may đẹp. shop giao hàng nhanh. từ hôm biết shop t mua liền 6 cái rùi. mong shop có thêm mấy mẫu dài tay nữa mình ủng hộ típ ạ	Service	0	positive
+159#175#0	chất liệu:thế thao màu sắc:xanh aqua đúng với mô tả:như hình shop đóng gói cẩn thận. áo đóng hộp xịn sò. chất vải mỏng vừa phải. mua được giá sale nên rất rẻ. giao hàng nhanh.	Service	0	positive
+0#15#0	giao hàng nhanh. chồng mình mặc vừa. chất vảo ý như hình chụp. giá 90k cả ship. k mong đợi nhiều hơn	Service	0	positive
+31#70#0	Hàng của shop thì chất đẹp nha giao dành nhanh chóng và đúng thời gian	Service	0	positive
+44#69#0	chất liệu:tốt màu sắc:đẹp đúng với mô tả:ok sản phẩm đóng gói rất đẹp, chất liệu phù hợp với giá tiền, chính sách tốt, phản hồi nhanh, nên mua mng nhé	Service	0	positive
+67#86#0	áo đẹp quá mn ơi,mk mua lúc đang sale giá hời mà được áo ưng ý quá.giao hàng lại nhanh.sẽ ủng hộ shop dài dài ạ	Service	0	positive
+19#93#0	áo xịn lắm nha mn, shop chu đáo nhiệt tình, chuẩn bị hàng và gửi để giao cx nhanh lắm luôn ạa	Service	0	positive
+61#139#0	chất liệu:thun mát mịn màu sắc:xám đúng với mô tả:form chuẩn giao hàng nhanh shiper thân thiện cx như bao lần colmate không làm e thất vọng	Service	0	positive
+25#67#0	chất liệu:mát màu sắc:ok shop hỗ trợ đổi size và giao lại rất nhanh.	Service	0	positive
+20#34#0	màu logo ko đậm màu shop ko uy tín	Service	2	negative
+95#114#0	đúng với mô tả:ok chất liệu:ok màu sắc:ok tin được k  t mua 2 áo giá 160k mà chất siêu xịn xò. còn có hộp xinh nữa. áo này giá 159k/1 áo cũng đã quá ưng cho đợt sale này roi. nên mua	Service	0	positive
+0#15#0	giao hàng nhanh vải đẹp nói chung rất ổn. vải đẹp nên mua nha mn	Service	0	positive
+92#119#0	sản phẩm như hình rất đẹp ,giao hàng cực nhanh , mặc vừa vặn mềm mại rất thoải mái rễ chịu, shop tư vấn rất nhiệt tình, khi nào có dịp quay lại mua tiếp	Service	0	positive
+22#37#0	áo đẹp phù hợp giá rẻ giao hàng nhanh thấm hút mồ hôi tốt khá ổn áp	Service	0	positive
+0#127#0	giao hàng nhanh. shop bán hàng, tư vấn khách rất dễ thương. đã mua hàng 3 lần. và sẽ mua tiếp nha. đóng gói sản phẩm chắc chắn.	Service	0	positive
+30#99#0	chất lượng sản phẩm tuyệt vơi,đóng gói sản phẩm rất đẹp và chắc chắn,thời gian giao hàng siêu nhanh,nk mk thấy fom size m cứ to to ý.	Service	0	positive
+0#38#0	giao hàng nhanh, đóng gói sản phẩm đẹp, áo vải ok, đường chỉ may đẹp, k có chỉ thừa, ưng	Service	0	positive
+0#42#0	Giao hàng nhanh Đóng gói sản phẩm cẩn thận Áo đẹp không có nóng	Service	0	positive
+0#31#0	không có hộp, không có móc khoá, chất vải nóng. form rất rộng và có ưu điểm: hình đẹp	Service	2	negative
+0#40#0	rất hài lòng với chất lượng của shop này, đồ rẻ ơi là rẻ, áo dáng chuẩn, 1m75, 72kg mặt xl vừa khích, tôn dáng, ai có bụng tăng thêm 1 size	Service	0	positive
+18#82#0	hàng đẹp, giá rẻ. shop trả lời nhiệt tình, dễ thương. mua lần thứ hai của shop rồi. ck mình 1m74, 73 kg mặc size xl như lúc đầu shop tư vấn bị dài, lần sau mình đặt l thì ổn hơn. màu trắng nhỏ hơn những áo màu khác. lần sau có dịp mình sẽ ủng hộ thêm	Service	0	positive
+69#109#0	chất liệu:thun thoáng mát màu sắc:xanh aqua, đen đúng với mô tả:đúng giao hàng nhanh. đặt lần nào cũng ưng ý. đặc biệt là shop có mã giảm rất hời. nên mua nha mọi người	Service	0	positive
+79#89#0	chất liệu:poly màu sắc:chuẩn đúng với mô tả:áo đúng với mô tả giao hàng nhanh, áo rất đẹp, màu chuẩn, đáng tiền mua	Service	0	positive
+67#109#0	Chất liệu:tốt Màu sắc:be Đúng với mô tả:yess đúng Thấy mát cũng đc đóng gói tốt giao hàng nhanh chất lượng ok	Service	0	positive
+0#182#0	Shop lên đơn và gửi hàng đi siêu nhanh, mỗi tội do mình đặt ngay kề ngày nghỉ lễ nên bên vận chuyển đưa hàng đi hơi lâu. Shop gói hàng gọn gàng, chỉnh chu, còn kèm cả card cảm ơn nữa. Áo đẹp, chỉ thừa gần như k có, chất áo khá mềm và mát	Service	0	positive
+14#37#0	màu sắc:trắng đặt 2 cái giao có 1 cái chất vai xấu	Service	2	negative
+0#33#0	giao hàng nhanh đóng gói cẩn thận sản phẩm chất ly tốthdjbdds	Service	0	positive
+0#17#0	giao hàng lâu xỉu :) nhưng bù lại chất lượng oke, vải co giãn có vẻ thoáng mát nữa. shop đóng gói cẩn thận. mình mua mấy cái ở đây rùi nên thích chất lượng sp của colmate lắm.	Service	1	neutral
+37#76#0	hình ảnh chỉ mang tính chất nhận xu. shop giao hàng nhanh. đóng gói cẩn thận. hàng chất lượng	Service	0	positive
+0#15#0	Shop giao nhanh Chất vải khá ok Săn được giá rẻ nữa Đóng gói khá ổn	Service	0	positive
+0#23#0	giao hàng nhanh, chuẩn, mặc rất mát, hợp lý, giá tiền cũng ổn, 5 sao	Service	0	positive
+50#65#0	Màu sắc:kem Chất liệu:đẹp Đúng với mô tả:cũng okr giao hàng nhanh mà nó to lắm mn owi nên mua size vừa vừa thôi nha to lắm aa	Service	0	positive
+42#80#0	áo đẹp vải mát sản phẩm tốt gia cả hợp lý giao hàng nhanh 1 ngày sau đã có hàng.	Service	0	positive
+184#213#0	áo đẹp.mua 4c cùng size 2 loại mà có áo mặc rộng hơn,có áo mặc kích hơn.nhưng chung quy là bản thân mk sẽ ủng hộ các local brands việt nam mình nhé.được tặng bgn rất chim ưng shop nhé.mỗi tội chuẩn bị hàng lâu quá	Service	2	negative
+0#31#0	giao hàng nhanh. hộp đẹp xịn xò. áo mềm , thoáng màu đẹp lắm nha nên nua	Service	0	positive
+0#59#0	Đã nhận được hàng nhanh như mình cần nha, cảm ơn shop nhiều, sờ chất vải ok chưa mặc nên hok bik sao	Service	0	positive
+0#99#0	mình mua mấy cái của shop rồi. nhầm màu shop hỗ trợ đổi trả rất nhiệt tình, sẽ tiếp tục ủng hộ shop	Service	0	positive
+0#38#0	shop giao hàng nhanh đóng gói cẩn thận . chất áo ok lắm luôn quá rẻ so với giá tiền mọi người nên mua nha	Service	0	positive
+57#67#0	mua cho any, khá okie mặc mát, vải đẹp, săn sale giá rẻ, giao nhanh	Service	0	positive
+12#59#0	màu sắc:đen giao hàng nhanh, đóng gói sản phẩm đẹp cẩn thận, áo đẹp, giá phải chăng. ảnh mang tính chất nhận xu.	Service	0	positive
+12#29#0	màu sắc:đen đóng gói hoàn hảo, kiểu dáng rất đẹp, chất không thể nói là mát được.	Service	0	positive
+0#96#0	Đặt đúng dịp lễ quốc khánh nên giao hơi lấu xíu thôi chứ đóng gói rất cẩn thận và áo rất đẹp nhé. Không có chỉ thừa, chưa thử nma thấy có vẻ mặc vào sẽ ko quá nóng	Service	0	positive
+8#24#0	Áo đẹp. Đóng gói kĩ càng. Giá hợp vs túi tiền. Sẽ ủng hộ nhiều hơn nữa	Service	0	positive
+25#62#0	áo form rộng, thoải mái, giao hàng nhanh, đóng gói cẩn thận dk	Service	0	positive
+17#60#0	áo siêu đẹp nha, giao hàng cũng nhanh nữa. đóng gói cẩn thận, rất ưng nên rate 5 sao nha	Service	0	positive
+0#46#0	shop chuẩn bị và giao hàng nhanh, đóng gói đẹp, áo chất lượng so với giá tiền, có nhiều màu nhiều size phù hợp nhiều lứa tuổi, đã mua nhiều lần và đều ưng ý.	Service	0	positive
+0#57#0	shop rep tận tình. mùa dịch nhưng giao hàng k hề chậm nha.	Service	0	positive
+55#90#0	màu sắc:màu hồng chất liệu:co giãn đúng với mô tả:đúng sp giao hàng nhanh. ship thân thiện! áo hơi ngắn xíu vì mình cao . hình ảnh và video mang tc nhận xu.	Service	0	positive
+36#57#0	tốt hàng chất lượng, hợp giá tiền , đóng gói sản phẩm tốt	Service	0	positive
+27#97#0	mình mua với giá 99k 1 áo. giao hàng nhanh. nhân viên giao hàng nói chuyện dễ thương. cảm ơn shop. vải đẹp nha mn ơi. nên mua	Service	0	positive
+79#347#0	chất liệu:thun màu sắc:be đúng với mô tả:giống mô tả áo đẹp, hình in chi tiết, đóng gói thì mình không thích phần để thông tin muốn làm ctv này nọ của brand, có thể các bạn đẩy mạnh maketing thì ok, nma đây mình mua áo đi tặng, nên lúc mình không để ý hàng gửi về mình muốn để bạn mình bóc quà thì thấy voucher làm ctv rồi mấy giấy không liên quan	Service	2	negative
+30#176#0	Áo đẹp , chất vải oke dày đẹp Shop gửi thiếu hàng, ntin bảo để shop gửi lại nhưng mãi ko thấy, hỏi lại thì shop bảo quên:)). Mình k ntin hỏi thì kb có nhận dc hàng thiếu ko nữa	Service	2	negative
+37#66#0	áo chất vải rất oke, co dãn cực tốt, giao hàng nhanh, đóng gói đẹp, có điều lần mua này shop giao mình cái áo màu đen bị tróc mấy chữ như hình, hên là phần này không quan trọng lắm nên mình cũng không muốn đổi	Service	0	positive
+59#93#0	Hình ảnh chỉ mang tc nhận xu hàng rât đẹp chất vải dày dặn đóng gói chắc chắn giao hàng nhanh sẽ ủng hộ shop	Service	0	positive
+126#153#0	vải mỏng, thô, lúc đầu nghĩ chất mềm nhưng không phải, hàng size nhỏ , mọi người mua thỳ nên lên 1-2 size so với bình thường. shop k đổi trả nên cân nhắc	Service	2	negative
+14#24#0	chất vải tốt, giao nhanh, ảnh và video không liên quan lắm đâu	Service	0	positive
+14#36#0	chất liệu:mát đóng gói khá chắc chắn, vải sờ có vẻ mát. chưa mặc nên chưa đánh giá được	Service	0	positive
+8#34#0	màu sắc:gửi nhầm mẫu nhìn thấy ghê	Service	2	negative
+77#92#0	đổi tra hàng rất uy tín , gói hàng cẩn thận , đẹp , mẫu áo đẹp , chất vải ok giao hàng nhanh , mình xẽ luôn ủng hộ shop	Service	0	positive
+41#63#0	giá ưu đãi, gửi đúng màu chất lượng đẹp. shop tư vấn nhiệt tình, em mua tặng chồng về thích sẽ ủng hộ thêm. cảm ơn.	Service	0	positive
+57#72#0	Áo có form đẹp chất mát màu sáng Khi nhận áo có mùi thơm Giao hàng nhanh	Service	0	positive
+74#89#0	hình ảnh mang tính chất minh hoạ , shop đóng gói cẩn thận , áo chất đẹp , giao hàng nhanh	Service	0	positive
+77#121#0	chất liệu:thun đúng với mô tả:đúng màu sắc:xanh shop đóng gói đẹp, cẩn thận, giao đầy đủ sản phẩm. giao hàng nhanh chóng. cảm ơn shop!	Service	0	positive
+13#28#0	vải hơi mỏng giao hàng nhanh video hình ảnh chỉ mang tính chất nhận xu	Service	0	positive
+64#79#0	hơi mỏng nhưng chất lượng như vậy là phù hợp với giá tiền rồi , giao hàng nhanh 	Service	0	positive
+25#61#0	sản phẩm ok mặc khá mát, tư vấn nhiệt tình :)))))))))))))))))	Service	0	positive
+70#105#0	Màu sắc:hồng nhạt Chất liệu:cọton Đúng với mô tả:khá ổn Áo mỏng mát , hài lòng giao nhanh ship Thân Thiện giá ổn đóng gói kĩ cho shop 5sao	Service	0	positive
+0#112#0	shop làm ăn vớ vẩn người ta mua hai cái tổng 394 mà giao thêm tận 1 cái áo mất oan 384 làm ăn thế thì chịu rồi !	Service	2	negative
+52#72#0	Màu sắc:ddepj Đúng với mô tả:dung Chất liệu:đẹp dày giao hàng cũng nhanh, áo đẹp, vải ok lắm, must try nha, giá áo rẻ mà đưicj như này là vượt ngoài mong đợi rùi á	Service	0	positive
+0#290#0	colmate hướng dẫn đổi áo trong vòng 60 ngày. thế nhưng không thấy liên hệ đổi áo cho người mua. hướng dẫn bấm nhận hàng thanh toán xong rồi chờ mãi. mình làm đủ các bước theo hướng dẫn. nhưng không thấy liên hệ đổi áo. vậy cam kết đổi trả hàng trong 60 ngày có đáng tin hay đấy viết cho có?	Service	2	negative
+51#89#0	dat giup nen k co hinh hàng y hình, chất lượng tốt shop đóng gói cẩn thận giao hàng nhanh	Service	0	positive
+0#33#0	shop đóng gói rất đẹp và cẩn thận chất lg sản phẩm đẹp luôn ủng hộ shop	Service	0	positive
+13#46#0	sản phẩm đẹp đóng gói cẩn thận giao hàng nahnb vải đpej so với giá tiền nêb mua nhé giao hàng nhanh lần sau sẽ mua lại lần nũa mnaq	Service	0	positive
+28#43#0	chất liệu:thin màu sắc:đúng giao hàng nhanh, vải không đẹp lắm, hình ảnh video chỉ mang tính chất nhận xu	Service	0	positive
+28#67#0	áo đẹp, chất vải mỏng, mát, shop giao hàng nhanh, đóng gói cẩn thận	Service	0	positive
+58#73#0	shop có mã giảm nên mua thôi, nói chung là chất lượng ổn, giao hàng nhanh	Service	0	positive
+0#14#0	hàng okela nha săn đc giá sale đựng hộp sịn lun nha mn nên thử ở hn 2 ngày nhận được hàng	Service	0	positive
+0#25#0	thời gian giao hàng nhanh, sản phẩm xứng đáng với tiền, cskh tốt	Service	0	positive
+56#97#0	áo quá đẹp..rất vừa size..nói chung không có gì để chê..từ khâu đóng gói đến cả chất lượng rất ok..chắc chắn sẽ mua tiếp..	Service	0	positive
+14#41#0	sản phẩm đẹp, giao hàng nhanh, thân thiện, khá okela nha mọi người	Service	0	positive
+67#102#0	chất mát; không bị mỏng; giá ổn so với chất vải ; lên form khá ổn. giao nhanh chưa đến 1 ngày. cho 5 s . góp ý : nên làm thêm những cỡ to hơn mình m7 83kg có gym mặc hơi chật vai	Service	0	positive
+58#79#0	Đúng với mô tả:đúng với mô tả Chất liệu:cotton Màu sắc:be Ship rất nhanh luôn ạ Lần sau sẽ ủng hộ shop Mong shop sẽ đóng gói cẩn thận hơn ạ	Service	0	positive
+32#58#0	áo đẹp, tặng thêm quần rất đẹp. rất hài lòng về dịch vụ ..	Service	0	positive
+122#154#0	màu sắc:nâu đúng với mô tả:hơi mỏng chất liệu:thun áo rất đẹp hơi mỏng nhưng mà mình săn sale nên so vs giá này thì cg ok đóng gói kĩ càng túi zip lun nhá	Service	0	positive
+47#60#0	đúng với mô tả:đúng màu sắc:đen chất liệu:polo áo ship nhanh , màu sắc đúng mẫu . mọi người nên mua	Service	0	positive
+67#135#0	áo đẹp , có để cả giấy thơm nên áo mùi rất thơm , áo chất lượng ổn ủa rồi đơn hàng trên 150k được tặng móc khoá ? rồi móc khoá đâu shop	Service	2	negative
+29#54#0	ô áo đẹp xịn xò con bò luôn. mỗi tội giao hàng hơi lâu. kể mà có áo nữ như này thì cũng phải làm đôi. ưng cái bụng lắm chưa thử nên chưa biết chật rộng thế nào, thấy gửi đúng sz mình đặt thôi 	Service	2	negative
+32#76#0	đáng đồng tiền bát gạo lắm luôn shop đóng gói cẩn thận, ship hàng siêu nhanh vải đẹp	Service	0	positive
+7#32#0	áo đẹp đóng gói cẩn thận nữa nha chất mát lắm mọi người nên mua nha	Service	0	positive
+0#41#0	giao hàng nhanh, có hộp tặng quà khá xinh, áo chất lượng và size khá đúng và oke ạ	Service	0	positive
+86#153#0	Chất liệu:vải cotton Màu sắc:trắng áo siêu đẹp luôn ấy, vải chất lượng mặc k bị nóng, lúc đầu mình mua sz l nma mình lại đổi sz m, shop hỗ trợ nhiệt tình, mình rcm cho mng áo này nhé	Service	0	positive
+9#82#0	vải đẹp, giao hàng nhanh, gói hàng kỹ , đẹp. shop cẩn thận từng khâu 1. triệu like	Service	0	positive
+0#15#0	giao hàng nhanh. nhận đc áo đẹp hơn cả mong đợi! vải áo và đường may rất đẹp đóng gói rất xịn xò, đánh giá 5 sao lần sau sẽ mua ủng hộ shop tiếp ạ	Service	0	positive
+0#15#0	giao hàng nhanh, chất vải thì mềm , có đều 2cái áo này quá to so với sz l , nó phải tầm sz 2xl, nhìn là biết 2 áo này bị cắt size dán l lên ròi, mình từng bán hàng nhìn là biết ròi thôi mua hàng giảm giá thì cũng chịu.	Service	0	positive
+0#46#0	giao hàng nhanh, đóng gói chỉnh chu và rất đẹp, áo mặc lên form chuẩn, chồng mình mặc đẹp lắm, hợp lí với giá tiền ạ	Service	0	positive
+12#61#0	Màu sắc:kem shop tư vấn nhiệt tình, thời gian giao hàng nhanh, nên mua	Service	0	positive
+17#36#0	áo đẹp, vải xịn, giao hàng nhanh cực do em mua lố size, giờ đặt thêm cái nữa ủng hộ shop	Service	0	positive
+40#104#0	đặt lần thứ 3 rồi áo đẹp, đường may đẹp hàng giao hơi chậm nhưng shop nhiệt tình nên vẫn cho shop 5 sao.	Service	0	positive
+46#75#0	ngon bổ rẻ.ít tiền mà chất lượng.rất đáng mua.shop phục vụ nhanh mà chủ đáo.vải đẹp và mát lắm.đã thế shop còn hứa tặng cho cái thế 10k nữa quá hời hehe.cho shop 50 sao luôn chứ 5 sao gì.	Service	0	positive
+42#128#0	chất liệu:thoáng mát đúng với mô tả:chuẩn shop quá dễ thương, mình chọn nhầm màu và được shop hỗ trợ đổi hàng ngay miễn phí ship. :)) nghìn like	Service	0	positive
+0#451#0	lần trước mua cái đen bị lỗi ở cổ, với do mình có máy may nên dằn lại cũng dc , mình không đổi trả chi cho mắc công , xong lần này mình mua cái kem size L thì shop giao kem size M cho mình , thấy đánh giá rv trên ytb oki nên mua (lần đầu mình nghĩ do xui nên mua lần 2 dùm mẹ để tặng dì tại mẹ mình coi Hà Linh rv thấy ôki) shop làm ơn làm phước kt kĩ hàng dùm (mà mình cũng ko rảnh đi đổi trả nên cũng giữ cho ngkhac bận) nên mong shop kt hàng kĩ dùm !!	Service	2	negative
+0#28#0	gửi áo ko giống mẫu đăng bán	Service	2	negative
+0#15#0	giao hàng nhanh, áo đẹp, đóng gói hàng chắc chắn, đáng tiền lắm nha	Service	0	positive
+117#163#0	màu sắc:đen chất liệu:không biết đúng với mô tả:không biết chưa bóc nên không biết như nào nhưng chắc là ổn, giá rẻ, ship nhanh shipper thân thiện đóng gói cũng ổn ( hình ảnh mang tính chất nhận xu ) không biết ảnh có giống trên hình không nhưng chắc cũng có giống một tí, vải hình như hơi mỏng một tí nhưng mà mặc chắc mát và thoải mái, được cái shop này giao nhanh lắm hôm nay mới hôm thứ ba mà đã có hàng về ngay rồi	Service	0	positive
+0#53#0	shop giao hàng nhanh, trả lời thắc mắc cũng nhanh nữa. vải mềm, form cũng ổn. cái note cũng đáng iu nữa	Service	0	positive
+99#128#0	Màu sắc:xanh Đúng với mô tả:đúng Chất liệu:cotton vải ổn không mỏng, vừa vặn, vải cảm giác khá mát giao hàng khá nhanh tuyệt vời jakanhaiaknv gưiajjb khiuijnaf	Service	0	positive
+0#17#0	giáo hàng hơi lâu nhưng bù lại áo rất đẹp, chất mát,ưng lắm..sẽ quay lại lần sau.	Service	2	negative
+0#18#0	giao đúng số lượng vải hơi mỏng nói chung tiền nào của đó	Service	0	positive
+0#21#0	giao hàng hơi lâu xíu, mà chất vải thì khá là ổn áp, mặc khá mát,..	Service	2	negative
+50#102#0	chất liệu:mát màu sắc:đúng màu đúng với mô tả:đẹp giao hàng nhanh, đóng gói kỹ, ko ngờ là có tới 2 hộp, giá cả vừa phải	Service	0	positive
+12#67#0	áo vải đẹp, shop tư vấn nhiệt tình. gói hàng chất lương. tuyệt vời.	Service	0	positive
+0#43#0	giao hàng rất nhanh, đóng gói đẹp chắc chắn, chất vải ok thoáng mát dễ chịu.	Service	0	positive
+65#119#0	sản phẩm chất lượng, vải không dày lắm nhưng chất lượng vải tốt. shop gói hàng kỹ, áo có hộp đựng rất thích hợp làm quà. mình 62kg cao 1m65 mặc size l	Service	0	positive
+0#16#0	shop gói hàng kỹ, vải áo thì đúng xịn luôn nha, ko có 1 cọng chỉ thừa nào. giá sale quá rẻ so với chất lượng. mình mua 3 cái 3 màu rất là ưng luôn, chồng đi làm xa rồi , hi vọng lúc ck về sẽ thích 3 cái áo vk mua 	Service	0	positive
+0#36#0	đóng gói đẹp, dịch nên giao hơi chậm. chất vải ok, mặc mát. mn nên mua nhé. 	Service	0	positive
+78#110#0	chất liệu:onr màu sắc:đúng đúng với mô tả:đúng chưa giặt nên kb có nhão k :(( nhưng ship cẩn thận. đíng gói ok	Service	0	positive
+47#84#0	màu sắc:xanh đúng với mô tả:đúng chất liệu:mát giao hàng nhanh đóng gói rất cẩn thận còn chất lượng thì tuyệt vời mặc siêu mát dáng áo rất đẹp.	Service	0	positive
+41#51#0	áo vải mềm, màu đẹp, thoáng mát from đẹp ship nhanh shop hay bị hết size	Service	0	positive
+60#198#0	mình đã mua vài lần ở shop, chất vải áo mát mặc mùa hè hợp, ban đầu mình mua size m nhưng bị chật, có phản hồi và shop cũng hỗ trợ đổi lại size rất nhiệt tình, rất thích phong cách làm việc của shop	Service	0	positive
+0#34#0	shop đóng gói đẹp, giao hàng nhanh. chất liệu vải khá dày dặn, áo đẹp. đúng màu, đúng size. đủ số lượng.	Service	0	positive
+60#131#0	chất liệu:vải thun màu sắc:giống mô tả đúng với mô tả:giống giao hàng nhanh, đóng gói cẩn thận, shop có cho đổi trả khi mặc bị chật,	Service	0	positive
+0#35#0	shop nhiệt tình , gói hàng siêu ưng . đặc biệt là áo , chất vải siêu đẹp mà ở ngoài bán không bao giờ dưới 200k , tuy nhiên form áo hơi bé , nên nhích lên 1 size là oke .	Service	0	positive
+53#103#0	chất lượng áo rất ok mặc rất mát. giá cả lại rẻ nữa. mua cho ông mà shop tvan đúng sz và rất nhiệt tình	Service	0	positive
+27#65#0	Màu sắc:chắc là nâu dữ rồi Giao sai màu, đặt màu nâu giao màu xám, áo siêu mỏng, tệ	Service	2	negative
+30#61#0	hàng tốt chất lượng tuyệt vời giao hàng nhanh ship nhiệt tình	Service	0	positive
+75#104#0	chất liệu:ok đúng với mô tả:ok màu sắc:ok hình ảnh chỉ mang tính minh hoạ. đóng gói tốt. giao hàng nhanh	Service	0	positive
+132#147#0	ban đầu mình thấy giá còn chả kì vọng gì cơ . nhưng ai ngờ nhận đc hàng nó còn tuyệt vời hơn cả giá tiền ấy , chất mát rất đáng thử giao hàng nhanh .	Service	0	positive
+36#70#0	áo chất đẹp, dày dặn , không nóng , đóng gói hàng vừa đẹp vừa kĩ lưỡng , sẽ chăm chỉ mua đồ của shop	Service	0	positive
+0#11#0	Giao nhanhc ao đẹp, chất cottong, canh đc sale nên mua trải nghiệm, mà công nhận rẻ đẹp, tag mag hộp đầy đủ, mua nha mn	Service	0	positive
+42#59#0	ok trong tầm giá luôn chất liệu miễn bàn, tư vấn nhiệt tình	Service	0	positive
+31#46#0	Chất liệu:vải coton Màu sắc:ổn Hàng giao nhanh, áo đẹp, sờ mềm tay, độ dày vừa phải. Form áo khá to với 1m58, 48kg nha.	Service	0	positive
+120#190#0	xịn xò con bò lắm luôn mn ơi. không tin với giá 99k mà nhận được cái áo có chất vải và cách đóng gói chỉnh chu đến vậy. cách phục vụ của shop cũng rất ư là tốt và chu đáo! cho shop 5 sao nha . mọi người ai còn phân vân thì nên mua	Service	0	positive
+34#236#0	áo đẹp, màu sắc áo như quảng cáo; shop đóng gói hàng nhanh, trả lời tn thân thiện, nhiệt tình, mình đặt nhầm size áo liên hệ shop thì shop rất nhiệt tình đổi cho mình; thiệt sự shop làm việc rất rất rất có tâm luôn á. sẽ tiếp tục ủng hộ	Service	0	positive
+0#25#0	Thời gian giao hàng nhanh giá rẻ còn được tặng thêm tất rất ok nè	Service	0	positive
+15#25#0	hàng đẹp, mát, giao nhanh. tuy nhiên hơi ít màu, mình muốn mua thêm nhưng chỉ có 4 màu.	Service	0	positive
+63#131#0	chất liệu:thun lanh màu sắc:xanh đúng với mô tả:dung voi mo ta hàng giao nhanh thật, mình đặt t7 mà t2 đã giao tới , ngoài mong đợi , mình mua thử 2 loại vải , nhận thấy loại 349k vải đẹp và dày hơn loại sale 159k	Service	0	positive
+32#64#0	vải đẹp, mát, mỏng, size chuẩn, đóng gói cẩn thận nên mua nha mn	Service	0	positive
+0#36#0	đầu tiên mở ra thì bao bì mẫu mã đẹp . vải ok . màu sắc đẹp . nói chung chất lượng hợp với giá tiền . sẽ ủng hộ shop nhiều lần tới	Service	0	positive
+0#122#0	thời gian giao hàng nhanh. chất lượng sản phẩm tốt. shop rất có tâm. chúc shop bán được nhiều hàng. cảm ơn shop rất nhiều.	Service	0	positive
+94#108#0	mua hàng lần 2 rồi, rất ok , chất vải đẹp, đáng mua, sẽ ủng hộ shop lần nữa, hàng giống hình. cho shop 5 sao	Service	0	positive
+0#23#0	shop giao hàng đúng hẹn, áo chất đẹp mặc mát, giá hợp túi tiền cho hs sv. áo đẹp đã mua ủng hộ shop 2 lần. đánh giá shop 10đ	Service	0	positive
+0#15#0	giao hàng nhanh , chất liệu ok lắm nhé, nên mua	Service	0	positive
+0#15#0	giao hàng nhanh mua lúc sale giá hạt rẻ mà chất lượng quá là ổn mặc nhẹ chất mát	Service	0	positive
+25#46#0	Sản phẩm đúng như mô tả, đóng gói hàng kỹ càng, giá cả phù hợp và giao hàng nhanh chóng	Service	0	positive
+15#118#0	ui xịn thật sự.lần đầu tiên mua áo đc đóng trong cái hộp nhìn sang hẳn.lại còn đc tặng nước rửa tay và voucher lần sau. về chất áo mát lạnh, ko chỉ thừa.mặc okela luôn.đúng hãng cần tìm.	Service	0	positive
+127#160#0	Màu sắc:hồng pastel Đúng với mô tả:đúng Áo xinh nha mng, mình lười chụp lại chứ vải k bị quá dày hay quá mỏng, mặc mát dễ chịu giao hàng nhanh đóng gói cẩn thận nên mua nhé ạ,	Service	0	positive
+0#40#0	shop giao hàng nhanh như 1 cơn gió lun ạ. mới đặt chiều hqa mà nay đã nhận đc hàng rùi nè. yêu shop nhìu nà. áo chuẩn đẹp nhé ace ơi. với giá này thì k còn gì để chê nữa đâu ạ. 	Service	0	positive
+17#64#0	áo chất mịn đẹp. giao hàng khá nhanh. đóng gói sản phẩm cẩn thận.	Service	0	positive
+0#15#0	giao hàng nhanh chất lượng tốt sẽ mua lại cảm ơn shop nhé!	Service	0	positive
+0#54#0	shop gói hàng đẹp chắc chắn. mua đi tặng được luôn nhe đồ chất ok. chưa mặc nên chưa biết ntn	Service	0	positive
+60#101#0	Màu sắc:đúng Chất liệu:đúng Đúng với mô tả:đúng Áo đẹp lắm, shop giao hành nhanh, sẽ ủng hộ shop tiếp	Service	0	positive
+45#73#0	màu áo cũng đẹp, không nhăn và rất mát nhaa, bao bì đóng gói rất có tâmun	Service	0	positive
+0#15#0	giao hàng nhanh mà chất vải áo nóng cực thôi thì tiền nào của đấy 	Service	0	positive
+15#45#0	áo vải đẹp. xử lý đơn hàng và giao hàng nhanh. đã mua lần t2. lần trước mua màu be có ảnh anh ny mang. m65 57kg mang size l vừa đẹp. rcm nên mua ạ.	Service	0	positive
+48#120#0	chất liệu:thun đúng với mô tả:đúng màu sắc:xanh shop đóng gói đẹp, cẩn thận, giao đầy đủ sản phẩm. giao hàng nhanh chóng. cảm ơn shop!	Service	0	positive
+4#14#0	đẹp giao nhanh	Service	0	positive
+0#20#0	giao hàng siêu nhanh vải áo đẹp màu như hình mặc thoải mái mà mát lắm	Service	0	positive
+0#64#0	shop rất chu đáo. đóng gói đẹp. nhất là khoản cskh 100 điểm luôn. nhưng phom áo hơi to nên mọi người nhớ cân nhắc kỹ	Service	0	positive
+92#105#0	đúng với mô tả:có áo xương the black giao sai chất liệu:áo mỏng chất áo mỏng lắm nhma cx ổn giao sai 1 áo nhma giá này thì ổn có túi zip nhìn cx kelly thầm thì:)))	Service	2	negative
+66#92#0	Màu sắc:đen Đúng với mô tả:đẹp Hình in đẹp sắc nét, vải mặc mát , đóng góp rất rất đẹp lun ý	Service	0	positive
+34#61#0	áo giống hình, size mặc vừa luôn, shop đóng gói chuyên nghiệp.	Service	0	positive
+61#111#0	áo hơi bé so với size l . quần thì cũng khá bé . mình 65kg . nhưng bù lại nhân viên tư vấn tận tình khá là ok .	Service	0	positive
+65#94#0	hàng đẹp lắm mọi người vải mềm mịn nữa chứ.nên mua nha mọi người đợi hơi lâu tí nhưng hàng đẹp	Service	1	neutral
+70#92#0	chất liệu:tốt mua hàng nhiều lần ở shop rồi. chất lượng sản phẩm tốt, chăm sóc khách hàng ok. mọi người nên mua hàng nhé.	Service	0	positive
+46#90#0	màu sắc:đẹp đúng với mô tả:đúng chất liệu:tốt thời gian giao hàng nhanh, đóng gói cẩn thận, chất vải mềm mát, ko có chỉ thừa, nên mua ạ	Service	0	positive
+25#117#0	sản phẩm y hình, vải mát hỗ trợ đổi trả chất lượng tư vấn nhiệt tình, cảm ơn shop sẽ ủng hộ lần sau, giao hàng nhanh.	Service	0	positive
+44#77#0	chất vải mát, mặc mùa hè thoải mái. áo đẹp. giao hàng nhanh, shop phục vụ tốt 	Service	0	positive
+123#152#0	chất liệu:đúng màu sắc:đúng áo đúng với hình ảnh, chất lượng vải mát, from ôm, màu trắng bị dơ ở phần dưới cổ, giặt ko ra, đóng gói bình thường đơn giản, mặc được chứ ko thích lắm.	Service	2	negative
+0#32#0	mua màu kẻ vàng mà gửi màu trắng và nhìn vải ko giống ,tay áo ngắn	Service	2	negative
+9#29#0	áo đẹp , nhưng phục vụ ko tốt giao hàng nhanh nói chung là ok jam	Service	2	negative
+51#66#0	màu sắc:chuẩn đúng với mô tả:đúng chất liệu:tạm ổn hàng giao nhanh, áo đẹp ổn áp hợp giá tiền 	Service	0	positive
+32#60#0	hình ảnh mang tính chất nhận xu,giáo hàng lâu,giáo nhầm nhà.	Service	2	negative
+59#78#0	Xinh lắm luôn, chất vải mát tay, dày, hình in thì siêu đẹp Giao hàng nhanh nữa	Service	0	positive
+18#59#0	hàng giống mô tả, đóng gói chắc chắn, giao hàng nhanh chóng, chất lượng với giá thế này là vượt trội, sẽ ủng hộ thêm các sản phẩm khác của shop. sản phẩm phù hợp giá tiền	Service	0	positive
+49#62#0	Chất liệu:cotton Áo đẹp chất liệu bền ko bị gião giao hàng lâu mua sale còn 96k	Service	2	negative
+0#64#0	Thời gian giao hàng rất nhanh Đóng gói sản phẩm đẹp và chắc chắn ơi	Service	0	positive
+72#97#0	chất liệu:cotton màu sắc:màu trắng sản phẩm đẹp, vải được, mặc vừa đẹp, shop chuẩn bị hàng nhanh.	Service	0	positive
+63#78#0	chất liệu:vai màu sắc:den đúng với mô tả:dung áo đẹp, mặc mát, giao hàng nhanh, sẽ ủng hộ tiếp, highly recomend	Service	0	positive
+109#142#0	màu sắc:tuyệt đúng với mô tả:đúng chất liệu:hơi mỏng nhưng mát giao size m mà màu đen nhỏ màu trắng to như l nhận viên hỗ trợ không nhiệt tình anh em lưu ý ưng cái đen nhưng ko hài lòng với cái trắng	Service	0	positive
+98#132#0	- mua cái thứ 4 rồi. lần này chọn màu trắng, vẫn cứ là hài lòng, áo mặc đẹp, chuẩn form, vải tốt, shop vẫn tặng thẻ đt 10k. yêu shop	Service	0	positive
+24#63#0	sản phẩm tốt.. giá rẻ.. giao hàng nhanh.. shop phục vụ tốt. 5*!	Service	0	positive
+0#38#0	mình mua hàng ở shop 2 lần, giao nhanh. vải chất bao đẹp mát, co giãn, chuẩn size. lấy nhầm size ib cho shop nch rất nhiệt tình và đổi size. god chop shop sẽ ủng hộ tiếp. . trên cả tuyệt bời	Service	0	positive
+0#15#0	giao hàng nhanh, mua rộng hơn 1 size mặc rất đẹp, chất vải tốt. sẽ ủng hộ tiếp	Service	0	positive
+0#73#0	shop đóng gói cẩn thận lắm một hộp của shop thêm hộp cârton bên ngoài nữa chất liệu vải mềm mịn lắm luôn mình săn dk sale 10/10 nên quá ok nên mua nhé mn	Service	0	positive
+12#35#0	màu sắc:nâu đặt màu nâu giao màu be .	Service	2	negative
+98#138#0	vải colmate rất đẹp và mát nhưng có cái áo màu trắng, mình vừa khui hàng đã thấy áo bị lủng 1 lỗ, mong shop khi giao hàng kiểm hàng kỹ hơn, mình thấy thất vọng	Service	2	negative
+48#104#0	lần thứ 2 mua của shop vẫn mẫu này và rất ưng ý giao hàng nhanh chóng và chuẩn đúng size và màu mình đặt, tặng shop 5* hàng không khác gì hàng mấy shop chỗ mình bán 250-350k/1 chiếc.. quá rẻ 	Service	0	positive
+34#52#0	mua lần thứ 2 vẫn ưng về sản phẩm.đóng gói hộp riêng.đúng size đúng quà.5 sao	Service	0	positive
+16#65#0	áo xinh giá tốt giao nhanh nhưng đóng gói hơi sơ sài nên cho 4* ạ	Service	2	negative
+58#82#0	hàng đẹp, mình mua tặng ny mà chưa mặc nên chưa biết ntn, giao nhanh, đóng gói đẹp	Service	0	positive
+107#136#0	Màu sắc:đen Đúng với mô tả:đúng Chất liệu:. Áo đẹp đúng như hình, đóng gói sản phẩm cẩn thận, hình in đẹp, thời gian giao hàng khá nhanh	Service	0	positive
+100#117#0	chất liệu:bt đúng với mô tả:ko đúng lắm màu sắc:bt áo khá đẹp phom áo cũng ok, nhưng hơi sai sai tí,gói hàng cân thận,nói chung cũng đc	Service	0	positive
+31#69#0	vải áo siêu đẹp mát giá hợp lí shiper thân thiện lắm ạ sẽ ủng hộ tiếp	Service	0	positive
+51#66#0	Màu sắc:trắng Chất liệu:cotton Đúng với mô tả:đúng Giao hàng nhanh chất áo đẹp hình in đẹp giá sale hợp lí shipper thân thiện tuy nhiên cổ áo bo chật quá mong shop khác phục ạ	Service	0	positive
+66#81#0	Chất liệu:vai thun co dan Màu sắc:hong pastel Đúng với mô tả:dung Hàng giao nhanh mà chất lượng lắm mng oi quá đỉnh luôn ý chất vải tuy k quá dày nhưng mặc rất thoải mái vừa vặn và giá thành rẻ ạ màu hồng xinh lắm ạ rcm nha	Service	0	positive
+0#22#0	giao hàng khá là nhanh áo đẹp, chất vải mỏng và mát , chất vải cũng đẹp	Service	0	positive
+0#45#0	shop chuẩn bị hàng cẩn thận,giao khá là nhanh. áo vải rất là mịn, đẹp. bố mình rất thích và khen mãi . vừa rẻ vừa đẹp . cho shop  điểm . sẽ ủng hộ tiếp ạ	Service	0	positive
+37#56#0	Áo rất đẹp nha mọi người nên mua thử giáo hàng khá nhanh gsjjbehshnhgwjb	Service	0	positive
+110#132#0	đúng với mô tả:đúng với ảnh chất liệu:mát gói hàng ok, gửi hàng tương đối nhanh, vải mặc mát, giao đúng size, chăm sóc khách hàng ok, giá cả hợp lí, sẽ ủng hộ lâu dài	Service	0	positive
+18#73#0	đúng với mô tả:ko đặt hình hoa shop giao về hình vi khuẩn ko thích xí nào và ko có lần sau mua lại	Service	2	negative
+43#62#0	lần đầu trải nghiệm tại shop áo thì giá rẻ shop thì nhiệt tình mà áo đẹp lắm nha quý zị tết đến gần rồi, nên trải nghiệm để mang và tặng thì đỉnh sẽ ủng hộ lần tới cảm ơn shop	Service	0	positive
+0#34#0	đóng gói cẩn thận, giao hàng nhanh. chưa sử dụng nên chưa biết như nào.	Service	0	positive
+0#55#0	giao hàng nhanh chóng, đóng gói khá kỹ, đầy đủ số lượng. Sản phẩm ổn áp, form siêu rộng, bf mình cao 1m72 nặng 69kg bận như bơi trong mẫu này :)))	Service	0	positive
+44#81#0	chất lượng sản phẩm tốt, giá cả phải chăng, đóng gói cẩn thận và giao hàng nhanh.	Service	0	positive
+0#70#0	Giao hàng nhanh sản phẩm đúng ,đủ , chất lượng đánh giá 5 sao cho shop	Service	0	positive
+38#108#0	đặt 2 cái áo chất đẹp giá rẻ màu đẹp. mỗi tội giao hàng lâu thật sự quá chán với bên giao hàng này của shope	Service	2	negative
+43#67#0	chất liệu:vải màu sắc:ok đúng với mô tả:ok giao hàng hơi chậm 1 xíu, vải ok nha phù hợp giá tiền. áo hơi bẩn 1 chút shop khắc phục nhé	Service	2	negative
+71#90#0	màu sắc:đúng 29k cho 1 áo có chất liệu như vậy theo tôi thấy là hợp lí ship hàng nhanh lắm sẽ có lần ủng hộ sau	Service	0	positive
+30#68#0	áo xin sò nhé. review thực tế đóng gói rất cẩn thận, giao hàng nhanh	Service	0	positive
+141#173#0	còn đang sợ về k kịp mà chiều hôm trước đặt sáng hôm sau giao luôn  đỉnk thực sự. chất liệu k chê vào đâu được, còn form áo thì chưa mặc thử bộ phận cskh cũng rất chất lượng! cảm ơn colmate lần tới sẽ mua tiếp cho bố nhưng mua xong rồi shop lại sale rẻ nên hơi buồn 	Service	0	positive
+0#16#0	hàng giao nhanh,đúng màu,đúng mẫu ,đúng size ,săn sale nên giá rẻ	Service	0	positive
+0#55#0	giao nhanh đóng gói đẹp. hàng new nguyên tem nguyên mác. sẽ quay lại ủng hộ shop 	Service	0	positive
+15#39#0	chất liệu:thun giao hàng nhanh lắm luon. áo đẹp chất vải đẹp mát lắm luon ạ. mua của shop nhiều lần rồi rất hài lòng..	Service	0	positive
+0#14#0	giao khá nhanh, phù hợp với giá tiền. chật liệu khá ổn, oke. hh	Service	0	positive
+79#89#0	chất liệu:thun màu sắc:xanh bạc hà, xanh aqua áo rất đẹp, chất thun rất mát và chuẩn form. mặc đi tập cũng ok luôn. mình đặt nhầm size nhưng được shop đồng ý đổi trả rất nhiệt tình	Service	0	positive
+14#76#0	áo đẹp lắm ạ, shop giao hàng nhanh ghê luôn á, lần sau sẽ ủng hộ shop tiếp k	Service	0	positive
+0#67#0	giao hàng nhanh cực kì, 1 ngày là có ngay đóng gói sản phẩm kĩ, đẹp áo đẹp, mà vải mặc có vẻ nóng vì không rút mồ hôi nhưng chất lượng thì khỏi chê . sẽ ủng hộ tiếp ạ.	Service	0	positive
+0#22#0	shop giao đúng yêu cầu, hàng chất lượng tốt, vải đẹp, dày, mát, lần đầu mua hàng của shop thấy rất hài lòng, sẽ tiếp tục ủng hộ shop lần sau, cho shop 5 sao	Service	0	positive
+0#43#0	đóng gói sản phẩm chắc chắn,giao hàng nhanh,chất lượng rất tốt	Service	0	positive
+81#103#0	Đúng với mô tả:đúng Màu sắc:be Chất liệu:coton Giao nhanh áo đẹp vải ngon mê cực shop tư vấn nhiệt tình bo cổ đẹp nên mua nha sẽ ủng hộ shop tiếppp	Service	0	positive
+13#123#0	Màu sắc:hồng cưng lắm Tr ơi tui cực thích mấy chị nv bên shop live lun chị nào cx thân thiện hêtd á như v thôi đã ưng lắm r nhưng áo mặt đẹp lắm lun màu cx xinh nhưng hong thích tag cao xu ở cổ cho lắm nó mà màu trong suốt sẻ đẹp hơn mong shop khắc phục	Service	0	positive
+75#96#0	màu sắc:đen, xanh đúng với mô tả:đúng hàng đúng mô tả, chất nhẹ, mát, mềm. giao hàng nhanh chóng. hình ảnh mang tính chất nhận xu	Service	0	positive
+66#86#0	Chất liệu:coton Đúng với mô tả:đúng với hình ảnh Màu sắc:be suawx Shop giao hàng nhanh VẢi hơi mỏng nhưng so với tầm giá là ổn	Service	0	positive
+26#59#0	mình đặt size hơi rộng và shop đã hỗ trợ đổi rất nhiệt tình, cảm thấy rất hài lòng về sản phẩm và dịch vụ của shop, tặng shop 5*	Service	0	positive
+0#122#0	shop giao nhầm áo nhầm cả size đặt l mà gửi xl trong đơn hàng có quà tặng mà khi lấy hàng thì không thấy đâu hơi thất vọng 	Service	2	negative
+92#112#0	Chất liệu:cotton Đúng với mô tả:ok Màu sắc:xám ghi Áo mỏng nhẹ nha. Với giá này thì ok rồi. Shop giao hàng nhanh. From rộng thoải mái	Service	0	positive
+65#77#0	màu sắc:xanh navy đúng với mô tả:giống hình áo đẹp, chất vải ok, đóng gói đẹp, mình thích những shop gói hàng bằng hộp lắm, mình mua cho ba, giao hàng nhanh	Service	0	positive
+29#68#0	chất liệu ổn mặc thoáng mát, giao hàng cũng rất nhanh mình khá ưng ý	Service	0	positive
+67#89#0	đồ colmate thì xịn òi, vải mát ko bị nhàu khi giặt, dùng đc bền và đóng gói rất chỉnh chu	Service	0	positive
+16#41#0	áo rất đẹp nha. đóng hộp cũng rất lịch sự. nói chung là ưng nha	Service	0	positive
+46#69#0	shop đóng hàng cẩn thận lắm, hàng chất lượng, mà shop cũng chu đáo cơ 	Service	0	positive
+49#100#0	đúng với mô tả:đúng màu sắc:nâu chất liệu:k biết giao hàng nhanh,đóng gói cẩn thận,shiper thân thiện,hàng đúng như mong đợi	Service	0	positive
+64#108#0	Màu sắc:giống hình Chất liệu:thun lạnh Đúng với mô tả:chuẩn Tốt giao hàng nhanh ,đóng gói kĩ càng ,giống ảnh	Service	0	positive
+0#28#0	cám ơn đã gửi hàng rất nhanh, chất mát đẹp sẽ ung hộ nhiều hơn colmate	Service	0	positive
+0#55#0	hàng đẹp lắm nha shop. đóng gói cẩn thận gửi hàng nhanh. áo chất mềm mát. nói chung là rất đẹp rất hài lòng mà giá lại rẻ vô cùng. sẽ ủng hộ shop dài dài	Service	0	positive
+104#125#0	nhận hàng mà bất ngờ luôn.giá rẻ mà được áo đẹp như vậy.lần đầu mua thấy chất đẹp sẽ ủng hộ shop tiếp.a shiper thì nhiệt tình	Service	0	positive
+72#115#0	đã mua lần 2, màu sáng tươi đẹp. áo mặc mát. được tặng thẻ cào 10k nữa. cảm ơn shop. chúc shop mua may bán đắt nha!	Service	0	positive
+64#79#0	chất liệu:tốt màu sắc:đẹp đúng với mô tả:đúng đúng vs hinh ảnh. giao hàng nhanh. áo đẹp so vs giá tiền	Service	0	positive
+12#40#0	sản phẩm ok giao hàng nhanh đóng gói đẹp, chắc chắn nên mua nha mn	Service	0	positive
+8#47#0	áo đẹp, shop đóng gói cẩn thận, giao hàng nhanh. màu giống hình ảnh, chất vải đẹp.	Service	0	positive
+23#63#0	áo đẹp k sợi chỉ thừa, giao hàng nhanh! shop tư vấn nhiệt tình.	Service	0	positive
+81#120#0	chất liệu:oke màu sắc:oke đúng với mô tả:oke hàng giống hình, mặc rất thoải mái, shop giao hàng nhanh. cảm ơn shop nhiều	Service	0	positive
+0#19#0	Sản phẩm giao nhanh , áo đẹp , form rộng , phù hợp giá tiền , áo dính dơ chút xíu .	Service	0	positive
+338#419#0	màu sắc:đen chất liệu:không biết đúng với mô tả:không biết chưa bóc nên không biết như nào nhưng chắc là ổn, giá rẻ, ship nhanh shipper thân thiện đóng gói cũng ổn ( hình ảnh mang tính chất nhận xu ) không biết ảnh có giống trên hình không nhưng chắc cũng có giống một tí, vải hình như hơi mỏng một tí nhưng mà mặc chắc mát và thoải mái, được cái shop này giao nhanh lắm hôm nay mới hôm thứ ba mà đã có hàng về ngay rồi	Service	0	positive
+59#84#0	chất vải dày hơn các loại khác, nhưng vì vậy mình mới ưng. bị cái giao hàng lâu quá.	Service	2	negative
+26#68#0	hàng vải mát, co giãn nhẹ giao hàng lâu quá lâu -.- mất tới 5-6 ngày	Service	2	negative
+143#207#0	Chất liệu:đúng Màu sắc:be Đặt XL mà shop giao size M :(. Dù mặc vẫn vừa nhưng hơi bị ôm. Chất vải thì thích lắm mà mắc vụ size k vote 5* được. Ship đến lúc mình bận nên k check được hầy. Mong shop chú ý giúp :(.	Service	2	negative
+36#84#0	Màu sắc:xám Áo form rộng thoải mái, shop giao nhầm size có hỗ trợ đổi trả đàng hoàng	Service	0	positive
+47#83#0	Đúng với mô tả:đúng Áo xinh nhé, vải xịn nhoa, đóng gói đẹp chu đáo nhìn cũng thích	Service	0	positive
+0#60#0	shop đóng gói rất cẩn thận và chắc chắn, giao hàng khá nhanh 	Service	0	positive
+62#78#0	giao hàng nhanh rất thích chất liệu áo, áo rất đẹp lại rẻ nữa gói hàng rất đẹp	Service	0	positive
+11#45#0	Màu sắc:be Đóng gói cẩn thận, giao hàng nhanh, chất vãi mát hình in đẹp	Service	0	positive
+15#48#0	áo đẹp vải mát giao hàng nhanh đóng gói cẩn thận co 5 sao js ib sie ơn di ji óbsjoxdi hi s in hxn in diosowkxgiw xĩ ok	Service	0	positive
+43#60#0	đúng với mô tả:đúng màu sắc:nâu hàng đẹp , đóng gói cẩn thận , nhưng hơi mỏng nha , mỏng lắm luôn . chữ nổi nha mọi người , cũng được	Service	0	positive
+45#60#0	Màu sắc:be Đúng với mô tả:đúng Chất liệu:vải Giao hàng nhanh, chất vải không quá dày, mặc vừa..	Service	0	positive
+143#198#0	giao hàng nhanh, chất vải mát đúng mô tả, shop nhiệt tình chi đáo, mua được giá sales mà chất lượng như vậy thì k mong gì hơn, sẽ ủng hộ shop. ak mà đóng gói đẹp nhé! có miếng lót để giữ form áo nữa	Service	0	positive
+33#66#0	vải đẹp lắm. giá vô cùng hợp lý. shop đóng gói cẩn thận. sẽ ủng hộ. nên mua nha	Service	0	positive
+108#209#0	K nghĩ vs giá này mà đc chất vải, form áo đẹp v luôn, hơn hẳn 1 số local brand khác. Cổ áo dày dặn đẹp nha, giao hàng nhanh quá tr, 1 ngày là tới. Mong shop luôn giữ chất lượng như này mình sẽ quay lại ủng hộ.	Service	0	positive
+0#110#0	mình đặt sản phẩm bị sai size do đặt đồ cho cha nên là không biết được colmate nhiệt tình đổi trả 100 điểm nha	Service	0	positive
+49#64#0	Màu sắc:pink Chất liệu:k biet Đúng với mô tả:80% Giao hàng nhanh, chất nóng và vải mỏng. Trong tầm giá thôi . Ai có đkien mua loại đẹp hơn mùa hè mặc mát	Service	0	positive
+8#81#0	Áo xinh đóng gói cẩn thận giao hàng nhanh nhìn bao bì shop khá đầu tư về sản phẩm	Service	0	positive
+78#159#0	sry mình dùng k đúng ảnh vì mua cho bố nên k chụp được. mà bố bảo đồ oke nha. hơn nữa chks bên shop làm rất tốt. mình mua nhầm size được đổi rất là lẹ luôn nha. nói chung ưng ý hài lòng	Service	0	positive
+22#61#0	áo vải đẹp, mỏng mát. đóng gói đẹp lịch sự, sẽ ủng hộ lần sau ..	Service	0	positive
+0#15#0	giao hàng nhanh, chất lượng sản phẩm tốt. chất liệu áo thoáng mát, sẽ ủng hộ thêm	Service	0	positive
+66#83#0	màu sắc:đen áo chất vải mỏng mà vs giá vậy là áo cx đẹp đáng tiền giao hàng hơi lâu	Service	2	negative
+45#75#0	Đúng với mô tả:oke Màu sắc:oke Chất liệu:oke Hàng giao nhanh đóng gói cx ổn nch là cũng oce nên mua kiểu như là nên mua í nên là mn mua đi nha haha đánh giá nhận xu nên là đừng để í nhé hehe ờ nma nó oke nha oke nha oke	Service	0	positive
+32#68#0	quá đẹp tuyệt vời luôn á giá rẻ tư vấn lại hợp lia nừ ưm mua 2c luon	Service	0	positive
+49#84#0	size hơi rộng xíu, mn chọn size nên hỏi kĩ shop. sp đóng gói vô cùng có tâm. nên mua. hình và video mang tc nhận xu	Service	0	positive
+21#82#0	sản phẩm chất lượng, đẹp nhưng giao hàng hơi lâu, shop tư vấn cũng rất nhiệt tình.	Service	1	neutral
+75#90#0	màu sắc:đen chất liệu:poly đóng hộp đẹp.sản phẩm chất lượng với giá tiền , giao hàng nhanh, săn sale giá cả phải chăng 135k	Service	0	positive
+0#79#0	giao hàng rất nhanh. shop rất chu đáo nhiệt tình. hỗ trợ đổi trả các thứ rất ok. đáng mua lắm ạ. hàng chất đẹp phù hợp giá tiền	Service	0	positive
+108#129#0	Màu sắc:màu hồng Chất liệu:chất áo dày dặn không có chỉ mặc mát.rất thích Đúng với mô tả:sản phẩm tuyệt vời Shipper dễ thương nữa	Service	0	positive
+70#98#0	chất liệu:thun đúng với mô tả:mỏng hơn trong hình màu sắc:giống mô tả giao hàng nhanh đóng hộp đẹp vải áo mỏng hơn tưởng tượng khi nhìn hình	Service	0	positive
+41#67#0	áo chất cũng ngon k mát bằng loại active hỗ trợ đổi size nhiệt tình 1m7 58kg mặc l là siêu đẹp	Service	0	positive
+0#15#0	giao hàng nhanh vải thi ok. sẽ tiep tuc mua do cua shop nua	Service	0	positive
+0#15#0	shop nhiệt tình. đã mua nhiều lần của shop. thấy rất hài lòng. tặng shop 5 sao, giao đúng màu đúng size	Service	0	positive
+0#15#0	giao hàng nhanh, sản phẩm chất lượng, đóng gói kỹ, đáng tiền. hàng colmate thì luôn luôn chất lượng, logo nổi rất đẹp, màu dễ phối đồ	Service	0	positive
+0#272#0	thiếu áo trắng yêu cầu shop hoàn tiền áo trắng về cho mình shop phục vụ kém không hoàn tiền khi thiếu mất 1 cái áo có 50k cũng k hoàn trả nt thì k trả lời ngày thứ 2 k 1 câu nói nào online dc 1 tiếng k trả lời tin nhắn mình để 1 * luôn k sửa lại dc nữa nhé làm ăn thất đức	Service	2	negative
+25#40#0	chất lượng sp tuyệt vời, giao hàng nhanh, áp dụng voucher nên mình mua có 48k thoai mà nó đẹp ngoài sức tưởng tượng á tuy nhiên thì có một chút chỉ thừa	Service	0	positive
+11#26#0	màu sắc:be giao hàng nhanh, form kh đẹp, kiểu áo to nhưng cổ lại quá nhỏ	Service	0	positive
+40#62#0	áo đẹp, vải rất mát, vải đẹp đáng tiền, đóng gói ổn, sẽ ủng hộ	Service	0	positive
+0#16#0	giao hàng nhanh,hàng chất đẹp ,phom chuẩn ,đường may chắc chắn,giá rẻ , sẽ mua thêm 1c nữa,có thiệp rất xinh và chuyên nghiệp , cho shop 10 sao luôn	Service	0	positive
+46#80#0	chất liệu:ok sản phẩm giống mô tả, màu chuẩn. giao hàng nhanh, đóng gói cẩn thận	Service	0	positive
+60#75#0	mình mua lần 3, thấy lần 2 đẹp nên người quen nhờ mua thêm. giao hàng nhanh, vải mặc mát.	Service	0	positive
+58#137#0	màu sắc:trắng chất liệu:cottong đúng với mô tả:1 áo ko ổn mua 2 áo đôi nhma shop giao về 1 áo bị lỗi 1 áo giống hình nhma mua cùng 1 shop	Service	2	negative
+0#19#0	giao hàng rất nhanh, áo màu đẹp, giặt không hề bị nhăn mặc lên lại rất đẹp nữa. mình rất ứng và mua được với giá sale thật tốt. hình ảnh chỉ mang tính chất nhận xu	Service	0	positive
+21#74#0	áo đẹp chất mềm mịn, túi đựng hàng của shop rất chỉn chu từ trong ra ngoài. nói chung là nhận hàng rất ưng với giá tiền chiếc áo ạ.	Service	0	positive
+70#103#0	áo rất đẹp vải thì xịn xò và mát. rất hài lòng với sản phẩm của shop. chỉ có điều giao hàng hơi lâu xíu. nhưng hàng ok thì những thứ khác không quan trọng	Service	1	neutral
+52#209#0	sản phẩm khá ok nha chất vải khá mát ko xù lông giao hàng khá nhanh đặt 1 ngày giao rồi đóng gói cẩn thận nè hên nhận về ko bị gì cho shop 5 sao nha để lần sau lên ủng hộ shop tiếp định mua thêm mấy màu nữa nè mẫu kia chọn size hơi lớn kakak	Service	0	positive
+46#84#0	Áo hợp với giá tiền nhìn cũng chất lượng lắm. Shop trả lời siêu nhanh siêu dễ thương	Service	0	positive
+24#39#0	Chất liệu:ok Màu sắc:be Giao hàng nhanh. Làn sau sẽ ủng hộ shop tiếp. Áo size L. Màu be	Service	0	positive
+0#15#0	hàng giao nhanh, đúng size, đúng màu, chồng mình rất thích. nghe bảo nhận được thẻ cào 10k nữa, hi vọng shop thấy đánh giá của mình….	Service	0	positive
+89#106#0	Áo đẹp chất mát, đáng tiền hơn áo 3158 mua 140-150k ở ngoài, nên mua nhé mn, rất là ưng. Đóng gói cẩn thận	Service	0	positive
+46#101#0	hình in của áo không giống với ảnh nha mn =)) dù hình in tốt nhưng shop lại cho ảnh không sai sự thật. chê	Service	2	negative
+0#29#0	hàng từ hà nội giao hcm nhanh. chất lượng tốt so với giá. ủng hộ ủng hộ	Service	0	positive
+103#128#0	Đúng với mô tả:đúng Màu sắc:trắng Chất liệu:không rõ mình 1m52 mặc hơi dài, chất áo ổn lắm luôn, xinh. shop đóng gói cũng ổn lắm	Service	0	positive
+47#60#0	Màu sắc:be Chất liệu:cotton Đúng với mô tả:yep Áo giao nhanh, chất ok, phần cổ hơi thô, chọn viền cổ khác, mềm và nhỏ hơn xíu sẽ ok hơn	Service	0	positive
+0#69#0	giao thực sự rất lâu, mk đặt 7-7 mà đến 15-7 mới nhận được hàng :)))) áo giặt hơi bẩn giặt qua chục nước vẫn ra màu đen, hình in không được sắc nét như đợt đầu mk mua	Service	2	negative
+33#68#0	sản phẩm chất lượng, mẫu mã đẹp, giao hàng cực kì nhanh, phục vụ tốt	Service	0	positive
+150#191#0	đúng với mô tả:sai màu sắc:xám chất liệu:cotton lần 2 mua size l và màu giống với lần 1 mà lần này sao size nó khác, to hơn so với lần 1 mà mình mua. không hiểu shop bán cho khách kiểu gì nữa	Service	2	negative
+18#55#0	hàng giống mô tả, shop giao đúng phân loại và rất nhanh, hi vọng bền	Service	0	positive
+16#31#0	Chất lượng tốt, giao hàng nhanh, áo mặc thích, màu cũng đẹp hình in đẹp	Service	0	positive
+0#31#0	giao hàng khá nhanh, chỉ 1 ngày. vải mát, áo may ok, giá tốt, phí vận chuyển cực rẻ. nếu có áo phối màu mình sẽ tiếp tục ủng hộ.	Service	0	positive
+77#116#0	Chất liệu:tốt okla Đúng với mô tả:đúng naha Màu sắc:hồng Áo okla lắm nha mn, đóng gói cẩn thận, giao hàng cũng nhanh, mặc rất đẹp	Service	0	positive
+0#27#0	shop giao hàng nhanh đầy đủ áo hơi mỏng , áo nâu màu hog giống ảnh lắm , nhưng với giá tiền này thì hog đòi hỏi j nhiều đc	Service	0	positive
+81#98#0	chất liệu:vải cứng màu sắc:màu be đúng với mô tả:cũng tạm ổn vải kiểu cứng cứng, chuẩn bị hàng lâu, cổ áo xấu, cũng tạm được chứ không phải xuất sắc	Service	2	negative
+81#111#0	shop đóng gói cẩn thận, vải áo đẹp, đường may chuẩn. form chuẩn, mn nên mua nha. shop trả lời tn rất nhiệt tình	Service	0	positive
+0#33#0	đóng gói cẩn thận giao hàng nhanh chất lượng thì tuyệt lắm lần thứ bao nhiêu mua rồi không nhớ rõ	Service	0	positive
+19#61#0	áo xinh lắm mn ơi, chất lượng màu sắc r đóng gói đều đẹp lắm, nên mua nha	Service	0	positive
+198#275#0	hàng đợt này của colmate chất lượng đi xuống thấy rõ. cùng là size l như những lần khác nhưng áo nhỏ hơn và ngắn hơn trước. chất vải ko như lần trước, nóng và mình mặc chưa đến 4 ngày đã bị xù lông trước giờ tin tưởng mua colmate rất nhiều nhưng lần này thật sự rất thất vọng. giá thành càng ngày càng lên nhưng chất lượng lại đi xuống	Service	2	negative
+0#94#0	lần đầu tiên mua đồ nam cơ mà chọn dc cái shop ưng ghê, reply tin nhắn cực nhanh dễ thương nữa, áo đẹp mình mở ra mà quên chụp h bỏ lại vào túi rồi lười mở ra nhưng mà rất đáng tiền . mua sale dc giá siêu hời. ns chung là lần sau sẽ tiếp tục ủng hộ shop.	Service	0	positive
+26#72#0	Quá xinh cho 1 chiếc áo , shop chăm sóc khách hàng rats chu đáo tận tình. Mng vô kua utng hộ shop đi sẽ không làm bạn thất vọng đâu. 100*	Service	0	positive
+41#93#0	chất liệu:đẹp màu sắc:giống hình áo đẹp, có box và card rất cẩn thận. 10 điểm cho sự đáng yêu. bố mình đi công tác rồi chưa thử đc nhưng chắc là vừa.	Service	0	positive
+95#165#0	áo sịn lắm ạ, lại rẻ nữa , nên mua nha mn, áo chất lượng cao ,ai mặc vào là có người yêu ngay, shop tận tình nữa, mình mua 2 lần thấy rất ổn, sẽ tiếp tục ủng hộ shop	Service	0	positive
+57#75#0	màu đẹp. không quá sáng cũng không tối. vải cũng ok. ^^. vận chuyển lâu :((	Service	2	negative
+63#92#0	ship hàng cũng nhanh. chất lượng cũng ổn, hạn sử dụng còn dài, đóng gói hàng sạch sẽ lịch sự chất lượng tốt. sẽ ủng hộ tiếp	Service	0	positive
+23#59#0	áo thì ok quần cũng ok nhưng shop k để ý cái áo trắng bị dơ :((	Service	2	negative
+27#67#0	chất liệu tạm ổn. nên mua. shop tư vấn nhiêt tình. giao hàng nhanh.	Service	0	positive
+23#47#0	đã nhận hàng rất ưng ý đóng gói cẩn thận đẹp ok dô hàng..	Service	0	positive
+30#103#0	chất lượng sản phẩm tuyệt vời đóng gói sản phẩm đẹp và chắc chắn shop nhận đổi màu áo dù đã đặt khá lâu	Service	0	positive
+78#142#0	màu sắc:đẹ0 đúng với mô tả:đúng chất liệu:mát, tốt bình thường lười đánh giá, mà shop nhiệt tình đổi hàng khi giao lộn, nên đánh giá 5 sao nha.	Service	0	positive
+55#72#0	Aoa đẹp, vải tốt, rất hài lòng về chất lượng sản phẩm, shiper thân thiện	Service	0	positive
+123#140#0	chất liệu:thoang mat màu sắc:xanh aqua đúng với mô tả:chất liệu vải tốt mặc rất thoáng, thoải mái chất lượng sản phẩm tốt, đóng gói cẩn thận. rất ưng ý. sẽ luôn ủng hộ colmate	Service	0	positive
+55#102#0	đúng với mô tả:đúng vs mô tả chất liệu:đẹp màu sắc:đen giao nhanh quá tr đặt hôm qua hôm nay đã ship r	Service	0	positive
+8#18#0	Áo xinh ship nhanh chất vải thích mê á nên mua nha form cũng xinh lắm	Service	0	positive
+68#83#0	Màu sắc:be Chất liệu:thun dày có vẻ sẽ hơi nóng Đúng với mô tả:đúng giao hàng nhanh sản phẩm cx khá là ổn nha shop rất chu đáo đó nha	Service	0	positive
+0#71#0	shop phục vụ nhiệt tình, đóng gói cẩn thận đẹp mắt, đổi trả hàng rất dễ, vải dầy, chất lượng cần phải sử dụng một thời gian mới biết, hy vọng là bền.. mình lỡ đặt màu đen rồi, gửi cho mình màu vàng gold đc ko	Service	0	positive
+117#281#0	mua hàng lần đầu tại shop, rất ưng ý! chất liệu áo mềm, mịn, thoáng mát, màu sắc đúng, đẹp. shop ship nhanh. hi vọng những lần sau này , shop vẫn luôn giữ phong độ uy tín, chất lượng ! vote 5* sẽ ủng hộ lại thêm nhiều lần nữa ah	Service	0	positive
+0#57#0	shop chuẩn bị hàng nhanh, quần đẹp giao đúng màu đúng mẫu, lần 2 mua lại ở shop không làm mình thất vọng	Service	0	positive
+64#84#0	Mình cao m55, 47kg mặc sz m vừa nha. Chất cũng mát hình in đẹp, shop giao hàng nhanh	Service	0	positive
+0#51#0	đã nhận được hàng, shop đóng gói và giao hàng nhanh, vải đẹp, giá rẻ!	Service	0	positive
+78#109#0	hàng tặng size l nên không có mặc được vì mình đặt box xl . áo phông chất đẹp shop nhiệt tình hỗ trợ đổi size	Service	0	positive
+70#114#0	hình ảnh mang tính chất nhận xu chất lượng sản phẩm phù hợp giá tiền, giao hàng nhanh, đóng gói cẩn thận chắc chắn	Service	0	positive
+33#50#0	chất vải tạm được, font ôm người shop phục vụ được	Service	0	positive
+0#34#0	giao hàng nhanh. đóng gói gọn gàng. form đẹp, vải đẹp mát có điều hơi mỏng	Service	0	positive
+37#54#0	áo chất liệu k đc đẹp lắm, có vết ố. giao hàng nhanhhh	Service	0	positive
+67#93#0	hình ảnh chỉ mang tính chất minh họa. mình thấy sản phẩm dùng tốt, đóng gói đẹp quá trời luôn. đem tặng người yêu là hợp lý luôn ấy	Service	0	positive
+0#15#0	giao hàng nhanh áo siu đẹp luôn nha vải mịn cực luôn i mình lười chụp hình thấy nhiều review trên nm tham khảo nha	Service	0	positive
+64#102#0	tạm được. áo dài quá. vải oke. săn sale và mã giảm nên còn 98k. giao hàng cũng nhanh. shop phục vụ tốt.	Service	0	positive
+62#100#0	áo siêu dày dặn đẹp nha, giao hàng lại nhanh, màu áo rất đẹp, gói hàng cẩn thận. shop rất nhiệt tình	Service	0	positive
+0#33#0	giao hàng nhanh đóng gói cẩn thận chất rất mát màu tối hơn mình nghĩ	Service	0	positive
+194#222#0	Màu sắc:hồng Màu đẹp nhưng màu pastel kiểu này hơi dìm da. T thích cổ tròn dáng cao hơn là cổ tròn rộng nên t thấy phần cổ ưng lắm. Chất thì khá nóng nhưng hút mồ hôi tốt. Tóm lại hợp giá tiền. Shop cskh tốt, áo giao nhanh	Service	0	positive
+56#73#0	đóng gói sản phẩm rất chắc chắn , áo rất đẹp ,đáng mua, shiper nhiệt tình,	Service	0	positive
+27#94#0	size không đúng, vải giãn. hỗ trợ thì hời hợt, có như không, tốn thời gian mà chẳng thu lại gì	Service	2	negative
+48#81#0	màu bên ngoài đậm hơn video chât liệu mỏng nhẹ, đóng gói cẩn thận giao hàng nhanh	Service	0	positive
+49#83#0	Màu sắc:kem Đúng với mô tả:dung Chất liệu:cotton Đóng gói cẩn thận, giao hàng nhanh, hình in sắc nét, màu đẹp, cổ áo hơi bé, form đẹp	Service	0	positive
+59#145#0	màu sắc:trắng đúng với mô tả:rất đẹp chất liệu:thun cá sấu shop dễ thương lắm luôn. đơn mình cần gấp nên shop tranh thủ đóng và gửi hàng cho mình. vừa nhận hàng là mình mở xem liền. phải nói ngoài sức tưởng tượng vì áo đẹp, vải đẹp và cả đường may luôn	Service	0	positive
+32#61#0	áo from k đẹp lắm, vải hơi mỏng nhưng shiper nhiệt tình lắm ạ	Service	0	positive
+48#67#0	Chất liệu:tốt Đúng với mô tả:đúng Màu sắc:trắng Giao hàng khá nhanh, mọi người nên mua, vải ổn không quá dày mà mặc cũng ko lộ đâu nha, m5 mặc qua mông á ai thích rộng thì mua nha.	Service	0	positive
+68#100#0	áo polo chất khá mát, sẽ dùng thêm một thời gian rồi đánh giá tiếp. shop đóng gói gọn gàng cẩn thận.	Service	0	positive
+70#126#0	Màu sắc:đen Đúng với mô tả:đúng Áo đẹp vải dày dặn hình sắc nét. Shop đóng hàng kĩ có túi zip nhé nhưng tiếc là k có giấy thơm :( Mình k để ý là form rộng nên mặc hơi bị rộng mn chú ý nhé.	Service	1	neutral
+50#103#0	áo form đẹp, chuẩn. vải co giãn tốt, thấm mồ hôi. shop gửi hàng nhanh. đặt hôm trước hôm sau nhận luôn.	Service	0	positive
+0#29#0	đóng gói đẹp, giao hàng nhanh. này mình mua tặng nên không biết chất lượng như nào. nhưng colmate thì chắc tin tưởng rùi	Service	0	positive
+0#39#0	shop giao hàng nhanh, đóng gói cẩn thận, áo chất liệu đẹp, sẽ ủng hộ lần sau	Service	0	positive
+67#102#0	Đúng với mô tả:như hình Màu sắc:kem Chất liệu:dày dặn Sản phẩm rẻ, chất lượng tốt, đường may chắc chắn Nên mua ạ Shipper nhiệt tình	Service	0	positive
+67#113#0	nhận hàng cực nha sau 3 ngày, chất vải cotton mặc cực mát nha mng, lần đầu mua mà quá ok lun ạ tks shop nhìu nhen, sẽ ủng hộ típ.	Service	0	positive
+12#29#0	vì dịch nên giao hàng hơi lâu áo polo chất liệu mát dày dặn mk nên mua mn nhé , mk mua cho bố mk 2 cái 2 màu ,rất đẹp bố mk 70 cân mk đặt nhầm size xxl đẹp quá k muốn đổi luôn 	Service	2	negative
+0#79#0	áo mình đặt nhầm size nên đổi sp khác shop rất nhiệt tình tư vấn khách hàng tốt, sp nhận được vải đẹp mình ưng lắm nha. cảm ơn shop nhiều, sẽ ủng hộ shop dài dài	Service	2	negative
+0#27#0	shop giao hàng cực nhanh áo chất dày dặn m săn được sale nên giá rẻ rất ưng ý	Service	0	positive
+0#31#0	giao hàng nhanh, đúng với mô tả, áo đẹp thấm hút mồ hôi thoải mái	Service	0	positive
+0#15#0	Giao hàng nhanh. Áo cầm chắc tay nặng vải dày đẹp. Rất ưng	Service	0	positive
+14#45#0	sản phẩm tốt, đóng gói rất đẹp, nhiều voucher, nghiện đồ colmate mất rồi hình ảnh để nhận xu nha :))	Service	0	positive
+32#47#0	chất lượng vải đẹp, thoáng mát, giao hang nhanh, giá tiền phù hợp. sẽ ủng hộ shop tiếp ạ 	Service	0	positive
+24#39#0	đúng với mô tả:vải đẹp, giao hàng nhanh, size chuẩn. mua ở đây lần thứ n rồi. rất là thichd luôn cho 5 sao luôn kh nói nhiều  chất liệu:vải cá xấu cotton màu sắc:xám nhạt	Service	0	positive
+0#15#0	giao hàng nhanh, vải mịn, mát, mặc vừa luôn, ở ngoài màu đẹp hơn hình chụp	Service	0	positive
+0#36#0	shop đóng gói đẹp kĩ giao hàng nhanh,nếu đươc mình sẽ quay lại đặt tiếp	Service	0	positive
+50#78#0	mình cực kì hài lòng về áo. form đẹp, chất thích, shop rep tn nhanh nhiệt tình. nên mua cho bố nhé	Service	0	positive
+33#45#0	(h/a chi mang tinh chat nhan xu )giao hơi lâu	Service	2	negative
+78#128#0	Chất liệu:cotton Đúng với mô tả:tôtd Màu sắc:be Vải đẹp đúng với giá thành và ship rất nhanh shop rất tâm huyết khi rep tin nhắn	Service	0	positive
+48#112#0	hàng y hình,chất lượng tuyệt vời vải đẹp lắm ạ! shop giao hàng nhanh gói hàng cẩn thận,sẽ quay lại ủng hộ tiếp ạ	Service	0	positive
+55#122#0	màu sắc:chịu làm ăn như thế này nghỉ đi đúng với mô tả:đặt một đằng giao 1 nẻo quá tệ shop ko uy tín sau này ko mua nx đou	Service	2	negative
+17#57#0	Áo xinh lắm nha, gói hàng kĩ, shipper thân thiện quá luôn. Phần cổ áo thì mình nghĩ nó sẽ hơi giãn một chút nếu giặt máy quá nhiều nhưng tổng thể thì ok.	Service	0	positive
+96#157#0	chất liệu:áo chất mỏng màu sắc:trắng đúng với mô tả:đúng loại áo này không nên mua màu trắng. 5 sao vì shop cho đổi hàng, chính sách đổi trả xử lý nhanh, tốt	Service	0	positive
+48#129#0	áo từ form tới chất đẹp lắm ạ. cực xịn xò luôn. shop nhiệt tình dễ thương. giao hàng nhanh nữa. sẽ ủng hộ thêm nè. tks shop nhiều 	Service	0	positive
+0#16#0	giao hàng tạm ổn, chất lượng sản phẩm với giá này tương đối là ổn và vải cũng ok nha nhưng cho 3 sao chủ yếu vì giao sai 2 mẫu chứ nếu đúng mẫu thì e chấm 5sao cho shop và thấy sp của shop ổn nhưng vì sai mẫu thui ạ huhu	Service	1	neutral
+8#42#0	áo đẹp. đóng gói cẩn thận. giao hàng nhanh. sẽ ủng hộ shop bhghj	Service	0	positive
+22#42#0	áo đẹp, rất vừa form. hàng giao cũng nhanh. sẽ mua tiếp ủng hộ shop. cho shop 5 sao	Service	0	positive
+86#101#0	chất liệu:bth đúng với mô tả:đúng màu sắc:đen cá nhân tớ thấy đc nha giá tiền phù hợp giao hàng nhanh	Service	0	positive
+14#39#0	chất vải đẹp. giao hàng hơi lâu vì dịch nhưng bù lại mẫu mã đẹp vải ok.màu đẹp 	Service	2	negative
+0#63#0	nhìn hình là màu be, mà lúc giao cái màu địch thiệt sự má. phắc 	Service	2	negative
+49#83#0	màu sắc:trắng đúng với mô tả:đúng chất liệu:vair giao hàng nhanh. đóng gói cẩn thận. áo đẹp mặc mát nên mua nhé mn	Service	0	positive
+41#73#0	sản phầm phù hợp giá tiền vải ok mặc mát đóng gói cẩn thận sẽ ủng hộ thêm	Service	0	positive
+0#51#0	Giao hàng nhanh, shop chuẩn bị đủ đồ và bọc kĩ càng. Sản phẩm oke lắm, sẽ tiếp tục ủng hộ những sp khác bên shop sau này	Service	0	positive
+25#40#0	chất lượng sản phẩm tốt. giao hàng nhanh. áo đẹp và rẻ so với giá tiền.	Service	0	positive
+0#38#0	giao hàng nhanh, đúng mẫu đúng yêu cầu, hàng chất lượng, vải tốt, mặc mát…đã mua của shop nhiều lần luôn cảm thấy hài lòng cảm ơn shop cho shop 5 sao	Service	0	positive
+122#148#0	Màu sắc:trắng Chất liệu:đúng với mô tả Đúng với mô tả:oki Hàng đẹp nha vải xinh xỉu với mức giá này vượt qua mức mong đợi ship hàng nhanh thân thiện	Service	0	positive
+70#97#0	chất liệu:không biết màu sắc:đen và nâu đúng với mô tả:đúng với mô tả đóng gói sản phẩm tuyệt vời	Service	0	positive
+49#67#0	chất liệu:cotton đúng với mô tả:không màu sắc:be giao hàng nhanh ok, áo thơm, vải ổn, size áo đúng, nhưng mà màu be này lạ lắm:)))) nó đậm hơn 2 tông so với hình nên mình cũng k ưng í lắm mng ạ. nhưng tại giá cũng rẻ nên k đòi hỏi j	Service	0	positive
+57#73#0	Giao hàng nhanh, mẫu mã như hình, chất thun, hình in đẹp,shiper dễ thương	Service	0	positive
+0#15#0	giao hàng nhanh. với mức giá này thì áo quá đẹp, màu đẹp	Service	0	positive
+46#66#0	màu sắc:xanh đúng với mô tả:đungs màu áo đepj shop phục vụ rất tốt mắc rất mát màu đpej cảm ơn những lời nhắc nhở khi sd áo của shop 	Service	0	positive
+53#73#0	màu sắc:nhiều màu đúng với mô tả:đúng chất liệu:thun giao hàng cũng nhanh, chất lượng ok bám tay tốt, hình ảnh chỉ mang tính nhận xu shop thông cảm	Service	0	positive
+67#77#0	màu sắc:đen chất liệu:mỏng mát đúng với mô tả:đúng 30% ha tạm được giao nhanh fresize nên mặc rộng thoải mái tuy nhiên hình in hơi xấu	Service	1	neutral
+58#106#0	vải áo đẹp, mềm mịn. chỉ may cũng rất khéo không bị thừa, đóng gói cẩn thận và giao hàng nhanh cực kỳ luôn. sẽ tiếp tục ủng hộ shop	Service	0	positive
+92#117#0	giao hàng nhanh, áo màu sắc đẹp, chất vải mỏng, thoáng mát thích hợp cho vận động thể thao. đóng gói sản phẩm kĩ càng	Service	0	positive
+128#194#0	chất liệu:chất đẹp màu sắc:đúng màu đúng với mô tả:đúng với yêu cầu áo đẹp, màu đẹp, có thông tin chất liệu và xuất xứ rõ ràng. giao hàng nhanh. có thư cảm ơn và hướng dẫn bảo hành chi tiết. god.	Service	0	positive
+8#49#0	vải đẹp đóng gói gọn gàng sạch sẽ giao hàng nhanh form áo đẹp,85kg 2xl mặc vừa nha mn	Service	0	positive
+75#90#0	Màu sắc:mau dep Chất liệu:vai day Đúng với mô tả:hoi to va dai so voi minh giao hang nhanh. Nói chung phù hợp giá tiền	Service	0	positive
+58#89#0	đã mua của shop nhiều lần, chất lượng không phải bàn nữa. gói hàng cẩn thận và giao nhanh. hình ảnh và video klq ạ	Service	0	positive
+60#141#0	sản phẩm như hình. form dáng chuẩn size đẹp. vải ok ổn lắm. shop giao đúng sản phẩm đúng size đúng màu mình chọn. cám ơn shop. sẽ ủng hộ tiếp	Service	0	positive
+74#109#0	quả xinh xẻo , chất mềm mịn , kbt có thoáng mồ hôi k nma đầy đủ nhãn mác, giao hàng nhanh , tư vấn thân thiện	Service	0	positive
+37#63#0	Áo đẹp lắm luôn Chất lượng tuyệt vời Shop giao hàng nhanh chóng	Service	0	positive
+31#62#0	áo hình in xinh, vải cũng oke, shop đóng gói, giao hàng nhanh.	Service	0	positive
+15#46#0	vải đẹp lắm ạ, giao nhanh nma chuẩn bị hơi lâu, chắc nhìu đơn quớ, hàng oke ạ	Service	1	neutral
+81#122#0	vải dệt đẹp , mịn , thoáng mát , hút mồ hôi tốt , màu đẹp , chất lượng đồng đều. mà sao mới đặt mà shop gửi hàng đi lẹ vậy 	Service	0	positive
+11#35#0	áo xịn xò, 10 điểm cho đóng gói lun mà lại rẻ, mình săn sale áo với giá 129k thui, mua để tặng sinh nhật nên có lo mãi áo về k có túi đựng xịn xò, ai ngờ đâu được đóng gói đầy đủ hộp và tag, túi nữa, áo miễn chê, quá đẹp, sẽ ủng hộ dài nha, mình ít mua đồ nam nên mua đc chỗ ưng mình thích lắm 	Service	0	positive
+56#77#0	Áo vải rất ưng nha, vải cotton nhìn rất là thỏi mái ... giao hàng cũng nhanh, canh sale mua áo rẻ. Mình khá là ưng	Service	0	positive
+50#79#0	hàng đẹp lắm nha mọi người..chất vải mịn mát lắm..giao hàng lại siu nhanh lun ý	Service	0	positive
+50#89#0	mua lần 3 nói chung áo chất vải ổn.mặc không nóng ,đóng gói cẩn thận ,shop làm ăn uy tín.	Service	0	positive
+0#15#0	giao hàng nhanh, đã nhận đủ hàng. hàng ok nha, mỏng mát, phù hợp giá tiền video, hình ảnh mang tc nhận x.u	Service	0	positive
+90#105#0	vừa nhận được hàng, vải dày dặn, đường may hay mọi thứ đều ổn.. mọi người nên mua thử nhé giao hàng nhanh, giá phải chăng, mình hài lòng lắm !	Service	0	positive
+34#96#0	chất lượng sản phẩm áo tuyệt vời. đóng gói chắc chắn cẩn thận. shop trả lời tin nhắn nhanh chóng. lần sau sẽ ủng hộ shop tiếp. cho shop 5 sao nhé. tks	Service	0	positive
+25#56#0	màu rất đẹp và sang nha. đóng gói cẩn thận. hộp xinh xẻo. có điều mình thấy vải có vẻ mỏng nhe. đúng mẫu thanks shop	Service	0	positive
+0#15#0	giao hàng nhanh, giá rẻ mà đóng gói dày dặn cẩn thận nhìn k khác gì hàng mấy trăm ở shop. vải vs màu y hình… vì là hàng tặng nên k biết mát hay k nên có gì sẽ cập nhật đánh giá sau nhak	Service	0	positive
+74#109#0	Màu sắc:be Đúng với mô tả:9/10 Chất liệu:cotton áo xinh lắm luon á mn ơi, anh shipper thân thiện vui tính lắm. Áo xinh cực luon vãi áo k mỏng đâu mn mình m49 mặc sz m là vừa r luon ấy	Service	0	positive
+42#84#0	shop gửi đúng mẫu đúng size . vải khá dày ưng anh shiper nhiệt tình dễ thương dễ gần	Service	0	positive
+50#114#0	sản phẩm rất chi là ok, rất hài lòng về sản phẩm, hài lòng về shop, sẽ ủng hộ lần sau. nói chung cho shop 100 điểm	Service	0	positive
+0#40#0	giao hàng nhanh, hotline trả lời lễ phép. mua lần thứ 2 cho ny rồi. chất vải mỏng, mát, đẹp, hợp cho người đi làm	Service	0	positive
+79#100#0	đúng với mô tả:đúng mẫu chất liệu:đẹp, mịn màu sắc:đẹp màu đẹp hợp vs giá tiền giao nhanh chuẩn size	Service	0	positive
+118#130#0	áo mỏng nhẹ , màu rất đẹp luôn . ck mình 1m63 50kg mặc m okie nha . kì trước mua size s bó quá trời . giá cả hợp lý . gói cẩn thân	Service	0	positive
+14#52#0	quần áo đẹp . shop rất nhiệt tình . dịch vụ cskh tốt . mình sẽ mua thêm	Service	0	positive
+88#122#0	chưa bao giờ thất vọng khi mua đồ của colmate, chồng mình rất thích chất liệu của shop, tuy nhiên lần này cbi hàng hơi lâu mong shop ra nhiều kiểu và màu hơn để mình còn rinh về cho chồng	Service	2	negative
+19#42#0	áo chất lượng tốt, shop tư vấn chuẩn size, màu đẹp giao hàng nhanh nên mua nha mọi người	Service	0	positive
+54#188#0	Giao hàng nhanh, đóng gói bình thường, vải xấu, nóng, shop nhắn tin không trả lời trong khi mình đã gọi điện cho shop 2 lần, mua hàng có mã giảm giá cho lần sau mà nhập vào không dùng được	Service	2	negative
+31#138#0	chất liệu:vải k đc đẹp cho lắm nhãn hiệu kphai của adlv, nó là một nhãn khác. mình khá thất vọng về vc này mong shop giải quyết giúp em ạ!	Service	2	negative
+101#111#0	đúng với mô tả:đúng với mô tả màu sắc:xanh bóng đêm, đen chất liệu:100% polyester hàng đẹp, mặc mát, giao nhanh, giá tốt	Service	0	positive
+97#112#0	chất liệu:ok màu sắc:ok đúng với mô tả:ok chất đanh không bai xù, không bị bí, nóng, màu sắc ok, giao hàng nhanh, nói chung là ổn đáng mua nhé!	Service	0	positive
+32#83#0	sản phẩm đẹp đúng với giá tiền, giao hàng nhanh chóng, shop nhiệt tình, thân thiện, có nhiều ưu đãi cho khách hàng xứng đáng 5*.	Service	0	positive
+44#83#0	màu sắc:quả mơ đúng với mô tả:đúng hàng đẹp,giao hàng nhanh, shiper vui vẻ hòa đồng	Service	0	positive
+0#20#0	ship hàng cũng nhanh. chất lượng cũng ổn, hạn sử dụng còn dài, đóng gói hàng sạch sẽ lịch sự chất lượng tốt. sẽ ủng hộ tiếp	Service	0	positive
+0#33#0	giao hàng nhanh gói hàng cẩn thận hàng rất đẹp ưng ý	Service	0	positive
+97#191#0	đúng với mô tả:đúng với mô tả chất liệu:thoáng mât màu sắc:trắng áo thun chất thoáng, mát, mỏng. mình cần gấp nên nhắn shop và shop hỗ trợ mình nhiệt tình luôn ạ. nhận hàng sớm hơn cả dự kiến 	Service	0	positive
+38#156#0	Đúng với mô tả:đúng Màu sắc:be + hồng Trời ơi mới đặt hôm qua hôm nay giao luôn, áo này phải 50 sao chứ 5 sao có là gì, xinh xỉu mà shop còn đóng gói kĩ nữa, chất vải cũng xịn, sẽ ủng hộ shop lâu dài lun	Service	0	positive
+42#81#0	đúng với mô tả:ok chất liệu:ok màu sắc:ok đóng hàng đẹp, lịch sự, giao hàng nhanh, áo đẹp, chuẩn size, nên mua!	Service	0	positive
+42#59#0	chất liệu:vải đúng với mô tả:đúng màu sắc:giao hàng bị nhầm màu áo xinh, vải dày dặn, cao m5 mặc sz l oke la nhưng shop giao nhầm màu nên vote 4*	Service	2	negative
+0#38#0	hàng giao lâu, đúng 1 tuần mới nhận đc,. vải đẹp, k chỉ thừa, nói chung rất ưng, sẽ ủng hộ tiếp..	Service	2	negative
+30#68#0	chất lượng sản phẩm tuyệt vời đóng gói sản phẩm rất đẹp và chắc chắn	Service	0	positive
+114#151#0	chất vải xấu hơn lần trc mua, mẫu mã kiểu gì mà cùng loại mới nhg màu trắng có logo, màu đen thiếu logo ở vạt áo, nt trao đổi nv tl lòng vòng linh tinh	Service	2	negative
+19#47#0	Đã nhận được hàng, giao hàng nhanh, đóng gói kĩ, áo cũng đẹp vải ko quá dày cũng ko quá mỏng nhìn cũng mát, logo vs hình in khá đẹp, vs tầm giá này thì cũng ổn	Service	0	positive
+47#86#0	áo đẹp, chất vải dày dặn, mặc đúng form người. giao hàng nhanh + anh shiper nhiệt tình	Service	0	positive
+36#83#0	áo đẹp, vải chất lượng , giá lại rẻ còn dc nhận thêm quà nữa, giao hàng nhanh chóng!	Service	0	positive
+0#20#0	shop giao hàng nhanh, chất được hàng y hình. mình mua cho bố nên cũng không biết có vừa hay không vì chưa thử. được sale giá rẻ	Service	0	positive
+0#33#0	giao hàng hơi lâu xíu nhưng k sao, giá rẻ hợp lý, vải chất lượng có vẻ mát cho shop 5 sao	Service	1	neutral
+0#32#0	sản phẩm giao nhanh đóng gói tốt, chất lượng cũng tạm ổn nhưng hộp nhìn hơi bị xước tí ksao	Service	0	positive
+130#157#0	ảnh chất lượng thấp nhưng áo chất lượng cao nha mọi người.xịn không một cọng chỉ thừa luôn.chất liệu khá ok,dáng đẹp,chuẩn size.t rất thích các cskh của shop.đã mua lần thứ 2 ủng hộ shop.chúc shop buôn may bán đắt!	Service	0	positive
+66#86#0	đã nhận được hànv. ship nhanh. chất vãi cực kỳ ưng. mát, co giãn, đóng gói xịn sò luôn. rất rất nên mua nha mn. màu trắng sang cực kì.	Service	0	positive
+33#75#0	Màu sắc hơi tối da Chất dày dặn, đóng gói cẩn thận Giao hàng nhanh đúng mẫu	Service	0	positive
+0#30#0	đóng gói rất kỹ nha oki la lắm vải đẹp mát	Service	0	positive
+42#60#0	áo đẹp, màu cũng k bị nổi quá, có co dãn, đóng gói chắc chắn, form áo đẹp. mua tặng bố hoặc ny hợp lý	Service	0	positive
+101#141#0	chất liệu:ổn đúng với mô tả:đúng với mô tả màu sắc:đúng với hình ảnh chất lượng áo ổn hơn mình nghĩ, shop đóng gói đẹp, kĩ càng nói chung 10đ	Service	0	positive
+92#208#0	Đúng với mô tả:không Màu sắc:không Chất liệu:ok Đặt hồng nma này là hồng dữ chưa shop =)))) Giao sai màu nên không ưng ý lắm, không có đánh giá gì thêm Thấy shop nhắn tin cũng dễ thương nên bớt buồn hơn rồi ạ :))	Service	2	negative
+46#138#0	Đúng với mô tả:đúng Màu sắc:đen Chất liệu:tốt Shop tư vấn rất nhiệt tình, giao hàng rất nhanh lại còn có giấy thơm nữa nên rất thơm luôn ạ. Mọi người nên mua đi nè. Mua sale nên giá rất rẻ luôn. Sẽ quay lại ủng hộ shop ạ.	Service	0	positive
+50#68#0	áo đúng như mô tả. giao hàng nhanh. khá hài lòng. ship pơ thân thiện	Service	0	positive
+372#383#0	khi đặt áo mình đã phải xem fback và xem nhiều lượt mua không mình mới đặt , tuy nhiên mình hi vọng áo quá nhiều , đến lúc nhận được vải không đúng chất liệu là cotton mà là phi bóng , trời này mặc chất áo như thế rất là nóng , mình có nhắn hỏi shop , shop bảo fback khách ngại chụp nên lấy ảnh mạng ? mình là 1 đứa rất dễ tính mà khi nhận được áo không đúng như mô tả và giao sai áo , mình thật sự khó chịu	Service	2	negative
+0#7#0	hộp đẹp. áo nhẹ, chất vải đẹp. chưa mặc nên chưa biết form dáng thế nào. mình đặt màu xanh bóng đen thành công nhưng shop gọi váo hết màu nên chuyển qua màu trắng	Service	0	positive
+0#15#0	giao hàng nhanh. chất lượng sản phẩm tuyệt vời. đóng gói rất cẩn thận.	Service	0	positive
+19#33#0	chất liệu:khá móng giao nhầm zize	Service	2	negative
+49#66#0	Chất liệu:cotton Đúng với mô tả:đúng Màu sắc:đen Giao hàng hơi lâu Áo dày dặn, chất đẹp lắm, không bị nóng nhưng mà hơi rộng	Service	0	positive
+0#68#0	đã nhận được hàng shop dong gói đẹp, lịch sự nữa,dung size dung màu.	Service	0	positive
+156#197#0	chất liệu:chất dày dặn, mặc mùa thu là vừa màu sắc:màu hồng khá xinh:))) đúng với mô tả:giống ảnh shop đăng đã mua của shop lần thứ 2 và sẽ tiếp tục ủng hộ shop rep tn nhanh, nhiệt tình thanks shop	Service	0	positive
+43#108#0	màu sắc:đen, xanh than đúng với mô tả:mình mua 2 cái cùng loại nhưng lúc nhận thì 2 cái chất liệu khác nhau.	Service	2	negative
+0#39#0	Shop giao hành nhanh, đóng gói cẩn thận. Mình cao 1m63, 55kg. Mặc size M vừa, áo mặc thoải mái, chất liệu ổn.	Service	0	positive
+45#67#0	áo vải hơi mỏng nm với giá tiền v chỉ v thui điểm cộng có giấy thơm	Service	0	positive
+20#54#0	hàng đẹp giống hình.giao hàng nhanh.đóng gói chắc chắn.lên mua nha.	Service	0	positive
+45#109#0	Đúng với mô tả:tốt Chất liệu:tốt Màu sắc:tốt Thời gian giao hàng nhanh chóng sếp ơi dễ thương shop tư vấn nha tiền nên mua nhé mọi người ơi	Service	0	positive
+50#105#0	Đúng với mô tả:đúng Màu sắc:màu be Chất liệu:được Shop giao hàng nhanh lắm, đặt hôm qua sáng nay giao rồi	Service	0	positive
+0#17#0	giao hàng khá lâu, chất vải trơn mỏng hơi khác so với hình, khá rộng nhưng tổng thể cũng ukie	Service	2	negative
+98#122#0	chưa bao giờ mua được 1 chiếc áo đẹp mà ưng ý như chiếc áo này, chất vải mềm mát thấm hút mồ hôi, giao hàng rất nhanh mn ạ	Service	0	positive
+0#55#0	shop ko uy tín !(giao áo lỗi, bảo đổi lại nhưng ko đổi)	Service	2	negative
+189#207#0	Áo đẹp lắm Hình in sắc nét nhưng sau khi mình giặt những hình in nhỏ bị bong tróc, các bạn nên giặt tay mặt trái của áo để hình bền hơn nhé Có một ít chỉ thừa thôi Mình cao 1m5 mặc vừa vặn Shipper thân thiện	Service	0	positive
+53#91#0	chất liệu:thun màu sắc:xanh aqua đúng với mô tả:đúng tư vấn nhiệt tình, shop gói hàng nhanh, áo đẹp	Service	0	positive
+19#56#0	sản phẩm đẹp ,mát ,ưng ý cách phục vụ của shop ,tks shop ,sẽ mua thêm.	Service	0	positive
+0#37#0	sản phẩm đóng gói cẩn thận, gọn gàng, đẹp, màu áo nhận được khá ưng ý	Service	0	positive
+0#55#0	giao hàng sai size và nhân viên giao hàng không lịch sự	Service	2	negative
+37#69#0	Áo xinh, màu đẹp giống ảnh, vải xịn, giao hàng nhanh, shop nhiệt tình	Service	0	positive
+42#76#0	chất liệu:ok màu sắc:ok đúng với mô tả:ok giao hàng nhanh, đóng gói cẩn thận. sẽ ủng hộ thêm	Service	0	positive
+64#98#0	chất lượng phù hợp giá tiền. đường may cẩn thận. quần chất đẹp. giao hàng nhanh. đóng gói cẩn thận. màu sắc tương đối giống trong hình	Service	0	positive
+30#45#0	lần đầu mua sale giá rất tốt. giao hàng nhanh. mình rất vừa ý với chất vải nha cũng như là cách đóng gói của shop rất là cẩn thận luôn. đóng gói đến tận hai lớp thùng giấy. tìm mát đầy đủ. nói chung là rất ưng.	Service	0	positive
+0#69#0	đóng gói sản phẩm cẩn thận, đẹp, chắc chắn, thời gian giao hàng nhanh, chưa giặc nên chưa biết áo có giãn ra không, giá rẻ, sẻ ủng hộ shop tiếp. hình ảnh mang tính chất nhận xu.	Service	0	positive
+13#25#0	áo quá nhỏ , giao sai mẫu	Service	2	negative
+31#65#0	chất lượng sản phẩm tuyệt vời. đóng gói cẩn thận. giao hàng nhanh	Service	0	positive
+38#71#0	áo đẹp, hơi mỏng xíu, vải thoáng mát. có hộp gọn gàng, bóc hộp thấy ưng	Service	0	positive
+80#120#0	vải đẹp , mặc mát , màu y hình mình sẽ tiếp tục ủng hộ shop ba mình rất ưng ý . đóng gói sản phẩm rất cẩn thận , kỹ càng , chất lượng sản phẩm rất đúng ý	Service	0	positive
+0#28#0	giao hàng nhanh, đóng gói kỹ, đồ khá okie, sẽ mua lại lần sau. 	Service	0	positive
+25#58#0	chất lượng ok. chắc chắn đóng gói cẩn thận giao hàng nhanh	Service	0	positive
+105#163#0	Chất liệu:thun Đúng với mô tả:đúng lắm lun mn Màu sắc:be Vải mỏng mát mặc vừa from áo qua lưng quần 1 tí giao nhanh ms đặt hq hôm nay có hàng, shipper đúng dth lun	Service	0	positive
+40#62#0	áo chất lượng màu đẹp đường may rất đẹp chắc chắn đóng gói đẹp chất liệu co dãn thoải mái	Service	0	positive
+0#39#0	shop đóng gói cẩn thận, giao hàng nhanh. chất lượng sản phẩm ok. mua lần 2 rồi	Service	0	positive
+137#185#0	Đúng với mô tả:đúng Màu sắc:hồng Chất liệu:vải Giao hàng nhanh, đóng gói cẩn thận, sản phẩm rất đẹp mình cảm thấy rất ưng ý khi sử dụng. Dù là lần đầu mua nhưng shop tư vấn rất cẩn thận, vải ko quá mỏng, sẽ ủng hộ shop nhiều hơn ạ.	Service	0	positive
+0#40#0	giao hàng nhanh chóng. shiper nhiệt tình. áo đẹp. rất đáng để mua nha mọi người.hjhjjjjjjjjjjjjj.jhjjjjjjjhjjj	Service	0	positive
+0#80#0	shop nhiệt tình, hàng đẹp như mô tả, giao hàng thời gian khá ok vì đang mùa dịch, săn sale nên được giá rẻ, sẽ ủng hộ shop khi có cơ hội	Service	0	positive
+52#159#0	giao hàng nhanh , nhân viên rất dễ thương , vải đẹp đã mua 2 lần bên shop rồi ạ , mng ủng hộ shop nhé  khách hàng bị trục trặc giải quyết rất nhanh và gọn gàng , god jod 	Service	0	positive
+0#57#0	đầu tiên là cảm ơn shop đã đóng gói và giao hàng cẩn thận. chất vải mặc mát, ko dày ko mỏng, đúng chuẩn size, riêng phần ống tay áo thì mình nghỉ nên may thun bo ống tay hơn chút thì sẽ đẹp hơn. sẽ ủng hộ tiếp	Service	0	positive
+34#50#0	áo chất rất đẹp. đường may chuẩn. có cả hộp xịn xò. vẫn luôn ủng hộ colmate.	Service	0	positive
+52#112#0	chất thông hơi . chưa mặc nên chưa đánh giá độ col. nhưng ưng đóng gói vs hộp lắm ạ. thanks shop về quà tặng kèm	Service	0	positive
+46#65#0	Màu sắc:be Chất liệu:thun Đúng với mô tả:đúng Giao hàng nhanh lứm, áo xinh xẻo nhe mà vải hơi thô xíu… mua đúng size thì sẽ đc form oversize xịn lém nhe	Service	0	positive
+44#59#0	Màu sắc:den Đúng với mô tả:ok Chất liệu:vai Giao hàng nhanh với giá tiền này chất áo ok áo dày dặn	Service	0	positive
+55#86#0	màu sắc:den chất liệu:vải thể thao đúng với mô tả:đúng shop hỗ trợ tận tình. cho 5 sao!	Service	0	positive
+0#71#0	Shop giao nhanh, đóng gói đẹp chắc chắn nhé Shoppp giao đúng mẫu đã đặt	Service	0	positive
+36#81#0	áo đẹp, đường nay sắc nét, dáng ổn. gói hàng cẩn thận có cả miếng lót giữ dáng áo. rất tốt.	Service	0	positive
+62#92#0	đúng với mô tả:đúng chất liệu:cotton su from rộng màu sắc:nâu hàng đóng gói cẩn thận đẹp mắt , nhưng chất liệu rất mỏng những hình in sơ sài xấu nx chứ còn để áo bị dơ , định mua thử 1 cái đẹp mua lại mà chắc k dám mua nx đâu  thất vọng  cho shop 1 sao bởi đóng gói đẹp thôi 	Service	0	positive
+119#196#0	sản phẩm đúng màu đúng hình như quảng cáo, chất vải dày dặn ổn với giá tiền lắm ạ. mua tặng cho cha mặc nên rất thích. shop buôn bán uy tín chất lượng nên mình nhất định sẽ ủng hộ dài lâu shop nhé	Service	0	positive
+36#53#0	Chất liệu:cotton Màu sắc:be Áo đẹp, đóng gói cẩn thận	Service	0	positive
+60#106#0	chất liệu:k có nhớ màu sắc:trắng đúng với mô tả:cx hơi đúng hàng giao nhanh, shiper thân thiện+ nhiệt tình, áo mỏng quá. áo đen thì k thấy ở trog chứ áo trắng thì khỏi ns luôn.	Service	0	positive
+0#29#0	giao hàng nhanh, đóng gói đẹp, chất lượng tốt so với tầm giá, mình sẽ tiếp tục ủng hộ trong các lần sau	Service	0	positive
+13#28#0	sản phẩm tốt giao hàng nhanh chất lượng tuyệt vời ủng hộ shop lần sau nên mua nha mọi người 	Service	0	positive
+69#99#0	chất liệu:khá ổn đúng với mô tả:đúng màu sắc:đúng áo đẹp, vải mát ok nhubgw ship hàng siêu lâu luôn	Service	2	negative
+0#44#0	đóng gói hàng đẹp, chắc chắn giao hàng nhanh áo chất đẹp giá phải chăng, sẽ ủng hộ thêm	Service	0	positive
+30#62#0	lần đầu mua ưng lắm ạ, vải đẹp, đóng gói kĩ,sẽ ủng sốp lâu dài	Service	0	positive
+55#88#0	sản phẩm tốt , chất lượng áo rất ok , giá cả phù hợp , bên shop tư vấn cũng rất tận tình. nói chung nên mua	Service	0	positive
+0#12#0	ko giao hàng	Service	2	negative
+34#71#0	áo đẹp chất vải mát giá cũng ok . mà shop còn có thư cảm ơn các thứ hin	Service	0	positive
+81#96#0	màu sắc:màu trắng chất liệu:đẹp đúng với mô tả:đùng mô tả áo cũng đẹp nhưng rộng giao hàng nhanh	Service	0	positive
+139#168#0	Chất liệu:cotton Màu sắc:be Sản phẩm đẹp rất đáng tiền mua, chất liệu vải ok mà có đều là hơi rộng so vs mình một xíu, mình 48kg cao 1m57. Shipper nhiệt tình vui vẻ 10đ	Service	0	positive
+46#80#0	sản phẩm chất lượng tốt, giá cũng phải chăng, đóng gói cẩn thận, giao hàng nhanh sản phẩm đúng với mô tả hình ảnh chỉ mang tính chất nhận xu	Service	0	positive
+21#62#0	vải đẹp lắm ah shop, giao hàng hơi lâu 1xíu, nhận hàng ưng lắm, phải đặt thêm 2 ao 2màu nữa	Service	0	positive
+9#42#0	Áo đẹp ạ nma buồn cái kh có giấy thơm huhu mình m58 m52kg mặc trùm mông xíu xiu thui ai muốn dài hơn thì lấy sz L ạ sẽ qlai ủng hộ shop áo đẹp quá ưng lun	Service	2	negative
+104#129#0	Áo cute lớm nha mọi người. Mặc mát, thoải mái, vải okela quá chừi. Săn sale trên live giá cũm ngon nựa. Sốp rep tin nhắn cute lém. Sẽ quay lại ủng hộ ạ. Mình 1m60 55kg nha mặc qua nửa mông á, thoải mái chứ khum bị chật hay ngắn	Service	0	positive
+98#118#0	chất liệu:vải dày màu sắc:áo polo màu xám nhạt. đúng với mô tả:10/10 áo vải dày . form đẹp chuẩn. shop giao hàng nhanh. sẽ ủng hộ shop lâu dài	Service	0	positive
+0#85#0	shop tư vấn size chuẩn,giao hàng nhanh, đúng size đúng màu,đóng gói sản phẩm cẩn thận. người yêu mình mặc vừa luôn,khen đẹp lắm ạ. cảm ơn shop	Service	0	positive
+110#125#0	đây là lần thứ 3 mình mua chất lượng quá tốt so với mong đợi , mn nên mua ở đây nhé quá là ưng ý vải siêu đẹp shop nhiệt tình	Service	0	positive
+37#53#0	hàng chất lượng tốt. sẽ ủng hộ tiếp. giao hàng nhanh. hài lòng.	Service	0	positive
+60#142#0	đã mua hàng shop lần 2 , hàng rất đẹp , bố mình rất thích , đóng gói sản phẩm tuyệt vời.. shiper giao hàng thân thiện, còn ủng hộ shop dài dài	Service	0	positive
+34#51#0	sản phẩm chất lượng và tiện dụng. ship khá là nhanh ạ. nói chung là cực kì ổn luôn ạ	Service	0	positive
+24#39#0	Hàng đẹp chất lượng tốt giao hàng nhanh chất áo mát màu áo đẹp mặc lên đúng dáng xinh	Service	0	positive
+32#51#0	Màu sắc:nâu Đúng với mô tả:đúng Giao hàng khá nhanh, áo xinh nha mụi người ơi àghjkuh	Service	0	positive
+26#88#0	sản phẩm chất lượng, đẹp, dịch vụ tốt, đóng gói chắc chắn đẹp nữa, giao hàng nhanh chóng	Service	0	positive
+68#122#0	chất liệu:xam màu sắc:cotton đúng với mô tả:đúng áo đẹp , vải mát , giao hàng nhanh, sau sẽ mua tiếp ạ. đóng gói cẩn thận 	Service	0	positive
+103#158#0	Chất liệu:vải Đúng với mô tả:đúng Màu sắc:kem Nếu có 10 sao tớ sẽ cho shop 10sao ạ, chất lượng áo đẹp, phục vụ chăm sóc khách 10₫, chính sách hỗ trợ 10000000₫, không như nhà ou.. nào đấy quá thất vọng luôn, siêu siêu rcm m.n mua áo của shop ạa	Service	0	positive
+0#45#0	giao hàng nhanh, chính xác, đóng gói cẩn thận, sản phẩm như mô tả	Service	0	positive
+0#47#0	shop hỗ trợ giao nhanh cho mình do mình cần gấp, áo vải đẹp form chuẩn rất đáng đồng tiền.	Service	0	positive
+34#65#0	Áo chất liệu tốt, đúng với mô tả, đóng gói đẹp và giao hàng nhanh. Sẽ tiếp tục ủng hộ shop.	Service	0	positive
+14#100#0	chất vải đẹp, shop tư vấn rất nhiệt tình , có điều vận chuyển khá lâu, nhưng cũng đáng công chờ đợi.	Service	1	neutral
+0#20#0	đặt 1 kiểu về 1 kiểu	Service	2	negative
+0#15#0	giao hàng nhanh, ổn, chất liệu với mình thấy hơi mỏng…hình không liên quan lắm	Service	0	positive
+138#180#0	Áo xinh lắm mng ơi Giá còn rẻ nữa Chất vải dày dặn , không nóng đâu Ở ngoài màu áo còn đậm hơn nha do mình quay buổi tối nên hơi nhạt xíu Shop tư vấn nhiệt tình , dễ thương xỉu lun Rất đánh tiền nhé mng Rcm mng nên mua liền nhé	Service	0	positive
+0#17#0	đóng gói cẩn thận áo vải đẹp quá trời luôn áo 99k mà cứ tưởng đâu áo 3 400k không hà , giá rẻ chất lượng tuyệt cho shop 5 sao	Service	0	positive
+0#15#0	giao hàng nhanh, áo vải rất ok ạ.lần sau mình sẽ ủng hộ tiếp.chúc shop buôn may bán đắt.	Service	0	positive

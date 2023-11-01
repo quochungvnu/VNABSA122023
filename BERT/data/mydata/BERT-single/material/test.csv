@@ -1,0 +1,969 @@
+id	original_sentence	aspect	label_id	label
+144#199#0	chất liệu:cotton xu màu sắc:đen đúng với mô tả:50% mình m58 nặng 49kg mặc đến mông thôi nhé. bạn nào thích mặc rộng nên cân nhắc trước khi mua. áo khá mỏng, nếu là màu trắng chắc nhìn xuyên thấu luôn nên mọi người đừng nên mua màu trắng nhé. với giá 29k thì với chất lượng như vậy là ok rồi 	Material	2	negative
+18#30#0	đúng với mô tả:ok chất liệu:ok màu sắc:ok mặc đẹp với xinh lắm mọi người ạ	Material	0	positive
+65#71#0	Chất liệu:cotton Đúng với mô tả:đúng Màu sắc:be Giao hàng nhanh. Áo đẹp k quá dày in ấn oke.cổ bo	Material	0	positive
+0#12#0	chất vải đẹp, đường may chắc chắn nhưng mặc vào phần vai với cổ hơi thô, bị bè nhiều không tôn dáng mua cho ox mà ổng hk thích lắm à size thì chuẩn cho bạn nào cần	Material	0	positive
+0#16#0	chất liệu:vải ok màu sắc:đen đúng với mô tả:đúng hình mình rất hài lòng	Material	0	positive
+0#13#0	chất liệu:dày	Material	1	neutral
+49#61#0	mua cả ship là 109k, nhận hàng khá lf bât ngờ vì chất khá đẹp sơ với giá. trươc mìn toàn mua áo ở phan nguyễn hy yody cho chồng nhưng sau khi mua thử 1 áo thì mình đã mua thêm 1 áo nưa và 1 áo sơmi dài tay nêu ok mình sẽ mua tiếp	Material	0	positive
+38#66#0	Áo đẹp giao hàng nhanh chất lượng ổn, chất áo đẹp sờ mát tay ổn áp	Material	0	positive
+0#14#0	áo vải dày dặn lên fom chuẩn lắm m.n ạ .đặt size l về ck e mặc vừa in lun. ảnh khen áo rẻ mà đẹp á zk lần đầu tiên mua đồ mà đc ảnh khen á trợi.	Material	0	positive
+7#15#0	áo đẹp chất oke trong tầm giá, form đứng dánh. ủng hộ shop	Material	0	positive
+57#87#0	shop giao hàng nhanh, đóng gói kỹ lưỡng, chất lượng tốt. vải hơi mỏng nhưng vải rất mát. phù hợp với giá tiền, lần sau sẽ ủng hộ nha	Material	1	neutral
+101#160#0	Chất liệu:ok Màu sắc:OK Đúng với mô tả:OK Áo giống hình có điều from khá to dù mình chọn sz nhỏ nhất vải hơi nóng nha chất control nhưng không phải con tròn tàu	Material	2	negative
+0#17#0	chất vải hơi mỏng với giá tiến đó thì ok	Material	2	negative
+89#113#0	chất liệu:chất liệu tốt màu sắc:đúng màu đúng với mô tả:chất luong nhu quang cao áo đẹp. chất liệu vải thoang mat. đã mua nhieu lan ở shop.	Material	0	positive
+0#48#0	chất liệu:vải không quá dày mặc thoáng thoải mái màu sắc:màu sắc đúng với ảnh áo rất đẹp đây là lần thứ 2 mình mua	Material	1	neutral
+8#16#0	áo đẹp, vải xịn, giao hàng nhanh cực do em mua lố size, giờ đặt thêm cái nữa ủng hộ shop	Material	0	positive
+14#32#0	màu sắc:trắng chất liệu:hơi mỏng đúng với mô tả:đúng	Material	1	neutral
+0#19#0	vải đẹp lắm ah shop, giao hàng hơi lâu 1xíu, nhận hàng ưng lắm, phải đặt thêm 2 ao 2màu nữa	Material	0	positive
+0#17#0	vải đẹp , mặc mát , màu y hình mình sẽ tiếp tục ủng hộ shop ba mình rất ưng ý . đóng gói sản phẩm rất cẩn thận , kỹ càng , chất lượng sản phẩm rất đúng ý	Material	0	positive
+75#94#0	chất liệu:vải hơi mỏng màu sắc:đen đúng với mô tả:đúng áo đẹp, hình in mịn nhưng chất hơi mỏng nhưng với giá như vậy thì k đòi hỏi	Material	1	neutral
+0#11#0	nó mỏng quá	Material	2	negative
+44#75#0	Áo như ảnh ạ, dạng form rộng mặc thoải mái, vải mềm, kh bị ngứa, thoáng mát. Mình đặt tặng nên kh chụp lại hình kịp ạ.	Material	0	positive
+0#17#0	áo mặc thoáng mát đã mua bốn cái mặc rất oke đáng để mặc mùa hè hoặc đông	Material	0	positive
+97#130#0	Chất liệu:cotton Màu sắc:be Đúng với mô tả:đúng Hàng Tốt lắm nha mn, nên mua nha kẻo hết hàng í. Vải dày dặn cầm nặng tay lém nheê	Material	0	positive
+55#93#0	Áo đẹp tuyệt vời nha <3 k có chỉ thừa, hình in rõ nét, chất vải mềm mại, mặc vô rất thoải mái, màu cũng ưng nữa. Nói chung là 10đ. Mình cao 1m6, nặng 44kg, mặc size M là vừa. Ai muốn oversize thì tăg lên 1 size nha	Material	0	positive
+0#21#0	chất liệu:co giãn tốt màu sắc:như mô tả đúng với mô tả:đúng tốt	Material	0	positive
+26#33#0	Màu sắc:trắng áo đẹp lắm, vải mát nhưng mà cổ áo bo hơi chật với cả tay áo hơi dài tag đầy đủ giao hàng nhanh 1m6 49kg sz L	Material	0	positive
+94#121#0	áo đẹp lắm mn nha . với giá cả ntn mình không nghĩ nhận được 1 chiếc áo chất lượng ntn luôn . chất đẹp mịn / vải không xù - đóng gói rất đẹp	Material	0	positive
+0#77#0	chất vải cũng không tốt lắm hơi mỏng xí - chất áo sẽ kh bị xù ( vải khá mịn ) hình in phía sau đẹp còn phía trước bị đen đen chấm chấm ( kh thích lắm ) size m cũng to-dài mở áo thấy thơm tổng 3,9 */5* nhưng nên mua vì những điều trên cũng kh làm chiếc áo mất chất .	Material	2	negative
+0#72#0	tưởng áo mỏng nhưng lại rất dày dặn nha, mặc thoáng mát thoát mồ hôi cực. tay áo ngắn ôm tôn dáng, shop xếp đồ đẹp và cẩn thận. mình mua 8 món cùng lúc cho em trai là biết ưng ntn rồi nhé ^^ tiếp tục ủng hộ dài. mn nên mua nha	Material	0	positive
+50#74#0	giao hàng hơi lâu xíu nhưng k sao, giá rẻ hợp lý, vải chất lượng có vẻ mát cho shop 5 sao	Material	0	positive
+73#102#0	màu sắc:đúng chất liệu:xù lông đc nha cx đẹp giao hàng nhanh hình in đẹp nhưng ko ưng chất vải cho lắm	Material	2	negative
+28#147#0	đường kim mũi chỉ nét căng. mình thấy chất vải rũ, mát, mịn. không hề mỏng như một số đánh giá. mặc không nhăn, không bí mùa hè mặc chất này quá ok bảng màu đa dạng, giá lại quá vừa tiền giá này chỉ bằng 1/2 chất lượng thui ship hcm ra hn mùa dịch nên 4 hôm tên nhãn hiệu hay, không nhầm với bên khác	Material	0	positive
+137#177#0	Màu sắc:đen Chất liệu:tốt Đúng với mô tả:Ok Giao hàng rất nhanh luôn đặt hôm qua nay đã có r áo lại còn rất xinh hình in sắc nét lắm lun chất áo dày dặn chứ kí phải mỏng lét đâu tóm lại rất phù hợp vs giá tiền luôn	Material	0	positive
+0#13#0	chất liệu:mát màu sắc:đẹp shiper giao nhầm nhà 	Material	0	positive
+18#37#0	đúng với mô tả:ok áo mặc mát, mềm mịn, colmate thì đã quá ổn về chất lượng rồi săn sale nên giá quá ổn cho một chiếc áo	Material	0	positive
+12#30#0	màu sắc:nâu chất liệu:vải mỏng đúng với mô tả:đúng áo quá mỏng	Material	2	negative
+28#39#0	nhận sản phẩm hơi lâu nhưng vải mặc mát, đóng gói đẹp, sẽ quay lại	Material	0	positive
+54#115#0	đúng với mô tả:chuẩn không cần phải chỉnh màu sắc:đen chất liệu:không rõ  mua tặng cho bố,thấy mẹ bảo chất này nóng nên mua size lớn hơn nha mn shop gói hàng và chuẩn bị hàng nhanh chóng cẩn thận,tư vấn nhiệt tình chu đáo	Material	2	negative
+53#66#0	mình đã nhận được hàng.ông xã m mặc khen đẹp lắm nha.chất vải đẹp,không dư chỉ thừa,giao hàng nhanh,shop tư vẫn rất nhiệt tình.áo m chụp ảnh thật nha.ưng ý.đánh giá shop 5 cần lại ủng hộ shop tiếp ạ	Material	0	positive
+61#68#0	chất liệu:co giãn màu sắc:giống như hình đúng với mô tả:đúng mặc mát. vừa size. nên mua nha mn.okok mua sale 138k. cao 1m62 nặng 64kg mua size l mặc thấy ok	Material	0	positive
+41#68#0	Áo xịn lắm nha mọi người hình in đẹp nữa chất vải cũng oke la lắm nè	Material	0	positive
+26#33#0	sản phẩm rất đáng để mua, vải tốt. mình sẽ ủng hộ shop dài dài. cảm ơn shop	Material	0	positive
+123#180#0	giao hàng khác tỉnh trong mùa dịch này khá nhanh, đóng gói bên ngoài túi zip dày bên trong có thêm môtu túi đựng áo riêng, áo vải cotton mềm đẹp, vải này giặc máy thoải mái luôn ấy. ba m cao 1m7 65 cân mặc xl thoải mái vừa đẹp, đúng màu xanh coban nhé do hình chụp chá nắng nên màu trông khác.	Material	0	positive
+0#23#0	chất liệu:bình thường đúng với mô tả:bình thường màu sắc:bình thường hình ảnh chỉ mang tính chất nhận xu	Material	1	neutral
+0#27#0	chất liệu:chất liệu mặc mát màu sắc:màu đúng với mô tả giao hàng nhanh. hợp với giá	Material	0	positive
+11#23#0	màu sắc:ok chất liệu:ok đúng với mô tả:ok hàng giao nhanh , chị shiper thân thiện tốt bụng, áo đẹp và bảo quản khá tốt uy tín nhe và đẹp chuẩn nên mua nha cả nhà.hết.	Material	0	positive
+40#109#0	màu sắc:trắng đúng với mô tả:không đúng chất liệu:xuyên thấu áo thì chả giống hình vừa mỏng , xuyên thấu luôn(hình ảnh chỉ mang tính chất nhận xu)	Material	2	negative
+120#139#0	ui xịn thật sự.lần đầu tiên mua áo đc đóng trong cái hộp nhìn sang hẳn.lại còn đc tặng nước rửa tay và voucher lần sau. về chất áo mát lạnh, ko chỉ thừa.mặc okela luôn.đúng hãng cần tìm.	Material	0	positive
+0#7#0	vải mát, áo đẹp, đúng màu đúng mẫu giao hàng nhanh ạ.	Material	0	positive
+0#13#0	chất liệu:đẹp màu sắc:xinh đúng với mô tả:có colmate xưa giờ chất lượng rất ổn định so với giá tiền nên recomend nha.	Material	0	positive
+21#31#0	giao hàng siêu nhanh vải áo đẹp màu như hình mặc thoải mái mà mát lắm	Material	0	positive
+82#115#0	mình cao m63 nặng 48kg nhma mặc sz l với mình vẫn hơi ngắn, nói chung là củng ổn, giống hình nhma hơi nóng một chút	Material	2	negative
+0#13#0	Vải đẹp lắm ạ, hình in sắc nét, shop giao hàng nhanh xứng đáng 5sao	Material	0	positive
+12#33#0	áo hơi rộng vải không dày lắm đâu nhưng với giá tiền này thì k đòi hỏi j thêm	Material	2	negative
+88#121#0	chất liệu:đẹp màu sắc:đẹp đúng với mô tả:đúng giao hàng nhanh, mua dịp sale nên giá rẻ, chất liệu cho tới màu sắc rất đẹp	Material	0	positive
+45#53#0	màu sắc:xám áo đẹp mình đã mua lại nhiều lần chất mát mình mua cho bố mặc vừa in	Material	0	positive
+58#124#0	Màu sắc:đúng Đúng với mô tả:đẹp Chất liệu:dầy dặn Giá rẻ, mà vải rất đc. Tưởng mỏng dính nma rất dầy dặn như áo mua 250-300k Hình in đẹp	Material	0	positive
+31#60#0	màu sắc:ok đúng với mô tả:đúng chất liệu:ok chất liệu ok nhé màu sắc đúng màu mặc dễ chịu hàng giống hình sẽ ủng hộ shop thêm	Material	0	positive
+0#46#0	không phải vải cotton mà là vải poli chất nóng	Material	2	negative
+0#42#0	chất vải mát, mặc mùa hè thoải mái. áo đẹp. giao hàng nhanh, shop phục vụ tốt 	Material	0	positive
+61#78#0	chất liệu:vải thoáng mát màu sắc:đen áo đẹp vừa với giá tiền mặc thoáng mát ok	Material	0	positive
+73#89#0	Màu sắc:Xám đậm Chất liệu:cotton dày Đúng với mô tả:form rộng đúng mô tả Chất vải dày lắm + form rộng hơi dài nhé, mặc mùa đông bao ấm. Shop nhiệt tình cho đổi size (mình chịu phí ship)	Material	0	positive
+37#113#0	với giá chưa đến 100k 1 chiếc áo thì chất vải quá oke rồi ạ, theo cảm nhận ban đầu thì mình thấy vải thông thoáng, 	Material	0	positive
+7#30#0	áo đẹp chất liệu siêu xịn luôn. nên mua lắm nha mọi người giao hàng cũng nhanh nữa	Material	0	positive
+8#35#0	áo đẹp, mặc mát, mịn, không xù lông, đã mua nhiều lần ở shop. giao hàng nhanh, chất lượng. rất ưng ý	Material	0	positive
+65#83#0	Màu sắc:hồng Chất liệu:vải Đúng với mô tả:đúng Sản phẩm rất đẹp, nhưng vải hơi mỏng, Rộng so với mình. Giao hàng rất nhanh. Đóng gói kĩ càng. Lưu ý giặt xong bị nhắn rất nhiều Hình ảnh mang tính chất lấy xu	Material	2	negative
+7#15#0	áo đẹp chất mát giá hợp lí shop chuẩn bị hàng hơi lâu lên mua nha mọi người	Material	0	positive
+0#47#0	áo vải mịn mát , co giãn tốt siêu thích luôn ấy , giá sale quá rẻ so với chất lượng , shop lại có tâm cho mình đổi màu áo,đóng gói nhìn xịn xò ,cám ơn shop nhiều nha	Material	0	positive
+73#129#0	màu sắc:xanh aqua đúng với mô tả:đúng chất liệu:thun đã mua cái thứ 4 vì mặc khá mỏng, nhẹ, thoải mái để tập gym và chơi thể thao rất hài lòng về sản phẩm	Material	0	positive
+0#13#0	chất hơi nóng nhưng với giá 90k thì ko đòi hỏi đc gì hơn. mặc mùa thu thì đẹp	Material	1	neutral
+0#12#0	chất liệu:ổn màu sắc:đẹp đúng với mô tả:đáng để m	Material	0	positive
+42#55#0	Đúng với mô tả:đúng với mô tả Màu sắc:đen Chất liệu:tốt Sản phẩm đúng với mô tả hình ảnh và video chỉ mang tính chất	Material	0	positive
+31#39#0	thật sự thất vọng, áo rất nhỏ, vải mỏng, kh giống mô tả, size m mà nhìn như áo em bé, ai có ý định mua thì căn nhắc việc lựa chọn size, may mà mua sale chứ mua giá gốc chắc tức chết =))	Material	2	negative
+42#53#0	Màu sắc:trắng Đúng với mô tả:yes áo đẹp , vải dày dặn , với giá tiền này mà được như vậy là tốt lắm nha	Material	0	positive
+8#32#0	áo đẹp, vải mặc mát, thoáng, nhẹ. phù hợp mặc để chơi thể thao	Material	0	positive
+27#41#0	size chuẩn, màu như mô tả, mặc thoáng mát, để xem độ co giãn sau khi giặt thế nào, nói chung là hài lòng.	Material	0	positive
+12#28#0	áo đẹp lắm. chất liệu vải ổn. giao hàng thận thiện. chuẩn 5 sao nha. lần sau sẽ ủng hộ shop tiếp	Material	0	positive
+79#92#0	hàng chất lượng rẻ hơn siêu thị, sẽ mua nữa lần tiếp theo, giao hàng nhanh, rẻ giữ nhiệt lâu	Material	0	positive
+0#10#0	áo chất ổn. màu giống hình. bảng size khá chuẩn. giao hàng nhanh	Material	0	positive
+24#35#0	giao hàng nhanh!áo đẹp  chất vải ổn mình thấy quá ổn so với số tiền bỏ ra sẽ tiếp tục ủng hộ shop nhiều nhiều	Material	0	positive
+8#35#0	áo đẹp, mặc ok rất mát và thoải mái cho người ta thấy cái này là do một của mình e thấy là nó không có tác dụng với dữ liệu của mình thì mình thấy có bạn nói đúng ý em quá mà không thấy có :v	Material	0	positive
+0#29#0	chất lượng sản phẩm tuyệt vời, đóng gói chắc chắn, thời gian giao nhanh	Material	0	positive
+0#61#0	vải đẹp mát nhưng mà bao bì bị rách, nhăn, cổ áo cũng bị nhăn, tag bị cong lỗi còn lại thì bth mong sóp đóng gói kĩ càng hơn	Material	0	positive
+0#10#0	co dãn kém	Material	2	negative
+52#82#0	mình rất ưng ý với sản phẩm bên shop ạ, áo rất đẹp, chất lượng vải rất êm, dày dặn. mình cảm thấy ưng ý với shop ạ. shop đóng gói hàng chắc chắn và giao hàng cũng rất nhanh. shop tuyệt vời ạ 	Material	0	positive
+134#213#0	chất liệu:thun lanh màu sắc:xanh đúng với mô tả:dung voi mo ta hàng giao nhanh thật, mình đặt t7 mà t2 đã giao tới , ngoài mong đợi , mình mua thử 2 loại vải , nhận thấy loại 349k vải đẹp và dày hơn loại sale 159k	Material	1	neutral
+13#34#0	màu sắc:hồng chất liệu:vải cực xấu nhiều chỉ thừa, tiền nào của nấy 69k không ổn chút nào. đoán chững mặc mấy hôm là hỏng	Material	2	negative
+42#71#0	màu sắc:đen đúng với mô tả:đúng với mô tả chất liệu:thun nhưng hơi mỏng nhưng với giá tiền này thì ok	Material	2	negative
+37#59#0	packaging xịn. thời gian giao nhanh. chất vải mặc rất thích.	Material	0	positive
+0#11#0	áo hơi mỏng nhưng chất lượng nhìn chung là tuyệt vời mùi thơm vc :)))	Material	1	neutral
+0#12#0	chất liệu:ok màu sắc:ok đúng với mô tả:ok áo cũng đẹp mà mua 1 lần size l thì chật mà mua xl thì lại rộng vcl	Material	0	positive
+7#21#0	áo đẹp lên form chuẩn vải mát giao hàng nhanh chóng mn nên mua	Material	0	positive
+53#72#0	áo mát, vải co dãn tốt, tôn dáng, màu sắc đẹp, tươi, mặc rất êm và thích. sẽ ủng hộ tiếp tục nếu có dịp	Material	0	positive
+8#16#0	Đẹp nha chất dày hình nét chắc chắn vải khá mát chắc ko dễ xò lông đâu đường bo cổ cx chắc chắn nói chung đẹp nha mn Mình 1m68 64kg mặc size L vừa đẹp nha	Material	0	positive
+0#108#0	mình khá bất ngờ về chất áo, cứ nghĩ nó sẽ rất dày nhưng không, nó bth, khá mỏng, hơi xù và kh bị nóng đâu ạ. mình có mã và xu mua dc giá 5x nên rất ưng, còn với giá gốc 13x thì mình thấy đắt. cổ kh bị quá chật hay cao đâu nhé. mình 1m58,46kg mặc M vừa đẹp.	Material	2	negative
+33#50#0	Màu sắc:Đúng Đúng với mô tả:Đúng Chất liệu dày dặn đường may thì đẹp Mình mua đc giá sale áo với quần chỉ 2 trăm mấy ngìn thôi quá rẻ cho 1 bộ đồ dày dặn chất lượng Hình in trên áo đẹp nha, mọi người nên mua ạ	Material	0	positive
+34#72#0	quá ok luôn shop mặc vào vừa khít vải lại còn mềm mại thoáng mát nữa chứ	Material	0	positive
+48#67#0	chất liệu:vải đúng với mô tả:đúng màu sắc:trắng vải đẹp mà hơi mỏng chữ guci hơi bé so với hình ảnh nhưng với giá thì ổn rồi	Material	1	neutral
+55#90#0	Chất liệu:vải Đúng với mô tả:đúng Màu sắc:nâu Áo xinh, vải dày dặn, thời tiết này hơi nóng nma lên form xinh nha	Material	1	neutral
+33#52#0	màu áo nhìn ngọt gê, ưng bụng nè vải mềm và nặng tay	Material	0	positive
+0#7#0	vải tốt, k có chỉ thừa, màu đẹp, gói hàng cẩn thận,	Material	0	positive
+27#43#0	hôm nay nhận dc hàng áo vs chất vải rất đẹp shop tư vấn cũng ok.giao hàng cũng nhanh đặt mấy hôm nhận dc rui. áo rẻ cám ơn shop rất nhiều.	Material	0	positive
+8#20#0	áo đẹp, vãi hơi mỏng nhưng phù hợp với giá tiền	Material	1	neutral
+0#31#0	áo vẫn bị nhăn dù mình giặt tay. hơi thất vọng vì sp này của shop	Material	2	negative
+0#28#0	chất liệu:tốt, mặc thoải mái màu sắc:đẹp, như ảnh chụp đúng với mô tả:đúng mô tả sản phẩm đẹp, mặc thoải mái, đã sử dụng nhiều sản phẩm của colmate trước đây và tiếp tục ủng hộ.	Material	0	positive
+0#7#0	chất ok. với giá 99k thì cũng ổn rồi. mình vai rộng size l vẫn thiếu chút.	Material	0	positive
+0#44#0	sản phẩm của shop rất đẹp, dầy dặn, chất đẹp, mình rất ưng ý. với giá này mà mua được sản phẩm chất lượng như thế này thì quá tuyệt.	Material	0	positive
+47#63#0	form áo rất là đẹp. hàng mình nhận chuẩn hình, chất vải mặc mát lên dáng rất là ok. nhận cái áo mà ưng quá ta 	Material	0	positive
+38#74#0	màu sắc:den trang đúng với mô tả:đúng chất liệu:thể thao hàng đẹp, mặc mát. mua rất nhiều lần rồi, ủng hộ shop dài	Material	0	positive
+11#26#0	áo vừa vặn vải xịn lắm nhe, gói hàng siêu ưng shiper thân thiện lắm luôn	Material	0	positive
+33#45#0	chất liệu:vải màu sắc:be , trắng vải rất mỏng , hàng đóng gói cẩn thận , chất liệu dễ nhăn lúc lấy áo ra nhăn kinh khủng dù đem treo móc nhưng vẫn nhăn nhiều nên suy nghĩ kĩ khi mua chất lượng ko như mong đợi lắm	Material	2	negative
+55#86#0	Đúng với mô tả:đúng Màu sắc:be Chất liệu:cotton Áo đẹp chất lượng cực tốt mát lắm luôn Mà hơi bị to nên lùi size mặc cho đẹp	Material	0	positive
+52#68#0	Chất liệu:tot Giao hàng đúng và đủ. Áo form rộng và chất vải dày dặn. Nói chung là mình ưng lắm ạ. Sẽ ủng hộ shop nhiều	Material	0	positive
+0#30#0	chất liệu:rất đẹp, cải dày dặn màu sắc:màu giống hình rất hợp thời trang đúng với mô tả:nên mua nha mn ơi	Material	0	positive
+0#27#0	chất liệu:siêu mỏng luôn í?	Material	2	negative
+0#30#0	Chất liệu dày dặn ok sẽ ủng hộ. Có màu vẻ tối hơn màu trên ảnh	Material	0	positive
+135#152#0	màu sắc:chữ màu vàng ý mà cũng đẹp phết chất liệu:hơi mỏng đúng với mô tả:khá cũng ổn ko ngờ chữ màu vàng mà mặc nên cũng đẹp phết nma chất vải hơi mỏng . nói chung giá v là tốt r nha mn .	Material	2	negative
+24#51#0	sản phẩm khá ok nha chất vải khá mát ko xù lông giao hàng khá nhanh đặt 1 ngày giao rồi đóng gói cẩn thận nè hên nhận về ko bị gì cho shop 5 sao nha để lần sau lên ủng hộ shop tiếp định mua thêm mấy màu nữa nè mẫu kia chọn size hơi lớn kakak	Material	0	positive
+30#44#0	áo vừa xinh cho ông gầy 54kg, vải mát quá ok. lần 2 đặt mua ở shop.	Material	0	positive
+58#71#0	đúng với mô tả:chính xác chất liệu:polyester màu sắc:đúng hàng mềm, mịn, may kỹ. áo đẹp đáng với giá mua. thanks shop.	Material	0	positive
+45#56#0	chất liệu:tota màu sắc:đẹp áo chất lượng lắm mặc mát lắm lần sau swx ủng hộ nhiều hơn	Material	0	positive
+0#29#0	vải xấu mỏng không giốbg hình	Material	2	negative
+0#13#0	chất liệu:tot màu sắc:xanh aqua đúng với mô tả:ďung hang tot, y hinh, tu van size hoi chat van cho shop 5 sao	Material	0	positive
+133#141#0	chất liệu:vaỉ mát màu sắc:trắng đúng với mô tả:xịn shop nhiệt tình hỗ trợ đổi trả khi mình đặt nhầm sz dù là sp khuyến mãi ạ áo xịn, vải mát! săn sale giá khá hời!	Material	0	positive
+0#23#0	áo dày dặn,chất đẹp lắm,rất đáng mua ah,giá tiền lại rẻ so với chất	Material	0	positive
+108#145#0	mình không am hiểu về thời trang lắm, nhưng so với thông tin bài viết thì có lẽ sản phẩm chưa chuẩn lắm. 1. vãi hơi mỏng, chất vải củng k tốt lắm 2. áo k gắn mac gì cả 3. có lẽ áo chỉ là thun 2 chiều thôi, không phải 4 chiều ạ.	Material	2	negative
+35#69#0	giao hàng nhanh, áo rất xinh luôn, cầm chắc tay, vải cũng dày dặn nữa, màu ở ngoài xinh hơn nha mng ui	Material	0	positive
+0#25#0	chất liệu:mỏng thoáng mát màu sắc:xanh navi đúng với mô tả:giao hàng đúng chất lượng hợp vs túi tiền	Material	0	positive
+40#52#0	Giao hàng nhanh. Săn sale chỉ hơn 100k, chất mềm mát. Mặc lên vừa vặn rất thích, in đẹp. Đáng mua nhé	Material	0	positive
+55#69#0	Màu sắc:be Đúng với mô tả:đúng Chất liệu:cotton áo đẹp mà mặc mát lắm, mê xỉu, sẽ ủng hộ sóp 7749 lần nữa iu	Material	0	positive
+64#89#0	màu sắc:quá đẹp chất liệu:mát đúng với mô tả:đúng from quá rộng nhưng bù lại chất rất mát và đáng tiền	Material	0	positive
+96#108#0	lần trước mình mua áo màu trắng thấy đẹp ôm form giờ đặt thêm cái màu xanh thấy áo form rộng và vải mỏng hơn nhưng vì giá này cũng ok nên cho 4 sao.	Material	2	negative
+7#26#0	áo đẹp vải mát mịn nên mua . mạc vừa với kich thước shop đưa ra..	Material	0	positive
+144#177#0	đúng với mô tả:bt chất liệu:nóg màu sắc:xah áo giá bt! chất vải sờ khô tay đúg kiểu chấy vải đồ tt k xịn, áo này với thời tiết hiện tại thì đc, còn đâu vào mùa thì k mặc đc nóng, k phải chất vải tt lạnh mọi ng nhé! ảnh video áo vì quá nặng nên lấy tạm video mặc đồ của mình	Material	2	negative
+0#67#0	vải mềm mát,oke, kh mỏng, mình thấy dày dặn vừa đủ, hi vọng xài bền, hình in sắc nét, nhìn cuti	Material	0	positive
+32#46#0	màu sắc:đen đúng với mô tả:đúng chất liệu:mỏng hình in hơi nhỏ ko như mình nghĩ,tiền nào của nấy thôi ko đồi hỏi gì thêm	Material	2	negative
+15#25#0	Đúng với mô tả:áo mặc mát, form rộng dễ mặc Màu sắc:màu khá ổn Chất liệu:chất cotton mịn, ko bị nhăn Hình ảnh mang tính chất nhận xu	Material	0	positive
+0#18#0	chất liệu:khá móng giao nhầm zize	Material	2	negative
+0#16#0	vải cũng khá tốt trong tầm giá 76kg mặc size xl khá rộng rãi thoải mái. ai thích mặc kiểu ôm phom thì size l là vừa như in	Material	0	positive
+17#30#0	oki 8/10 điểm vì chất hơi nóng và phần in chữ hơi bị tróc 	Material	1	neutral
+0#14#0	áo khá dày dặn nhưng mình mua màu trắng áo lại có vài chỗ ố vàng	Material	0	positive
+0#19#0	chất liệu:không tốt màu sắc:đúng đúng với mô tả:đúng mình đặt 2 sản phẩm mà mình chỉ nhận được 1 cái không nên đặt 2 sản phẩm nha	Material	2	negative
+23#41#0	đúng với mô tả:ko đúng chất liệu:vải mỏng màu sắc:trắng ko như hình xấu mà ko đổi được.mẫu mã ko nên mua lừa	Material	2	negative
+40#56#0	sản phẩm tuyệt vời mình săn đc giá sale chất vải mịn,mát nên mua ạ	Material	0	positive
+17#31#0	sản phẩm rất đẹp vải rất là mát sẽ ủng hộ shop lần sau , đóng gói sản phẩm rất đẹp , người ship là mẹ của anh shiper , bà rất thân thiện luôn đang làm bài kiểm tra chạy vội ra lấy	Material	0	positive
+31#53#0	màu sắc:ổn đúng với mô tả:đúng chất liệu:vải xấu cứng	Material	2	negative
+0#24#0	áo chất liệu mát, vải ok, size mặc vừa, kiểu dáng ổn. giao hàng nhanh	Material	0	positive
+0#10#0	áo vải đẹp, đường may cũng đẹp, shop đóng gói kĩ, nhưng hơi nhỏ xíu so với ck mình, mong shop làm thêm 1 size bự hơn nữa 	Material	0	positive
+50#67#0	Chất liệu:cotton Đúng với mô tả:đúng Màu sắc:xanh Chất liệu vải tốt. Nhưng hơi rộng so với số .. cũng nên mua mọi người ơi..	Material	0	positive
+18#30#0	hàng đẹp.giá rẻ . chất mát mịn. có mác thương hiệu.thẻ bài.túi bóng. nói chung khá là đầu tư.gấp gói cẩn thận.đẹp. giao hàng nhanh	Material	0	positive
+0#28#0	vải đẹp, mặc mát, không nhăn, sản phẩm đúng như miêu tả. giao hàng nhanh. cám ơn shop!	Material	0	positive
+93#113#0	chất liệu:cotton đúng với mô tả:đúng màu sắc:đen với cái giá 19k này thì không đòi hỏi nhiều nhưng áo khá là mỏng và ngắn nhabfbabrabhbarbtahqhq	Material	2	negative
+130#145#0	màu sắc:xanh aqua đúng với mô tả:đúng chất liệu:thun nhận hàng rất ưng ý từ hộp đựng ngoài tới hộp trong ,cẩn thận,tới áo cũng ok,vải mịn mát cực,màu đẹp,lần sau ủng hộ shop tiếp nha	Material	0	positive
+59#77#0	Đúng với mô tả:đúng Màu sắc:be Chất liệu:vải Sản phẩm đẹp, vải dày dặn mát mẻ nchung là quá ote luôn a. Giá rẻ nữa mn nên ủng hộ	Material	0	positive
+0#11#0	áo chất đẹp mà hình in hơi ẩu :(( không được hộp với móc khoá 	Material	0	positive
+0#12#0	vãi hơi mõng nhưng mà vs giá tiền là rất ok rồi	Material	2	negative
+20#37#0	đúng với mô tả:dung chất liệu:vải mát màu sắc:xanh navy áo hơi nhỏ so với size muốn mặc rộng lên 1 sĩizw mua tăhbg bạn trai	Material	0	positive
+0#21#0	vải mịn , mát rất ưng . giao hàng lại cực kì nhanh , mà shop lại có tâm 	Material	0	positive
+0#22#0	chất vải hơi thất vọng	Material	2	negative
+0#21#0	áo đẹp chât mặc thích nhưng form l hơi rộng chút so với mình mình 1m7 64kg	Material	0	positive
+26#64#0	chất vải và đường may ổn, có vẻ hơi giày k bjt thấm mồ hôi tốt k. nhưng nhìn chung phù hợp với giá tiền, thái độ chăm sóc khách hàng tốt	Material	1	neutral
+0#19#0	kh ưng chất vải lắm nhưng giá cũng rẻ ạ hạe egbsoahqv hình anhe mang tính chất chận su	Material	2	negative
+19#41#0	màu sắc:đen size m chất liệu:thun mặc mịn, in đẹp, ko bị nhăn, vẫn còn đường chỉ bị lộ	Material	0	positive
+13#27#0	màu sắc:nhạt chất liệu:mỏng hàng không đạt tiêu chuẩn như hình ảnh	Material	2	negative
+0#13#0	hàng chất mát, đẹp trong tầm giá. size xxl 80kg mặc vừa, không rộng. màu xanh pastel đậm hơn hình. ủng hộ shop 5 sao.	Material	0	positive
+61#69#0	thấy nhiều đánh giá tốt mua hẳn 3 cái ai ngờ form ôm, suông, vải mỏng, m74 mang xl mà qua cả mông vai ngắn mà phần hông ôm, dáng thì dài, mang không đc thoải mái không xẻ tà mà ôm nữa nên khi ngồi xuống đứng lên khó chịu không biết may lỗi hay sao ấy chứ form này chỉ cho ng cực gầy và cực cao ạ	Material	2	negative
+0#20#0	chất liệu:trung bình đúng với mô tả:không giống lắm màu sắc:tạm	Material	1	neutral
+47#54#0	lần đầu tiên mua rất chất lượng nên mua nhe mn vải đẹp hợp vs giá tiền 	Material	2	negative
+19#51#0	Áo đẹp, form rộng, chất liệu dày dặn nhma 0 bị nóng, giao hàng nhanh, gói hàng cẩn thận nhma shop nên bỏ thêm giấy thơm để áo thơm hơn	Material	0	positive
+0#18#0	chất liệu:mỏng nhẹ màu sắc:đúng đúng với mô tả:chuẩn áo nhanh khô, khá mát. chồng mặc suốt á. nên mua	Material	0	positive
+0#28#0	chất liệu:vải mềm mịn thoáng màu sắc:chuẩn đúng với mô tả:chuẩn shop giao hàng nhanh đóng gói cẩn thận, áo chuẩn màu chuẩn size, vải mềm mịn thoáng rất ok	Material	0	positive
+29#46#0	Shop giao hàng nhanh, áo đẹp chất thun dày dặn, size M nhưng khá rộng	Material	0	positive
+0#46#0	chất liệu:vải cảm giác bí nóng để tập thể thao màu sắc:ok đúng với mô tả:ok đóng gói sản phẩm rất xịn xò. giao hàng nhanh. áo màu sắc và form đẹp. điểm trừ duy nhất là chất vải bí nóng,chữ colmate in nổi, dễ bong khi giặt.	Material	2	negative
+97#116#0	thích cái shop này rồi , nhận được hàng rất là ưng luôn , đóng hẳn trong một cái hộp rất sịn sò, vải mát co giãn tốt , giá mua trong live rất rẻ nha sẽ ủng hộ tiếp , đánh giá 5 sao nha	Material	0	positive
+13#25#0	Màu sắc:Đúng Chất liệu:ok Hàng như hình nhưng size không đúng không giống nhau, kh bk là tuỳ mẫu hay sao nhưng mình nhận hàng cùng size nhưng cái to cái nhỏ, mình muốn đổi sz nhưng liên lạc hoài shop kh phản hồi cũng k có hỗ trợ gì trong khi thấy onl liên tục, Gọi Hotline cũng k dk, ghi hỗ trợ đổi trả trong vòng 3 ngày mà mới vài tiếng đồng hồ đã k thấy tl lại r, mình sẵn sàng hỗ trợ phí ship đổi trả nhưng shop cứ im mình rất bực trong khi cần gấp :))	Material	0	positive
+42#83#0	đúng với mô tả:đúng với mô tả màu sắc:đẹp chất liệu:mát áo mặc mát, màu đẹp, vải ok. hình ảnh mang tính chất nhận xu	Material	0	positive
+70#82#0	shop rất chuyên nghiệp từ vỏ bọc cho tới chất lượng giá cả phải chăng chất vải tốt đóng gói chắc chắn shiper nhiệt tình lắm nha nói chung là ưng hết sảy ạ sẽ ủng hộ shop lần sau nha	Material	0	positive
+0#5#0	áo xù, chất lượng thấp cực.	Material	2	negative
+18#40#0	màu sắc:xanh aqua chất liệu:vải thun mát đúng với mô tả:100% hehe shop ship khá nhanh do mình cần khá gấp cỡ 3-4 ngày gì đó. nam từ 1m77-1m9 mà hơi ốm thì mặc 2xl oke nha	Material	0	positive
+55#74#0	sản phẩm phù hợp giá tiền. đóng gói sản phẩm cẩn thận. sản phẩm không nóng.	Material	0	positive
+14#27#0	sản phẩm tốt, chất hơi nóng, giao hàng thì hơi lâu vì tết nhg cx ko sao, nói chung là ổn	Material	2	negative
+53#61#0	màu sắc:ok chất liệu:mỏng đúng với mô tả:binh thuong vai mong 	Material	2	negative
+68#81#0	màu sắc:đúng chất liệu:mỏng đúng với mô tả:không đúng như trên hình chất vải mỏng .hình kiểu khác ngoài cũng khác	Material	2	negative
+7#29#0	áo đẹp mặc mát co dãn tốt lắm mua làm quà tặng là ok lắm luôn nha mn	Material	0	positive
+20#45#0	áo xịn đẹp lắm nha, vải siu mềm, thấm hút tốt, giá cả hợp lí quá luôn	Material	0	positive
+27#62#0	đúng với mô tả:áo đúng màu chất liệu:mỏng phù hợp với giá tiền màu sắc:sản phẩm​ đúng​ như​ mô tả​	Material	1	neutral
+16#39#0	giao hàng nhanh mà chất vải áo nóng cực thôi thì tiền nào của đấy 	Material	2	negative
+0#11#0	áo chất đẹp mà giá lại rẻ nhưng mà giao hàng hơi lâu hic. thanks shop nha !	Material	0	positive
+32#62#0	Màu sắc:đẹp Đúng với mô tả:đúng Chất liệu:vải ổn nhưng hơi dày Sản phẩm đẹp, form ok. Mình mua size hơi to mặc hơi rộng. Sẽ còn ủng hộ shop nữa.	Material	1	neutral
+0#17#0	chất liệu:vải mát màu sắc:màu đen rất đẹp	Material	0	positive
+24#32#0	Áo xinh, màu giống ảnh, chất mát, không ngờ với giá như vậy có thể mua được chiếc áo chất lượng vậy ạ. Lần sau sẽ ủng hộ shop tiếp ạ	Material	0	positive
+0#18#0	chất liệu:hơi mỏng đúng với mô tả:bth màu sắc:đen áo bth hơi mỏng số vs mình nghĩ	Material	1	neutral
+0#13#0	chất liệu:mát màu sắc:đúng đẹp lắm lần sau sẽ ủng hộ shop giao hàng nhanh lắm 2 ngày nhận được	Material	0	positive
+26#66#0	giao hàng nhanh shop dthg chất vải mặc mát, co dãn và dày vừa phải hình in cute form áo đúng xịn đóng gói kỹ nói chung là siu thích chiếc áo nì 10 đỉm	Material	0	positive
+33#63#0	màu sắc:nâu đúng với mô tả:không chất liệu:mỏng áo xấu mỏng nữa mn k nên mua nha	Material	2	negative
+31#71#0	giao hàng khá là nhanh áo đẹp, chất vải mỏng và mát , chất vải cũng đẹp	Material	0	positive
+34#64#0	Đúng với mô tả:áo rất xinh luôn ạ Chất liệu:vải khá dày và đẹp ạ Màu sắc:màu như hình luon ạ 10đ cho chiếc áo xinh này	Material	0	positive
+0#7#0	vải đẹp màu cũng đẹp sẽ tiếp tục ủng hộ shop	Material	0	positive
+0#57#0	xuất sắc luôn shop ơi, từ chất liệu, kiểu dáng và màu sắc, rất đáng tiền	Material	0	positive
+29#36#0	Áo đẹp, đường may chắc chắn, vải dày, in xịn xò, mà không hiểu sao áo này không có tem mác	Material	0	positive
+0#29#0	Chất liệu:vải rất mềm mại nha Đúng với mô tả:đúng mô tả Màu sắc:đen be đen be Nên mua nha a mn ơi giao nhanh mà chất oki	Material	0	positive
+87#99#0	Chất liệu:coton Đúng với mô tả:đúng với hình ảnh Màu sắc:be suawx Shop giao hàng nhanh VẢi hơi mỏng nhưng so với tầm giá là ổn	Material	2	negative
+63#96#0	Đúng với mô tả:Đúng với hình mẫu shop Màu sắc:be sáng khá xinh Chất liệu:vải mặc siêu mát Áo 10đ.	Material	0	positive
+37#91#0	Đúng với mô tả:đúng nha Màu sắc:nude Chất liệu:oke áo rất xinh chất vải cũm oke lắm ko mỏng m63 45kg bận vừa đẹp nhe (đánh giá lúc nữa đêm mới bít ch chụp mới quay nhảm th :))	Material	0	positive
+108#129#0	màu sắc:đúng chuẩn đúng với mô tả:rất ko chất liệu:nhẹ và mát mình nhận đc hàng và rất thích, màu áo chuẩn, vải nhẹ và thoáng mát, đóng gói wá đẹp, mình sẻ đặt mua thêm và mọi người cũng nên mua nhé, tặng shop 10 sao , tks.	Material	0	positive
+23#42#0	hàng đẹp lắm mọi người vải mềm mịn nữa chứ.nên mua nha mọi người đợi hơi lâu tí nhưng hàng đẹp	Material	0	positive
+17#59#0	chất lượng tệ áo mỏng cực luôn, nhìn thấu qua lớp vải cơ mà:))	Material	2	negative
+0#13#0	chất liệu:khá màu sắc:bạc hà đúng với mô tả:đúng mua 2 áo, 1 áo bị dơ. size thì rộng hơn áo mình từng mua lần trước. khá khó chịu vì giờ mua không biết chọn size thế nào. tuy nhiên hỗ trợ đổi trả thì làm rất tốt. nên cho 4 sao.	Material	1	neutral
+24#68#0	dcm nc áo ngắn mỏng vcl chất déo thich clm gi nchung áo bth vải mỏng	Material	2	negative
+0#13#0	chất liệu:mát màu sắc:xanh bóng đêm đúng với mô tả:đúng áo đẹp,shop tư vấn nhiệt tình	Material	0	positive
+89#154#0	màu sắc:nâu đúng với mô tả:đúng, màu đúng chất liệu:vải thun from áo không phải gu mình, chất vải hơi mỏng vải mỏng nhưng mà mặc bị bí, nóng chứ không mát	Material	2	negative
+0#13#0	chất liệu:tạm màu sắc:đen đúng với mô tả:tạm cũng được .	Material	1	neutral
+0#20#0	chất liệu:khá là dày màu sắc:đẹp chuẩn màu yêu cầu đúng với mô tả:về kích cỡ size thì có thể cân nhắc nếu bạn ko thích form body. kỳ thực tôi đi mua đồ chưa bao giờ gặp cái shop nào như thế này luôn. quá ư là ưng ý và hài lòng =)))). mặc dù chưa biết độ co giãn sau khi giặt ra sao nhưng điểm + đầu tiên tôi muốn đề cập là cách đóng gói và giao hàng của shop :))). cảm giác đúng kiểu bạn là thượng đế ấy (có hình). chắc chắn, gọn	Material	0	positive
+33#45#0	shop dễ thương, giao hàng nhanh. chất vải tốt lên form chuẩn nha	Material	0	positive
+15#41#0	đúng với mô tả:màu đen hơi mỏng. trắng ok	Material	1	neutral
+98#123#0	mình mua 7 áo nhưng shop giao có 6 cái thôi, thiếu mất 1 cái mà nhắn shop chưa thấy shop trả lời. chất liệu vải cũng tạm ổn, ko biết mặc có nóng ko vì chưa thử.	Material	1	neutral
+0#12#0	chất liệu:ok đúng với mô tả:ok màu sắc:ok hình ảnh chỉ mang tính minh hoạ. đóng gói tốt. giao hàng nhanh	Material	0	positive
+36#48#0	đúng với mô tả:khá giống màu sắc:ok chất liệu:ổn ưng ý	Material	0	positive
+12#28#0	áo rất đẹp, chất vải rất đẹp mà giá tiền chỉ bằng nửa loại yody. shop giao hàng rất nhanh. sẽ còn ủng hộ shop dài dài.	Material	0	positive
+16#37#0	áo màu rất đẹp, chất liệu vải mịn mát. nói chung rất đáng tiền	Material	0	positive
+12#45#0	áo rất đẹp, chất vải mềm mát, thấm hút mồ hôi. giá sale nên rất rẻ so với chất lượng, fom áo chuẩn mặc lên rất đẹp. shop giao hàng rất nhanh, đóng gói cẩn thận lần sau sẽ mua tiếp của shop. đánh giá shop 5 sao về chất lượng và sự nhiệt tình	Material	0	positive
+42#49#0	đúng với mô tả:đúng chất liệu:… màu sắc:… vải mát, mua lần 2 rồi mà vẫn rất ưng, sẽ ủng hộ shop tiếp	Material	0	positive
+69#79#0	chất liệu:vải màu sắc:ok đúng với mô tả:ok giao hàng hơi chậm 1 xíu, vải ok nha phù hợp giá tiền. áo hơi bẩn 1 chút shop khắc phục nhé	Material	0	positive
+12#29#0	màu sắc:nâu chất liệu:mát nha đúng với mô tả:màu nhạt ơi là nhạt đẹp đấy mỗi tội màu nhạt quá hơi thất vọng xíu	Material	0	positive
+15#35#0	sản phẩm tốt , chất lượng áo rất ok , giá cả phù hợp , bên shop tư vấn cũng rất tận tình. nói chung nên mua	Material	0	positive
+66#80#0	màu sắc:nâu đúng với mô tả:gần chất liệu:vải sản phẩm cũng được nhưng vải mỏng tiền nào của nấy thôi mn cũng nên mua màu sắc ko giống trong ảnh	Material	2	negative
+77#84#0	đúng với mô tả:đẹp chất liệu:được màu sắc:trắng phông áo đẹp, đúng với mô tả mặc mát. mình nhận đc hàng thì hơi bị dơ ở cổ áo 1 xíu nhưng mà mặc ok lắm	Material	0	positive
+0#20#0	áo chất thể thao mát , săn được sale nên giá ổn và ship nhanh ạ .	Material	0	positive
+34#57#0	Ở ngoài là màu hồng dâu xinh lắm, vải đứng form, dày đẹp. Áo đẹp không có chỉ thừa	Material	0	positive
+64#96#0	chưa bao giờ mua được 1 chiếc áo đẹp mà ưng ý như chiếc áo này, chất vải mềm mát thấm hút mồ hôi, giao hàng rất nhanh mn ạ	Material	0	positive
+0#7#0	áo mỏng nhma với giá này cũng ổn	Material	2	negative
+63#81#0	Đúng với mô tả:đúng Màu sắc:trắng shop gói kỹ càng, hình in và chất liệu ổn lắm ạ, mình mua màu trắng k bị lộ đâu recomend mn nên mua nha	Material	0	positive
+57#84#0	Hình ảnh mang tính chất nhận xu nên mọi người dừng để ý. Chất vải mịn, không quá dày, với giá này cũng hợp lý, đóng gói xinh, gọn	Material	0	positive
+17#24#0	hàng đẹp lắm nha vải đẹp rẻ đáng tiền mua giao hàng cực nhanh cho 5 sao	Material	0	positive
+24#36#0	màu sắc:chuẩn chất liệu:vải mỏng quá đúng với mô tả:cũng ok	Material	2	negative
+53#74#0	chất liệu:cotton màu sắc:xanh aqua đúng với mô tả:ok chất vải đẹp, mặc mát, màu như hình. lần đầu mặc đồ colmate thấy ok. logo in 3d. form xuông nên ko đứng áo lắm. mặc vừa size. anh em nên mua để trải nghiệm. chất lượng sản phẩm tương đối tốt.	Material	0	positive
+166#174#0	mình thích cách shop chốt đơn và gửi vận chuyển cực nhanh. thấy 7.7 shop bán rất nhiều mà vẫn gửi tới mình chưa đến 2 ngày. sản phẩm đẹp, ko chỉ thừa, đường may đẹp, vải đẹp.	Material	0	positive
+41#48#0	hàng giao lâu, đúng 1 tuần mới nhận đc,. vải đẹp, k chỉ thừa, nói chung rất ưng, sẽ ủng hộ tiếp..	Material	0	positive
+0#13#0	chất liệu:đẹp màu sắc:hồng áo đoàn kết và xây dựng hình ảnh của mình là người lớn tuổi	Material	0	positive
+47#58#0	áo đẹp lắm luôn. hàng colmate chất lượng thât. vải mịn mát. còn coa hộp lịch sự nữa chứ	Material	0	positive
+0#7#0	áo mỏng	Material	2	negative
+116#145#0	màu sắc:nâu đúng với mô tả:không chất liệu:vải siêu mỏng vì giá rẻ và xem live nên với giá này không đòi hỏi gì cao nhưng mà chất vỏng mỏng vcl á	Material	2	negative
+50#73#0	chất liệu:mongr đúng với mô tả:khong màu sắc:tots áo quá mỏng , chất nóng	Material	2	negative
+0#21#0	chất liệu:áo hơi mỏng màu sắc:đẹp đúng với mô tả:tốt chưa tạo được form dụng cụ tiệt trùng quá trình nó phải được em ạ em cám ơn anh chị	Material	2	negative
+14#53#0	màu sắc:không chất liệu:cotton mặc ko được áo bị giản	Material	2	negative
+12#26#0	màu sắc:đen chất liệu:mỏng	Material	2	negative
+50#65#0	Màu sắc:be Đúng với mô tả:đúng Chất liệu:không rõ Vải mặc khá mát chất lượng rất ok khi giặc phơi ít bị nhăng hơn cái brand khác	Material	0	positive
+0#28#0	chất liệu:mềm mịn thoáng mát màu sắc:xanh đậm với đen đúng với mô tả:đúng nha sản phẩm rất tốt luôn áo xịn so với giá tiền	Material	0	positive
+20#28#0	áo giao hàng nhanh. chất đẹp, fom đẹp mà giá lại rẻ. các mẹ nên mua cho chồng, cho con trai nhé 	Material	0	positive
+24#30#0	chồng mình mặc rất vừa. áo mát. phom chuẩn. munhf sẽ quay lại ủng hộ shop. hình ảnh mang tính chất nhận xu.	Material	0	positive
+36#47#0	sản phẩm tuyệ vời , giao hàng nhanh vải oke nha . phù hợp với giá tiền. màu sắc đẹp . rất đáng để mua	Material	0	positive
+48#75#0	chất liệu:mát màu sắc:chuẩn đúng với mô tả:đúng vải sờ thích tay, nhẹ, mát. mua nhiều rồi. giao hàng nhanh	Material	0	positive
+0#52#0	vải rất là mỏng, sáng mặc ra đường là như xuyên thấu . còn tệ hơn hàng chợ, coi như xui v..	Material	2	negative
+50#75#0	ui không ngờ giá rẻ như vậy mà áo chất lượng quá. vải cực kì dày dặn luôn ạ. được đóng gói trong khuôn giữ form áo. rất hài lòng 	Material	0	positive
+98#111#0	đúng với mô tả:lúc đầu tưởng màu hơi đóm xám mà giao hàng ra màu đen cx hơi thất vọng màu sắc:đen chất liệu:tốt	Material	0	positive
+0#21#0	chất liệu:cũng khá ổn màu sắc:trắng đúng với mô tả:đúng với mota sp tốt	Material	0	positive
+12#55#0	Áo đẹp lắm, áo không dày cũng không mỏng, mặc rất thích. Form và số đo đều đúng theo mô tả	Material	0	positive
+55#93#0	Đúng với mô tả:Đúng Màu sắc:Trắng Chất liệu:Vải cotton Vải áo không dày quá, không dễ bị giãn, form áo ok, chất lượng in khá tốt	Material	0	positive
+23#63#0	đồ colmate thì xịn òi, vải mát ko bị nhàu khi giặt, dùng đc bền và đóng gói rất chỉnh chu	Material	0	positive
+9#21#0	hàng đẹp vải hơi nóng giao hàng khá nhanh shop dễ thương,..	Material	2	negative
+13#41#0	màu sắc:đúng chất liệu:khong phải cottong	Material	2	negative
+0#13#0	chất liệu:thô đúng với mô tả:k đúng màu sắc:màu nâu k đúng mô tả. khác xa	Material	2	negative
+36#49#0	màu sắc:xám đậm đúng với mô tả:đúng chất liệu:tốt sản phẩm tốt, giá rẻ, rất đáng tiền mua, mọi người nên mua để mặc	Material	0	positive
+70#86#0	Màu sắc:thắng Chất liệu:vải j á Đúng với mô tả:đúng áo đẹp form ok nè cũng dày dặn lắm đáng tiền mn nên mua thử nha	Material	0	positive
+0#65#0	áo mặc vừa màu sáng trắng chất lượng dày dặn nhưng vẫn khá mát mẻ	Material	0	positive
+48#61#0	màu sắc:đen đúng với mô tả:có chất liệu:su mỏng chất khá mỏng nhma tiền nào của nấy ko đòi hỏi.	Material	2	negative
+45#72#0	đồ shop gửi đủ đubgs màu dsubgs size nha mn. chất đẹp áo đẹp lấm nha. yên tâm mua	Material	0	positive
+0#80#0	Áo chất oke, mặc dễ chịu. mình mua ở shop lần này là lần 2 vì chất áo hợp ý mình. cơ mà cái áo cũ nó bị bung chỉ ở cổ áo sau 2 tuần mặc nên hơi khó chịu. mình cao m58, 49kg lấy size M mặc là hợp lý	Material	0	positive
+0#15#0	vải áo đẹp, mát, màu như hình, giá quá tốt, giao hàng nhanh	Material	0	positive
+71#100#0	ở ngoài màu tươi hơn tý, giao hàng ok, đóng gói cẩn thận, đẹp mắt lắm, chất khá co giãn, lên rất đẹp, sẽ ủng hôn shop lần nữa 	Material	0	positive
+0#25#0	vải quá mỏng mặc rất nóng nói chung là áo không đẹp không như mong đợi 1 chút nào ai có ý định mua nên xem xét kĩ chứ k như mình mua về vứt đi	Material	2	negative
+36#49#0	màu sắc:den đúng với mô tả:đúng 70% chất liệu:tạm tiền nào của nấy mực in ko đều áo khá mỏng chỉ vậy thui	Material	1	neutral
+33#97#0	shop đóng gói sản phẩm cẩn thận. chất vải cũng k xuất sắc lắm nhưng săn sale dc nên cũng hài lòng	Material	1	neutral
+0#22#0	áo mỏng nhìn ko dc mát, giá 188k chứ giá hơn 300k thì bị đắt	Material	2	negative
+0#16#0	áo vải mịn, đẹp, fom chuẩn, lần đâu tiên mua áo rẻ mà vải đẹp như vậy, mọi người nên mua nha. giao hàng rất nhanh.	Material	0	positive
+32#42#0	Màu sắc:xám Đúng với mô tả:đẹp, ko quá dày Áo đẹp vừa form, okela phết ai 1m7 như tui thì mặc đẹp nha	Material	0	positive
+29#41#0	màu sắc:ok đúng với mô tả:ok chất liệu:ok ok	Material	0	positive
+76#126#0	Màu sắc:hồng pastel Đúng với mô tả:đúng Áo xinh nha mng, mình lười chụp lại chứ vải k bị quá dày hay quá mỏng, mặc mát dễ chịu giao hàng nhanh đóng gói cẩn thận nên mua nhé ạ,	Material	0	positive
+37#56#0	giao hàng đúng hẹn. áo mặc fit body, chất vải thoáng mát	Material	0	positive
+50#68#0	màu sắc:trắng đúng với mô tả:khong đúng voi mô tả chất liệu:vải mỏng	Material	1	neutral
+378#399#0	màu sắc:khi đặt thì màu đen ship về r thì màu trắng đúng với mô tả:không đúng chất liệu:chất cotton su shop giao hằng kh đúng vs khách đặt tôi muốn trả hàng nhưng do sơ suất mà tôi đã dí đã nhận đc hàng trước khi bóc và vì thế tôi đã kh trả lại hàng đc tôi bt do tôi nên pk chịu thôi cuối cùng tôi muốn nói rằng mọi người hãy nên cân nhắc bản thân rằng áo của shop kh đc đẹp mà chất vải còn nóng nửa mặc lên rộng thênh thang tôi rất hối hận vì mua hàng của shop (ham rẻ) tôi muốn trả hàng…….	Material	2	negative
+13#44#0	màu sắc:nhạt chất liệu:rất mỏng vãi rất mỏng giá rẻ nên như vậy, đc cái in đẹp	Material	2	negative
+28#59#0	Ảnh và video chỉ để nhận xu Chất áo ok ,đẹp mặc mát lắm nha, mn lưu ý chọn kĩ sai vì form áo sẽ hơi rộng mình m58 mặc trùng qua m	Material	0	positive
+0#26#0	chất liệu:vải thấm hút tốt màu sắc:đẹp đúng với mô tả:áo chuẩn mặc vừa đúng size hàng đóng gói ok..áo mặc vừa in chất liệu vải thấm hút mồ hôi tốt.sẽ ủng hộ shop dài	Material	0	positive
+0#18#0	chất liệu:hơi mỏng màu sắc:đen đúng với mô tả:có giấy thơm áo cũng đẹp nhưng mà hơi mỏng cũng phù hợp với giá tiền 	Material	2	negative
+0#24#0	áo chất liệu khá xịn xò, chỉ thừa còn ít nhưng không đáng kể. sản phẩm tốt hơn trong tầm giá:))))	Material	0	positive
+0#14#0	chất thông hơi . chưa mặc nên chưa đánh giá độ col. nhưng ưng đóng gói vs hộp lắm ạ. thanks shop về quà tặng kèm	Material	0	positive
+39#60#0	Màu sắc:be Đúng với mô tả:đẹp lắm luôn Chất liệu:vải dày dặn hình in rõ nét áo đẹp lắm nha ai đang băn khoăn k biết mua hay k thì yên tâm nhé vải dày dặn form xinh lắm lun	Material	0	positive
+31#67#0	áo đẹp phù hợp với bố tôi hehe chất vải sờ cũng dày dặn thích thích	Material	0	positive
+75#86#0	shop giao hàng nhanh. mình mua giá sảl nên rất rẻ. áo màu đẹp, giống hình, chất vải ok. tầm tiền mà áo chất lượng như vậy thì ok quá. sẻ mua tiếp ở shop.	Material	0	positive
+12#30#0	màu sắc:đen chất liệu:mỏng dày đúng với mô tả:áo đúng như hình ạ áo rất xinh nhưng hơi mỏng mình mua 29k với giá nayfy rất ưng ý. lần sau sẽ ủng hộ shop	Material	2	negative
+0#9#0	chất liệu:vải màu sắc:đen mỏng	Material	2	negative
+0#14#0	áo đẹp vải mát giao hàng nhanh shiper thân thiện, nên trải nghiệm nha	Material	0	positive
+0#88#0	vải rất xấu. chả hiểu do sale nên shop bán vải xấu ra hay thật sự do chất vải là như vậy. rất thất vọng vì giá là giá sale không phải giá gốc nên đừng nói là tiền ít mà đòi đồ tốt. nếu ai có ý định mua thì xin dừng lại nha.	Material	2	negative
+10#25#0	áo y hình.vải mịn dày dặn.shop tv hỗ trợ nhiệt tình.sẻ ủng hộ shop tiếp ạ. aaàa	Material	0	positive
+0#17#0	Chất liệu vải đẹp. Hình in sắc nét. Đường may mũi may đẹp. Chỉ có điều bo cổ hơi to và thừa bo cổ sau nên lúc mặc lên cổ xấu.	Material	0	positive
+51#62#0	Đóng gói sản phẩm cẩn thận Vải mát giao hàng nhanh Không nóng.	Material	0	positive
+44#60#0	giao hàng nhanh..áo rất xinh,from áo đẹp và chất vải rất xịn mà giá lại siêu rẻ.rất là bất ngờ mọi ng nên mua nhé	Material	0	positive
+14#95#0	màu sắc:cx đc chất liệu:nói coton khô mà ra thành vải nilong ko đúng chất liệu áo, mặc rất nóng	Material	2	negative
+19#57#0	giao đúng số lượng vải hơi mỏng nói chung tiền nào của đó	Material	2	negative
+11#23#0	Màu sắc:be Chất khá oke nố chung đẹp mình app mã các kiểu thì xuống 108k cx oke	Material	0	positive
+38#52#0	đúng với mô tả:cái chữ nổi màu hơi lạ chất liệu:mỏng vừa với giá tiền màu sắc:nâu vàng cũng tạm. mua 9k nên không dám đòi hỏi gì nhiều.có hơi bất ngờ vì màu chữ nổi không giống với ảnh mẫu	Material	1	neutral
+68#80#0	chất liệu:không biết màu sắc:xanh đúng với mô tả:đúng chất lượng ổn vải hơi mỏng gói hàng cẩn thận giao nhanh	Material	1	neutral
+0#11#0	Áo mỏng mềm Form ko quá đẹp Giá ổn áp Tiền nào của nấy Hoạ tiết in rõ	Material	0	positive
+21#39#0	màu sắc:màu đen, đẹp chất liệu:hơi nóng	Material	2	negative
+68#75#0	màu sắc:xanh đen đúng với mô tả:đúng chất liệu:bsnfns màu xanh đậm. vải mát, có hộp đóng gói đẹp nhé.	Material	0	positive
+182#273#0	chất liệu:nilon màu sắc:đen đúng với mô tả:ko hề t thấy đánh giá vải dày mặc mát. thông tin áo thì shop để là cotton xong cái chất áo ngoài thì là ni lon mỏng hơn cả mỏng ko co dãn. chất áo y hệt cái chất mà ở bộ đồ 28k t mua trên tiktok. bỏ ra 80k để mua cái áo ch đến 28k. nhưng mà sau khi nhắn tin với shop thì shop xin lỗi mình và gthich do đợt này lô sản xuất bị lỗi nên sẽ hẹn đổi trả hàng hoặc là hoàn tiền áo cho mình. vì cx do bên sản xuất bị lỗi hàng nên mình cx ko có vđ gì nx nhe.	Material	2	negative
+9#33#0	áo xinh, chất liệu rất ổn luôn nè, shop giao hàng nhanh luôn ạ.	Material	0	positive
+0#27#0	áo đẹp vải mát sản phẩm tốt gia cả hợp lý giao hàng nhanh 1 ngày sau đã có hàng.	Material	0	positive
+7#26#0	Áo đẹp mà vải cũng dày nữa giao hàng nhanh shipper thân thiện.	Material	0	positive
+92#119#0	chất liệu:thun màu sắc:xanh xám, đen đúng với mô tả:chuẩn hàng được gói trong hộp xinh xắn, chất vải mỏng thoáng, chuẩn. ok	Material	0	positive
+81#129#0	đúng với mô tả:đẹp màu sắc:đúng (trắng ) chất liệu:ko đc cho mấy in hình hơi lỗi cũng khônh suất sắc cho mấy do chất vải hơi mỏng in hình thì hơi lệch so với ở live mọi người lên mua màu đen cho nó nổi hình lên nhé	Material	1	neutral
+0#13#0	chất liệu:tốt đã nhận đủ hàng, chất lượng sản phẩm phù hợp với giá tiền, hình ảnh chỉ manh tính chất nhận xu	Material	0	positive
+0#32#0	vải dày sợ vào cảm giác mát tay. hàng ok đấy mn nên mua nhé. kb kiểu khác vải ok k nhỉ	Material	0	positive
+53#87#0	chất liệu:vải đúng với mô tả:chữ hơi nhỏ màu sắc:đen mong shop khắc phục vì áo hơi mỏng và chữ nhỏ nha shop	Material	2	negative
+0#12#0	chất liệu:ok màu sắc:ok đúng với mô tả:ok giao hàng nhanh, đóng gói cẩn thận. sẽ ủng hộ thêm	Material	0	positive
+10#32#0	áo đẹp. mặc rất thoáng mát mua đồ collmat lần 2 rồi. rất ưng cách đóng gói	Material	0	positive
+0#37#0	vải mềm thoáng mát. mặc rất thoải mái. size hơi rộng. có thể giảm 1 cỡ	Material	0	positive
+99#140#0	lan dau mua ao cua shop la ung cai bung, chon size l mac vao vua luon ( minh cao 1,66 nang 67 kg), ao mac mat, vai khong day cung khong mong. that su khong nghi mua duoc ao chat luong ma gia hon 90k. mong cho nhung dot fash sale tiep theo cua shop.	Material	0	positive
+45#77#0	mình 1m68 nặng 60kg chọn size l mặc vừa vặn. vải mặc thoáng mát, dễ chịu lắm.	Material	0	positive
+50#67#0	chất liệu:vải màu sắc:trắng ko giống như mong đợi vải ko đẹp tí nào	Material	2	negative
+16#41#0	hàng giao nhanh,vải rất mỏng chỉ có 1 lớp,có kèm theo giấy thơm với giấy cảm ơn hàng đóng gói khá kĩ,lần sau sẽ không mua nữa vì vải rất rất mỏng	Material	2	negative
+12#38#0	màu sắc:đen chất liệu:dải hơi mỏng nha đúng với mô tả:hàng giao đúng ngày, đúng mẫu áo đẹp, nên mua nha mấy bà	Material	2	negative
+34#64#0	đúng với mô tả:tạm đc màu sắc:đen chất liệu:cotton mỏng vải mỏng, đúng với giá tiền, hình ảnh mang tính chất nhận xu	Material	2	negative
+69#81#0	mình không ngờ là với giá 99k lại được 1 chiếc áo siêu đẹp như vậy ạ chất mịn đẹp rất hài lòng với sp của shop sẽ ủng hộ shop thêm ạ	Material	0	positive
+29#41#0	Màu sắc:ok Đúng với mô tả:ok Chất liệu:ok Ok và ok	Material	0	positive
+39#64#0	màu sắc:hồng form áo lên khá đẹp nhưng chất liệu áo thì hơi nhão nói chung là hợp với giá tiền	Material	2	negative
+25#36#0	đã mua nhiều lần ở shop. chất vải ok, phù hợp với giá tiền. shop cũng dễ thương.	Material	0	positive
+57#73#0	giao hàng nhanh, đúng mẫu đúng yêu cầu, hàng chất lượng, vải tốt, mặc mát…đã mua của shop nhiều lần luôn cảm thấy hài lòng cảm ơn shop cho shop 5 sao	Material	0	positive
+63#74#0	chất liệu:kbt màu sắc:nâu đúng với mô tả:đúng giao hàng nhanh ,áo hơi mỏng nhưng với cái giá này thì cx tạm được hình ảnh và video mang tính chất nhận xu	Material	2	negative
+41#103#0	Đúng với mô tả:hơi rộng so với 1m73 53kg Chất liệu:quá ổn áp mọi người ơi Thực sự áo rất đẹp và dày nữa ,đã nói là nói k với chỉ thừa nhé :Đ và áo chỉ có hơn 100k thôi tội gì mà k sắm một chiếc nhỉ anh chị em ?	Material	0	positive
+119#132#0	chất liệu:vải màu sắc:giống hình đúng với mô tả:đúng áo đẹp nha mn, mua của colmate mấy lần rồi nên thấy rất hài lòng. vải mát, mỏng, có điều size m mà thấy vânz hơi dài. nv tư vấn nhiệt tình, mình vó bị nhâmg size mà nv hỗ trợ đổi size rất nhiệt tình. hàng đổi lại rất nhanh. nói chung 10d	Material	0	positive
+39#80#0	đặt áo xám 2xl nhưng shop lại giao xl, áo hơi mỏng nhưng thoáng mát, co giãn tốt	Material	0	positive
+15#52#0	giá cả hợp lý, vải tạm được hơi mỏng so với mong đợi. nhưng mặc cũng ổn áp. giao nhanh, đóng gói kĩ. 	Material	1	neutral
+0#31#0	chất liệu:ko gióng như trên ảnh	Material	2	negative
+98#130#0	mình 1m68 nặng 60kg chọn size l mặc vừa vặn. lúc đầu mua xl hơi rộng nên pass lại cho người khác. vải mặc thoáng mát, dễ chịu lắm.	Material	0	positive
+7#21#0	áo đẹp vải thoáng mát giao hàng cũng nhanh rất đáng mua và sử dụng	Material	0	positive
+147#222#0	chất liệu:vải cảm giác bí nóng để tập thể thao màu sắc:ok đúng với mô tả:ok đóng gói sản phẩm rất xịn xò. giao hàng nhanh. áo màu sắc và form đẹp. điểm trừ duy nhất là chất vải bí nóng,chữ colmate in nổi, dễ bong khi giặt.	Material	2	negative
+17#53#0	đã nhận đc hàng. chất hơi mỏng xíu nhưng chấp nhận đc. ko có chút chỉ thừa nào. đường may đẹp. nên mua nha các bạn!	Material	0	positive
+39#57#0	đúng với mô tả:áo đẹp màu sắc:xanh đậm chất liệu:chất mát, nhẹ bố mình thích lắm, vừa vặn, mặc mát	Material	0	positive
+36#54#0	đúng với mô tả:ko biết màu sắc:đúng chất liệu:rất mỏng t nghĩ t sẽ ko mua lại	Material	2	negative
+0#11#0	áo chất đẹp nên mua nhé mọi người. vải dày mềm mịn rất ưng ạ. đánh giá đầy đủ k biết đk nhận thẻ k. sẽ quay lại đánh giá sau	Material	0	positive
+85#92#0	chất liệu:tốt, mát màu sắc:đúng với hình ảnh đúng với mô tả:sản phẩm đúng với mô tả, mặc mát, thích hợp chơi thể thao	Material	0	positive
+0#18#0	áo vải hơi mỏng nm với giá tiền v chỉ v thui điểm cộng có giấy thơm	Material	2	negative
+17#25#0	áo đẹp vừa form, vải tốt, nói chung là không có gì để chê hết chơn.	Material	0	positive
+0#16#0	chất vải mát oki nhưng hình in thì cũng gọi là bình thường thui chưa mặc lần nào mình đã thấy vài chỗ hơi bong tróc rùi ý hic , nhưng với giá này thì khá ok nha. clip mình quay siêu sát cận cảnh luôn đó , b nào mua tham khảo nha	Material	0	positive
+22#43#0	màu sắc:giao đúng màu chất liệu:vải hơi thô đúng với mô tả:đúng mô tả soạn hàng hơi lâu,giao đúng màu,giao hàng nhanh	Material	1	neutral
+71#93#0	đúng với mô tả:áo khá đẹp, giống hình, ny mình mặc lên kh có gì để chê chất liệu:vải mỏng mềm màu sắc:trắng quá tuyệt vời	Material	0	positive
+35#61#0	áo chất đẹp nên mua nhé mọi người. vải dày mềm mịn rất ưng ạ. đánh giá đầy đủ k biết đk nhận thẻ k. sẽ quay lại đánh giá sau	Material	0	positive
+39#50#0	áo đẹp giá cả hợp lí giao hàng hơi lâu chất vải ok màu xanh đẹp  	Material	0	positive
+15#32#0	đã nhận đủ áo, chất thun đẹp mịn, đường may đẹp, màu áo đẹp, nói chung là áo đẹp mà giá này quá rẻ sẽ mua lại, cảm ơn shop	Material	0	positive
+27#43#0	đúng với mô tả:không giống chất liệu:tạm ổn màu sắc:xấu lắm hình in xấu không tưởng tượng được nha	Material	1	neutral
+16#29#0	màu sắc:ko đúng chất liệu:thô đúng với mô tả:ko quá là tệ luôn thất vọng thật sự	Material	2	negative
+53#77#0	shop tư vấn rất nhiệt tình đóng gói kỹ càng cẩn thận vải áo rất là ổn áp luôn lầm sau sẽ ủng hộ tiếp ạ	Material	0	positive
+13#34#0	áo form đẹp, chất liệu vải dày dặn, mặc đẹp. giao hàng nhanh. thanks shop! sẽ ủng hộ lại	Material	0	positive
+18#30#0	shop nhiệt tình - chất vải đẹp mà giá lại rẻ - fom dáng ok- đường may chuẩn - hết màu báo khách chứ không tự ý đổi màu - vote 5 sao	Material	0	positive
+18#31#0	áo đẹp nhen. mình thun mát lạnh, kiểu đẹp mạnh mẽ cho anh nào mặc vào sang nhe	Material	0	positive
+23#31#0	áo đẹp giao hàng nhanh chất mềm . shop hộ trợ nhiệt tình .	Material	0	positive
+0#71#0	tôi chưa bao giờ mua được cái áo phông rẻ mà chất đẹp thế lày các ông ạ. form cực chuẩn, anh em nào muốn mặc ôm vừa phải thì cứ chọn đúng size nha. chất áo đúng như da cá, thấm mồ hôi mà mướt mượt, tôi k nghĩ dưới 100k mà có loại tốt thế này đâu. chị em nào mua cho chồng hay người yêu thì cứ triển	Material	0	positive
+7#19#0	áo đẹp chất vải mát giá cũng ok . mà shop còn có thư cảm ơn các thứ hin	Material	0	positive
+0#24#0	Chất liệu:vải co dãn xịn Màu sắc:be Khá ok giao cũng nhanh ạ hàng tốt nhé	Material	0	positive
+67#78#0	Chất liệu:vải mềm Màu sắc:đen Đúng với mô tả:đúng Áo khá rộng nha, vải đẹp lắm, giao nhanh, xịn nha	Material	0	positive
+24#52#0	shop giao nhanh hộp đẹp chất liệu thoáng thể dục tốt	Material	0	positive
+21#62#0	cũng như cái áo kia. chiếc áo này rất tốt. co giãn chuẩn chỉnh l	Material	0	positive
+0#12#0	vải khá mỏng hình in khá ok nói chung với giá vậy là khá ok rồi.	Material	2	negative
+43#59#0	màu sắc:trắng chất liệu:vãi đúng với mô tả:vãi hơi mõng nha	Material	1	neutral
+168#196#0	Chất liệu:Vải cotton Đúng với mô tả:Đúng Màu sắc:Đỏ tươi Áo form rộng, mình khoảng 60kg 1m56 mặc size M vẫn còn rộng rãi thoải mái, vừa phủ mông. Áo đẹp may chỉnh chu, vải dày dặn, ko bị mỏng chảy. Shop chuẩn bị và shipper giao hàng nhanh.	Material	0	positive
+28#50#0	màu sắc:đen mọi thứ đều ok. nhưng áo chất hơi nóng, hình in không được nét, mờ nhạt. mình đặt xl thì hơi to xíu. bạn nào muốn mặc không bị rộng quá thì đặt sz l nha p/s: shiper thân thiện, đáng yêu.	Material	2	negative
+8#11#0	áo đẹp, mát, giao hàng nhanh, đóng gói sản phẩm ki, cho shop 5 sao và se tiếp tục ủng hộ	Material	0	positive
+27#82#0	giao hàng nhanh màu áo đẹp tuy nhiên chất hơi dày nhưng đẹp mặc mùa thu là vừa đẹp	Material	1	neutral
+0#14#0	chất liệu:mỏng	Material	2	negative
+150#173#0	Màu sắc:trắng Đúng với mô tả:áo giống như hình ạ Chất liệu:vải thun Shop dễ thương cực Đóng gói cận thận Đem áo ra nghe toàn mùi thơm nhẹ dễ chịu cực áo vải chất lượng lắm í Hàng giao nhanh nữa rất chi là hài lòng luôn	Material	0	positive
+17#24#0	Áo siu đẹp luôn, mặc mát, hình in rõ nét, đóng gói cẩn thận, nếu có thêm hộp thì tuyệt vời luôn. Dù vậy nhưng chất lượng vẫn tuyệt vời, sẽ tiếp tục ủng hộ shop	Material	0	positive
+84#114#0	Chất liệu:vải Đúng với mô tả:y chang nha Màu sắc:be Mình không thích phần cổ áo lắm nhưng vải thì dày dặn, mềm lắm với cả mình đặt size rộng quá huhu	Material	0	positive
+53#72#0	đúng với mô tả:ko hẳn màu sắc:nâu rộng nên thoải mái nhưng chất khá mỏng nhưng giá như này là phải thôi	Material	2	negative
+8#47#0	áo đẹp. chất liệu thoáng mát và thấm hút mồ hôi. shop chuẩn bị hàng nhanh. uy tính. săn sale với giá hời	Material	0	positive
+32#65#0	áo đẹp  hàng chất lượng lắm nha chất dầy dặn co giãn tốt  mặc đẹp  nói chung sẽ ủng hộ shop dài dài lun nha 	Material	0	positive
+0#16#0	áo chất rất đẹp. đường may chuẩn. có cả hộp xịn xò. vẫn luôn ủng hộ colmate.	Material	0	positive
+69#84#0	giao hàng tạm ổn, chất lượng sản phẩm với giá này tương đối là ổn và vải cũng ok nha nhưng cho 3 sao chủ yếu vì giao sai 2 mẫu chứ nếu đúng mẫu thì e chấm 5sao cho shop và thấy sp của shop ổn nhưng vì sai mẫu thui ạ huhu	Material	0	positive
+0#9#0	áo mỏng ạ,không giống hình ảnh cho lắm, lên from xấu nha ,phần dây 2 bên hoàn toàn khác xa hình ảnh nói chung nên cân nhắc ạ ,h/anh minh họa mọi người thông cảm	Material	2	negative
+0#15#0	áo đẹp, dày dặn, kiểu ôm body nên mặc vào rất nam tính và lịch sự, giá tiền rẻ so với chất lượng, xứng đáng 10đ mn nên mua nhé	Material	0	positive
+21#38#0	màu.áo đẹp lắm ạ :)) chất vải mát lạnh. mặc lên form ok nha. thoải mái khi vận động. mn nên mua nhen	Material	0	positive
+25#89#0	màu sắc:đen áo đẹp , vừa nhưng chất vải hơi mỏng. shop cần chú ý hơn về loại vải lm ra áo	Material	2	negative
+0#15#0	áo chất đẹp mát, giao hàng siêu nhanh, với giá này thì khá rẻ ao với chất lượng sẻ ủng hộ tiếp 	Material	0	positive
+12#37#0	hình in đẹp nhưng vãi k như mình nghĩ , hơi nhỏ đối với size , nên cân nhắc	Material	2	negative
+0#11#0	chất vãi ok , đáng tiền , nên mua nha chị em ! a nhà mình cao 1m78 nặng 68kg mà phải mua size xxl mới vừa	Material	0	positive
+8#28#0	áo đẹp, vải rất mát, vải đẹp đáng tiền, đóng gói ổn, sẽ ủng hộ	Material	0	positive
+53#64#0	giao hàng nhanh, chuẩn bị hàng nhanh, giao đúng size mặc mát vừa	Material	0	positive
+0#27#0	áo thì có vẻ hơi bí một xíu, đường chỉ may ở tay áo cũng lộ liễu quá. hy vọng cải thiện đc vấn đề này. colmate nên tham khảo bst của +j uniqlo, các sản phẩm cực kì tinh tế mà vẫn tối giản trong đường nét thiết kế. hy vọng colmate sẽ có thêm dòng sp thiết kế oversize giống +j	Material	2	negative
+27#42#0	hàng ok giá cả phải chăng, áo mặc mỏng mát phù hợp túi tiền	Material	0	positive
+112#131#0	áo rất đẹp. shiper thân thiện, hàng tốt lắm. mọi người nên mua nhé. có size to cho anh ck gần 80 kg. thích lắm. chất vải thoáng mát. rất ok nhé các bạn.	Material	0	positive
+0#18#0	chất liệu:hơi mỏng đúng với mô tả:tạm được màu sắc:ok	Material	2	negative
+25#45#0	shop đóng hàng cẩn thận. áo chất liệu rất đẹp so với giá tiền. ủng hộ shop lâu dài. 5s nhé.	Material	0	positive
+83#109#0	Đúng với mô tả:đúng Màu sắc:màu be Chất liệu:vải thun Áo form rộng, mặc thoải mái, chất vải dày dặn, tốt lắm.	Material	0	positive
+46#53#0	Chất liệu:vải Màu sắc:xám Đúng với mô tả:đúng Chất ổn săn live dc giá rẻ giao hành nhanh bận akakak	Material	0	positive
+53#69#0	Giao hàng nhanh, đóng gói cẩn thận. Màu thấy khá ổn, chất vải dày dặn. Mua được sale nên thấy giá cực tốt. Ủng hộ	Material	0	positive
+66#86#0	Size To lắm á nhe mn! 54kg, m58, size M là rộng thoải mái luôn á! Vải dày dặn xịn mịn, màu sắc và chất in kute	Material	0	positive
+7#15#0	Áo đẹp chất mát, đáng tiền hơn áo 3158 mua 140-150k ở ngoài, nên mua nhé mn, rất là ưng. Đóng gói cẩn thận	Material	0	positive
+100#115#0	áo oke, hình in ý nghĩa cơ mà in không quá sắc nét. không biết mặc một tgian có bung hình ra không. chất vải tạm ổn. chất lượng đúng với giá tiền	Material	1	neutral
+0#41#0	chất liệu:nhẹ nhàng, thấm hút mồ hopi tốt màu sắc:đen đúng với mô tả:chuẩn mua cho chồng mà về ai cũng khen nha. môi tội mặc màu đen nên nhìn hơi bị gây	Material	0	positive
+43#51#0	giáo hàng hơi lâu nhưng bù lại áo rất đẹp, chất mát,ưng lắm..sẽ quay lại lần sau.	Material	0	positive
+0#22#0	chất liệu vài rất ukie, đã mua hàng ở colmate nhiều lần và giao hàng nhanh chóng	Material	0	positive
+34#44#0	đúng với mô tả:đúng màu sắc:trắng áo khá mịn, nhưng không rộng như mình nghĩ! cỗ áo mình không thích lắm huhu	Material	0	positive
+40#47#0	màu sắc:cx đc đúng với mô tả:giongs ảnh áo mỏng nma với giá tiền đo k chòe nhiều hình ảnh mamg tính chất minh họa	Material	2	negative
+45#59#0	đúng với mô tả:ko nha hình in bé màu sắc:đen chất liệu:mỏng	Material	2	negative
+0#7#0	áo mỏng :(	Material	2	negative
+29#41#0	màu sắc:ok đúng với mô tả:ok chất liệu:ok hàng hoá đúng với yêu câu, chất liệu tối bền. hình ảnh mang tính chất nhận xu. hàng dùng ok đến giờ không vấn đề gì	Material	0	positive
+104#196#0	màu sắc:màu đen chất liệu:vải bóng đúng với mô tả:vải hoi bóng hình được in khá chắc chắn kh lo bị bong nma cảm nhận của riêng tui thì thấy vải nó bị bóng wua nên thấy hông ưng lắm chỉ là tạm thui	Material	2	negative
+13#29#0	Áo tạm được, sờ chất hơi nóng hình tạm ổn cũng được hshshshsh	Material	2	negative
+72#83#0	shop đóng gói hàng cực kì chỉnh chu, đẹp, cẩn thận giao hàng siêu nhanh chất áo đẹp giá thành rẻ nhiều sale	Material	0	positive
+47#68#0	chất liệu:ok màu sắc:ok đúng với mô tả:hên xui mặc cái này mát phết, mặc để đi tập thì hết nước chấm	Material	0	positive
+0#13#0	chất liệu:tốt màu sắc:xanh đen, xanh aqua đúng với mô tả:đúng sản phẩm ổn trong tầm giá, để mặc lâu xem như thế nào	Material	0	positive
+48#63#0	đúng với mô tả:mỏng chất liệu:mỏng màu sắc:mỏng mỏng như lá lúa	Material	2	negative
+195#215#0	chất liệu:cotton màu sắc:đen mình thấy nó k giống mẫu lắm, kiểu mẫu là hoa to đùng cả áo í mà nhận về nó bé xí giữa áo thui àa chứ k đc full áo đôu  nma với 15k đồng mình 0 đòi hỏi gì hơn hí hí, áo hơi mỏng nữa nhée	Material	2	negative
+9#20#0	màu đẹp, vải mặc mát, shop dễ thương, giao hàng nhanh. 5 sao ạ.	Material	0	positive
+14#21#0	áo giống hình vải mát đóng gói hàng cẩn thận giao hàng nhanh chóng	Material	0	positive
+64#78#0	Màu sắc:xám Đúng với mô tả:yess Chất liệu:vải Áo đẹp mà rẻ nữa. Mặt mát lắm ạa Nói chung là rất đáng để mua í chắc tui phải mua hết tất cả các màu của mẫu này quáa	Material	0	positive
+48#81#0	Chất liệu:cotton Đúng với mô tả:đúng Màu sắc:be Chất liệu vải rất đjep nha cà nhà , form áo siêu chuẩn , mặc lên rất đẹp k bị rộng quá ncl okeala cả nhà nên mua nha mọi khi nhưng không thể thiếu được trong phòng ngủ đc 6	Material	0	positive
+0#13#0	chất liệu:tốt màu sắc:đen đúng với mô tả:có áo đẹp tuyệt vời	Material	0	positive
+62#69#0	Màu sắc:be Chất liệu:vải Đúng với mô tả:đúng Giao hàng nhanh, vải tốt. Màu đẹp lắm luôn ý. Sẽ ủng hộ nữa	Material	0	positive
+25#38#0	màu sắc:hơi đậm, hình bé chất liệu:đẹp đúng với mô tả:giống đc 85/100	Material	0	positive
+0#23#0	chất liệu:không đảm bảo	Material	2	negative
+21#28#0	Áo xịn nha, rất đẹp, vải dày, xứng đáng với số tiền, giao hàng nhanh nữa	Material	0	positive
+54#80#0	Chất liệu:t Đúng với mô tả:đẹp Màu sắc:nAU giá hạt dẻ mà vải cũng oke la lắm nhe nói chung là nên mua nhe k	Material	0	positive
+52#78#0	là lần thứ 3 mua ở shop, mình rất là ưng ý luôn ạ . chất liệu vải mát, dày dặn, đúng size, đúng mẫu, đúng màu, giao hàng nhanh chóng! anh nhà mình cao m78, nặng 75kg không bụng, người gọn nên mặc size l vẫn vừa đẹp luôn í, thích lắm! hope shop mãi uy tín và chất lượng sp luôn tốt nhé, sẽ ủng hộ.	Material	0	positive
+0#14#0	Chất liệu:được Đúng với mô tả:đúng Màu sắc:tốt Trong đề án tiểu ơ của mình và giỏi giang mà còn là một trong những ngày cuối năm sau có sinh nhật	Material	0	positive
+91#140#0	chất liệu:vải mỏng, khô màu sắc:trắng đúng với mô tả:không đúng in chữ bị lệch, dễ bong và nhìn trân vải cực mỏng, thua cả giấy ăn, khô nóng chuẩn bị hàng lâu, chậm chạp mua phí tiền thực sự	Material	2	negative
+59#71#0	màu sắc:hồng đúng với mô tả:đúng áo nhiều chỉ thừa màu đẹp vải hơi nóng vs giá sale này thì quá ưng r	Material	2	negative
+44#55#0	shop chuẩn bị hàng đầy đủ, giao hàng nhanh, chất áo mát, giá rẻ 	Material	0	positive
+7#36#0	áo đẹp vải khá là dầy mình rất ưng ạ, có điều ck mình chưa mặt kg biết ra sao nè nhưng nhìn áo và chất liệu là thấy ưng ạ	Material	0	positive
+14#31#0	màu sắc:trắng chất liệu:mềm mịn đúng với mô tả:đúng áo rất đẹp,vải mềm mịn nhưng lại hơi rộng	Material	0	positive
+0#13#0	chất liệu tốt đúng size sp ok	Material	0	positive
+41#65#0	rất tiếc vì hình ảnh ko liên quan, nhưng áo đẹp, chấy vải dày dặn, phom áo chuẩn ck mình mặt lên rất đẹp. mình đã mua 3 lần, lần nào cũng ưng	Material	0	positive
+0#13#0	Chất liệu:đẹp Màu sắc:đẹp Đúng với mô tả:đúng với miêu tả Chất vải dày dặn, hình in chuẩn đẹp, màu be khá đẹp. Nên mua nha các bạn, khá là rẻ so vs các local brand khác	Material	0	positive
+14#25#0	sản phẩm đẹp, áo thun dày, giá phải chăng giao hàng nhanh nên mua nhe mọi người	Material	0	positive
+32#62#0	màu sắc:đen đúng với mô tả:đúng chất liệu:vải áo chất khá mỏng hình thì bị bong giống như kiểu là mốc í bạn mình mua cùng áo không khác gì cái giẻ lau vải cho lên không trung có thể nhìn xuyên thấu luôn mình chắc chắn không bao giờ mua lại ở shop này nữa .	Material	2	negative
+13#26#0	màu sắc:đúng chất liệu:đẹp đúng với mô tả:đúng áo khá là rộng	Material	0	positive
+62#76#0	Đúng với mô tả:chat mong Màu sắc:dep Chất liệu:tạm Áo cũng ok nhưng hơi mỏng Nên mua	Material	2	negative
+91#148#0	đúng với mô tả:bình thường màu sắc:đen chất liệu:cotto giao hàng nhanh 3 ngày là đã có rồi nhưng vải rất mong nhìn ngoài đời xấu hơn trong ảnh nhiều rộng quá ,nên cho 3 sao	Material	2	negative
+0#18#0	chất liệu:mỏng quá màu sắc:đúng đúng với mô tả:đúng mỏng quá dễ bị dãn mặc mùa hè thì thoáng mát nhưng giá ổn nên như vậy cũng tạm đc	Material	2	negative
+0#41#0	chất liệu:vẫn dùng chất liệu logo dễ bong :)) đúng với mô tả:khá ok màu sắc:ổn	Material	1	neutral
+69#122#0	giao hàng nhanh, đóng gói đẹp, đặc biệt là rất fit nên rất hài lòng. mặc mát thì đã có nhiều review rồi nên ko ý kiến thêm. hình ko liên quan vì đang mặc.	Material	0	positive
+25#37#0	áo chuẩn form dáng đẹp , chất vải oke , giao hàng nhanh chóng , đóng gói cẩn thận	Material	0	positive
+0#26#0	chất kh đc thực sự đẹp lắm, nhưng giao nhanh, đúng kích thước và màu sắc	Material	2	negative
+14#27#0	Màu sắc:trắng Chất liệu:tốt Đúng với mô tả:áo khong giãn áo không coá gì để chê đâu nha nên mua	Material	0	positive
+0#39#0	áo hơi mỏng so với tưởng tượng của mình	Material	2	negative
+63#74#0	Màu sắc:trắng Đúng với mô tả:đúng Áo xinh nha mọi người in đẹp vãi dày mát	Material	0	positive
+56#81#0	đóng gởi sản phạm chắc chan thôi gian nhanh màu sắc đẹp mặc mát mẻ chất lương tốt	Material	0	positive
+0#12#0	chất liệu:ổn màu sắc:đẹp đúng với mô tả:ổn đóng gói rất đẹp. đánh giá mang tính nhận xu. màu đẹp.	Material	0	positive
+36#68#0	chất liệu:tốt màu sắc:đúng mô tả áo mặc thoáng mát. chất co giãn tốt	Material	0	positive
+128#148#0	Màu sắc:be Đúng với mô tả:9/10 Chất liệu:cotton áo xinh lắm luon á mn ơi, anh shipper thân thiện vui tính lắm. Áo xinh cực luon vãi áo k mỏng đâu mn mình m49 mặc sz m là vừa r luon ấy	Material	0	positive
+149#208#0	dạ t xin phép đánh giá sp nhé . ôi thật sự là quá ngac nhiên luôn ấy . t cũng hay mua cho daddy khá nhiều áo trong store đàng hoàng lun í , nhưng mà thật sự chất áo và màu các bạn rất đẹp và chuẩn màu luôn ấy . amazing ! wish your shop always prosper and have a lot of luck. thank u so much ! 	Material	0	positive
+60#114#0	áo đẹp, form đứng mặc thoải mái và dễ chịu do mình bụng bự. chất vải dày dặn, sang. có thể hơi bí nếu trời oi bức.	Material	1	neutral
+8#24#0	áo đẹp, chất vải mịn mềm form áo vừa vặn anh trai nào bụng to cao 165 nặng 56 thì nên mua lớn hơn 1 size, shop bán hàng uy tín ship hàng nhanh	Material	0	positive
+43#65#0	chất liệu:đẹp màu sắc:trắng đúng với mô tả:áo đẹp, mặc thoáng mát	Material	0	positive
+8#22#0	áo đẹp, vải chất lượng , giá lại rẻ còn dc nhận thêm quà nữa, giao hàng nhanh chóng!	Material	0	positive
+54#61#0	chất liệu:vai màu sắc:den đúng với mô tả:dung áo đẹp, mặc mát, giao hàng nhanh, sẽ ủng hộ tiếp, highly recomend	Material	0	positive
+19#68#0	đóng gói cẩn thận, chất vải dày dặn, đẹp, sờ thì thấy vải mát và mềm. rất xứng đáng với giá tiền này. sẽ ủng hộ shop dài lâu.	Material	0	positive
+52#63#0	màu sắc:xanh navy đúng với mô tả:giống hình áo đẹp, chất vải ok, đóng gói đẹp, mình thích những shop gói hàng bằng hộp lắm, mình mua cho ba, giao hàng nhanh	Material	0	positive
+0#34#0	áo chất đẹp, mặc thoáng mát và nhẹ. shop còn tặng quà nữa, chuẩn bị hàng và giao hàng siêu nhanh.	Material	0	positive
+47#54#0	Áo so với giá tiền oke. Mình săn sale còn 98k. Vải đẹp. Over size nên bạn nào mua cân nhắc M cũng rất rộng rồi	Material	0	positive
+24#47#0	màu sắc:màu có hơi nhạt chất liệu:mỏng vải mỏng ít chỉ thừa chữ in rất đúng mẫu đúng với câu tiền nào của nấy	Material	1	neutral
+76#97#0	chất liệu:thun màu sắc:xanh bóng đêm đúng với mô tả:đúng áo đẹp, thoải mái, vải đẹp nha mọi người 5 sao	Material	0	positive
+33#47#0	giao hàng nhanh, chất lượng tốt, chất áo mát mẻ, đúng phom. đã mang giặt nên hình ảnh ko liên quan ạh	Material	0	positive
+17#24#0	giao hàng nhanh, vải đẹp lại còn săn sale được giá hời, tuyệt vời	Material	0	positive
+41#56#0	đúng với mô tả:đẹp màu sắc:đúng (trắng ) chất liệu:ko đc cho mấy in hình hơi lỗi cũng khônh suất sắc cho mấy do chất vải hơi mỏng in hình thì hơi lệch so với ở live mọi người lên mua màu đen cho nó nổi hình lên nhé	Material	1	neutral
+0#23#0	vải áo dày, chất vải ok, hình đẹp, mịn, sz áo rộng	Material	0	positive
+27#44#0	màu sắc:nâu đúng với mô tả:vải mỏng thoi nha nhưng với giá này cũng nói là ổn	Material	2	negative
+27#125#0	áo hình in rõ nét như mẫu, nhưng chất vải là chất cotton bth k đứng form, dây buộc của chiếc hồng chỉ là sợi vải dc cắt ra th, mình m6 53kg mặc chật ních, có thể do mình bắp tay to nhưng phần thân cũng mặc bó sát vậy nha. nhưng với giá như vậy thì thoả đáng rồi, ai gầy hơn mặc chắc sẽ đẹp hơn. giao hàng nhanh	Material	2	negative
+0#12#0	vải rất mỏng hàng kém chất lượng, mới mua đã hở keo, không đáng mua, local brand chỉ là cái danh không đáng giá, khuyên shop bỏ dùm local brand	Material	2	negative
+70#289#0	mình m53 mặc sz m nhưng vẫn thấy khá dài. đường may và hình in đều ổn chỉ riêng có phần vải không tốt. trên tp ghi 100% cotton nhưng sờ và cảm nhận cũng như so sánh với mẫu áo của brand khác cùng tp với mức giá rẻ hơn thì không bằng. giặt thấy nguyên sợi vải nổi đầy lên. cần cải thiện hơn.	Material	2	negative
+0#205#0	chất liệu:polyeste vải nylon chứ cotton đâu ra v thím? kêu cotton bán cotton chứ nylon bán nylon nha, mắc mệt á chài, nóng này ai mặc nổi v xốp, định đi biển mặc áo này mà chắc néck nó k chịu nổi luôn á ba	Material	2	negative
+0#25#0	Chất vải mát, dày dặn lắm Săn sale nên giá tốt lắm Mình mua 2 cái mà cái lun	Material	0	positive
+0#13#0	chất liệu:đẹp màu sắc:trắng đúng với mô tả:đúng hơi rộng 1 chút . nma vẫn đẹp nha . nên mua ạ	Material	0	positive
+27#61#0	Đúng với mô tả:đúng Áo đẹp vải mịn, mặc thoải mái, thoáng mát, nói chung rất okla, ship nhanh. (Kh có ảnh và video nên để ảnh khác nhận xu)	Material	0	positive
+26#56#0	đúng với mô tả:hàng như c chất liệu:vải mỏng đell mặc đc màu sắc:màu hồng	Material	2	negative
+28#40#0	shop giao hàng cực nhanh áo chất dày dặn m săn được sale nên giá rẻ rất ưng ý	Material	0	positive
+27#53#0	màu tối hơn trên ảnh chút. chất vải mỏng, mềm khá mát. bảng size chuẩn. ck m mặc vừa in	Material	0	positive
+0#13#0	chất liệu:xấu màu sắc:xấu đúng với mô tả:không đúng 29k là biết chất lượng rồi nhưng ko nghĩ vải xấu và chất lượng áo tệ đến mức nhìn xuyên thấu được. nói chung đừng mua, hoặc mua cho dui về mặc ngủ thì ok	Material	2	negative
+11#34#0	màu sắc:be vải dày. giống hình ảnh. canh sale được giá rẻ. sẽ quay lại ủng hộ shop	Material	0	positive
+45#52#0	chất liệu:mát màu sắc:đúng đúng với mô tả:ok vải đẹp giá 138k quá ok rồi nha.	Material	0	positive
+0#77#0	áo thun mát. co dãn tốt. có điều bị dính dơ giặc ra nhưng k thích bị dơ như v.. áo 2xl bự chà bá	Material	0	positive
+0#8#0	vải mỏng với hình hơi bé nhưng hợp với túi tiền	Material	2	negative
+0#23#0	áo mát, vải co dãn tốt, tôn dáng, màu sắc đẹp, tươi, mặc rất êm và thích. sẽ ủng hộ tiếp tục nếu có dịp	Material	0	positive
+0#29#0	áo nhẹ, hút mồ hôi và mùi tốt.hàng giao nhanh và đến đúng địa chỉ like	Material	0	positive
+0#44#0	Chất liệu:chất liệu sờ thấy mát, co giản nhẹ Màu sắc:màu đen chất liệu sờ thấy mát, co giản nhẹ Bạn nào cao dưới 1m58 mặc sẽ qua mông xíu Mua tặng sn nên quên chụp lại	Material	0	positive
+0#15#0	chất liệu:chuẩn màu sắc:đúng màu đúng với mô tả:sản phẩm rất xịn	Material	0	positive
+68#80#0	đúng với mô tả:đúng 2áo kia đẹp còn cái loại màu đen thì kh ưng lắm hơi mỏng xíu	Material	1	neutral
+0#40#0	Vải ko dày lắm nma mang cảm giác rất mát và áo đúng form nên rất ư là xuất sắc ạ	Material	1	neutral
+132#170#0	Màu sắc:hồng Màu đẹp nhưng màu pastel kiểu này hơi dìm da. T thích cổ tròn dáng cao hơn là cổ tròn rộng nên t thấy phần cổ ưng lắm. Chất thì khá nóng nhưng hút mồ hôi tốt. Tóm lại hợp giá tiền. Shop cskh tốt, áo giao nhanh	Material	1	neutral
+17#88#0	tạm với giá bán, vải ok nma cũng mỏng mỏng thui chứ k dày như các loại giá tiền cao khác nma hình in khá xinh	Material	1	neutral
+17#34#0	mua lần 2 ở shop chất vải mỏng mát, ưng ý vừa size 	Material	0	positive
+0#64#0	áo thoáng mát mà chất dày dặn. cầm nặng tay. không bị lộ đầu t*. giá lại quá rẻ	Material	0	positive
+69#80#0	màu sắc:đen giống mô tả đúng với mô tả:áo giống mô tả chất liệu:polo vải mặc mát. đóng gói lịch sự, cẩn thận. mang làm quà tặng hợp lí	Material	0	positive
+40#67#0	giao hàng nhanh , đóng gói cũng tạm ổn, còn về áo thì mỏng rất mỏng	Material	2	negative
+0#21#0	chất liệu:bình thường màu sắc:đúng đúng với mô tả:không giống lắm nói chung là mặc ở nhà thì ok, hứa lần sau không ghé shop nữa (hình ảnh chỉ mang tính chất nhận xu)	Material	1	neutral
+0#68#0	mỏng dính à thế thì em sẽ không má mi đi tt không có  cho biết mà nó	Material	2	negative
+67#111#0	giao hàng nhanh. đóng gói có hộp nhìn đẹp. thích hợp làm quà tặng. vải hơi thô. chắc phải giặt qua mới mềm được. nên mua	Material	1	neutral
+43#54#0	vải ok, giá cả hợp lý đúng với chất lượng. vải mặc mát. đóng gói sản phẩm ok. giao hàng nhanh. lần sau sẽ ủng hộ shop tiếp. mua 3 màu màu nào cũng ưng ý cả.	Material	0	positive
+51#122#0	chất liệu:vải thun màu sắc:đen đúng với mô tả:đúng vải thun co giãn có lỗ nhỏ thoáng khí. áo này chơi thể thao bận nhà mát	Material	0	positive
+75#100#0	Chất liệu:mát Đúng với mô tả:đúng Màu sắc:xám titan Nó hơi rộng so vs mình nhưng mà đổi lại chất mát	Material	0	positive
+49#62#0	đúng với mô tả:ko nha ở ngoài xấu hơn hình 1 xíu chất liệu:mịn màu sắc:trắng áo dài lên from đẹp lắm nha họa tiết cũng ko ko giống hình	Material	0	positive
+28#55#0	shop giao hàng nhanh chóng. áo vải mềm, mát và y hình ạ. có cơ hội sẽ ủng hộ shop tiếp.	Material	0	positive
+61#75#0	chất liệu:coton đúng với mô tả:đúng như trên ảnh màu sắc:đen hơi mỏng 1 xíu nhưng đáng đồng tiền nha	Material	2	negative
+47#115#0	đúng với mô tả:đúng giao nhanh, hàng đúng mẫu, vải hơi mỏng nhìn xuyên được, không biết giặt có nhanh giãn cổ không	Material	2	negative
+133#140#0	đây là lần thứ ba mình đặt ở đây , đặt cho e trai mặc , vải ok dày dặn mà gặp giá lại quá hời nữa nên các bạn thử cân nhắc mua nha , vải mát , vừa in , rất đáng để thử nha , giao hàng cũng tương đối nhanh	Material	0	positive
+21#43#0	hàng chất lượng tốt, chất lượng vải rất đẹp. đáng mua	Material	0	positive
+0#20#0	chất vải đẹp mịm mát giao hàng nhanh sẽ ủng hộ lần sau tue vấn nhiệt tình thank shop	Material	0	positive
+49#111#0	chất liệu:kbt đúng với mô tả:không màu sắc:trắng mỏng siêu siu mỏng luôn mua về mặc như k mặc lộ hết kh nên mua ai mua thì cứ mua	Material	2	negative
+21#32#0	áo đẹp rất đáng tiền vải dày dặn form vừa người mặc rất thoải mái nên mua nha	Material	0	positive
+0#15#0	chất lượng, tốt, mẫu mã đẹpxấp tiền khoảng 10 triệu đồng bay tứ tung khắp hầm chui điện biên phủ được người dân đà nẵng tập trung nhặt giúp,	Material	0	positive
+32#50#0	màu sắc:trắng đúng với mô tả:ok chất liệu:hơi mỏng nma hợp lí giá	Material	2	negative
+8#15#0	áo đẹp, mặc mát, shop tư vấn nhiệt tình hàng đi nhanh, nên mua lắm nhe, sẽ ủng hộ shop lần sau	Material	0	positive
+43#73#0	đúng với mô tả:không màu sắc:đen chất liệu:vải nóng chất áo xấu,mặc nóng, kh lên mua chảng bõ,vải thì xấu,mặc vài lần xù lên tóm lại là kh lên mua ý vải nilon bóng	Material	2	negative
+0#18#0	chất liệu:hơi mỏng màu sắc:trắng đúng với mô tả:vừa với giá tiền	Material	1	neutral
+33#47#0	đúng với mô tả:đúng màu sắc:đúng chất liệu:đúng em có đi làm về r em nói là anh ngủ đi mai còn dậy	Material	0	positive
+34#57#0	áo khác so với hình ảnh của shop, áo mỏng nhưng chất nóng:(	Material	2	negative
+33#65#0	mua tặng nên không chụp được ảnh nói chung chất thì không tốt lắm nhưng kiểu dáng đẹp giao hàng nhanh phù hợp với giá tiền	Material	2	negative
+53#64#0	Đúng với mô tả:yes Màu sắc:đen Chất liệu:vai Áo đẹp, vải dày dặn, phù hợp với giá tiền, rất đáng mua nha	Material	0	positive
+0#16#0	chất vải dày dặn, áo đẹp, đóng gói cẩn thận.	Material	0	positive
+0#35#0	chất vải đẹp, có độ co giản, mát mẻ, 65kg size l. giao hàng nhanh chóng.	Material	0	positive
+28#55#0	hàng xinh lắm mọi người ơi  chất vải mềm và xinh lắm ạ. nên mua nha mng 	Material	0	positive
+0#14#0	áo chất vải ok phù hợp giá tiền, thấy để size 80kg mặc cũng vừa mà ck mình có 73kg mặc ngắn cũn cho bớt sao vì sai số quá trời.	Material	0	positive
+16#34#0	màu sắc:xanh áo chất mát lắm mn ơi săn sale còn 150k một chiếc ship giao	Material	0	positive
+17#31#0	áo đẹp lắm luôn, vải nhẹ thoáng, thích nhất phần cổ áo, shop đóng gói cẩn thận, sẽ tiếp tục ủng hộ shop	Material	0	positive
+57#81#0	gia hàng nhanh, đóng gói cần thận, hộp giấy rất xịn nha. chất liệu vài áo khá ok, đã mua nhiều lần	Material	0	positive
+0#23#0	chất liệu:chất liệu tốt màu sắc:đúng màu đúng với mô tả:chất luong nhu quang cao áo đẹp. chất liệu vải thoang mat. đã mua nhieu lan ở shop.	Material	0	positive
+0#24#0	vải co giãn, mặc mát lắm. giao hàng nhanh. áo nhìu màu để chọn lắm. đáng mua	Material	0	positive
+17#53#0	giao hàng nhanh, ổn, chất liệu với mình thấy hơi mỏng…hình không liên quan lắm	Material	2	negative
+26#59#0	màu sắc:đúng như đơn hàng chất liệu:mềm mại, mát mẻ, co dãn shop soạn hàng hơi lâu. nhưng đóng gói hàng khá tốt, nhìn hộp là biết uy tín. chất vải tốt. đáng mua nhé	Material	0	positive
+0#31#0	chất liệu vải đáng giá tiền nha, đường may cũng chắc chắn, anh shiper nhiệt tình lắm luôn, chủ nhật cũng giao hàng 	Material	0	positive
+179#213#0	đúng với mô tả:bt chất liệu:nóg màu sắc:xah áo giá bt! chất vải sờ khô tay đúg kiểu chấy vải đồ tt k xịn, áo này với thời tiết hiện tại thì đc, còn đâu vào mùa thì k mặc đc nóng, k phải chất vải tt lạnh mọi ng nhé! ảnh video áo vì quá nặng nên lấy tạm video mặc đồ của mình	Material	2	negative
+55#74#0	đúng với mô tả:chuẩn chất liệu:vải màu sắc:xanh đậm áo form và vải rất đẹp. mặc đi tập thể thao hay đi chơi đều hợp.	Material	0	positive
+0#23#0	áo vải được, thoáng mát, shop giao đúng mẫu, đóng gói cẩn thận. logo là nhựa nổi khá đẹp	Material	0	positive
+149#182#0	Đúng với mô tả:đúng Chất liệu:cotton Màu sắc:đen Giao hàng nhanh, đóng gói cẩn thận. Lúc đầu shop có giao nhầm nhưng cũng nhiệt tình hỗ trợ đổi hàng Vải khá dày dặn, mặc mát, co giãn, tuy nhiên giặt ra màu	Material	0	positive
+0#9#0	áo mát mẻ, giao hàng nhanh lắm. mình mua tặng nên nv là hài lòng	Material	0	positive
+95#110#0	màu sắc:đa dạng đúng với mô tả:đúng mô tả chất liệu:cotton mua cho bố iu, mà bố kêu mặc thích ,vải lên màu đẹp, phải gọi là tuyệt cà là vời, lần sau sẽ ủng hộ shop ạ 	Material	0	positive
+0#21#0	Chất liệu:vải mềm mát Đúng với mô tả:đúng Màu sắc:kem Không có điểm nào để chê Local này bán đồ xinh quá tr Mình m50 size L bị rộng lắm Mọi người đặt M thôi nha 10 điểm cho shoppppp	Material	0	positive
+99#140#0	chất liệu:thun đúng với mô tả:mỏng hơn trong hình màu sắc:giống mô tả giao hàng nhanh đóng hộp đẹp vải áo mỏng hơn tưởng tượng khi nhìn hình	Material	2	negative
+20#59#0	Áo rất xinh luon áa vải bao xịn, mát, ko mỏng cx ko quá dày, hình in siêu đẹp, sắc nét iu :33	Material	0	positive
+0#13#0	chất liệu:tot màu sắc:tot đúng với mô tả:tot shop đóng gói cẩn thận, giao hàng nhanh. sẽ tiếp tục ủng hộ	Material	0	positive
+0#25#0	áo mỏng. vải mát. vải nhẹ. mua quà sinh nhật là ng đc tặng thích lắm nha.	Material	0	positive
+0#61#0	áo dày dặn nha mọi người không bị cứng nma cũng không quá mềm bị cái là áo hơi bẩn ngay cái cổ áo nha shop oi	Material	0	positive
+55#62#0	shop giao hàng nhanh, trả lời thắc mắc cũng nhanh nữa. vải mềm, form cũng ổn. cái note cũng đáng iu nữa	Material	0	positive
+59#81#0	vừa form, quần co dãn rất tốt, mặc chạy nhảy ko vấn đề gì. áo chất liệu tuyệt vời. sẽ mua thêm.	Material	0	positive
+38#59#0	vì dịch nên giao hàng hơi lâu áo polo chất liệu mát dày dặn mk nên mua mn nhé , mk mua cho bố mk 2 cái 2 màu ,rất đẹp bố mk 70 cân mk đặt nhầm size xxl đẹp quá k muốn đổi luôn 	Material	0	positive
+99#123#0	màu sắc:cũng đc đúng với mô tả:kh đúng lắm chất liệu:vải nóng ,mỏng t tưởng về hình to ai dè bé tí mặc vào nóng vải mỏng le nhma 26k như vầy cx oke r	Material	2	negative
+0#13#0	Chất liệu:mát Đúng với mô tả:đúng Màu sắc:xám titan Nó hơi rộng so vs mình nhưng mà đổi lại chất mát	Material	0	positive
+0#41#0	chất liệu:chất vải dày dặn, chất hơi nóng màu sắc:đen đúng với mô tả:hình in sắc nét , rõ ràng, áo xinh	Material	1	neutral
+0#15#0	chất liệu:mongr màu sắc:kh giống ảnh đúng với mô tả:không giống mong shop rút kinh nghiệm giúp mình nè có một áo màu kh giống ảnh lắm	Material	2	negative
+45#64#0	quần vợt sale đc giá tốt. quần đẹp, vừa vặn. vải sợi tre rất mát	Material	0	positive
+28#52#0	màu sắc:đẹp đúng với mô tả: chất liệu:co dãn dễ chịu chất lượng sản phẩm tuyệt vời đóng gói cẩn thận đúng với hình ảnh bán giao hàng nhanh	Material	0	positive
+128#169#0	riêng cái khâu giao hàng thôi là đã thấy kh chịu nổi rồi,shop chuẩn bị hàng chậm, đặt 11 mà 15 mới giao cho vận chuyển,chả hiểu.còn áo thì chất vải bth như hàng chợ thôi,pr cho lắm vào.không có tặng móc khoá hay hộp như review, tính mua làm quà tặng mà đóng gói cái bì nilông.chất vải kém outerity xa	Material	2	negative
+56#83#0	Chất liệu:vải coton Màu sắc:ổn Hàng giao nhanh, áo đẹp, sờ mềm tay, độ dày vừa phải. Form áo khá to với 1m58, 48kg nha.	Material	0	positive
+13#38#0	mua cho any, khá okie mặc mát, vải đẹp, săn sale giá rẻ, giao nhanh	Material	0	positive
+0#13#0	chất liệu:bth đúng với mô tả:đúng màu sắc:đen cá nhân tớ thấy đc nha giá tiền phù hợp giao hàng nhanh	Material	1	neutral
+0#20#0	chất vải giống mô tả. hàng đóng gói rất tốt. sản phẩm trên cả tuyệt vời. cảm ơn shop nhiều nhá!	Material	0	positive
+0#26#0	vải colmate rất đẹp và mát nhưng có cái áo màu trắng, mình vừa khui hàng đã thấy áo bị lủng 1 lỗ, mong shop khi giao hàng kiểm hàng kỹ hơn, mình thấy thất vọng	Material	0	positive
+44#68#0	màu sắc:đến chất liệu:cột đúng với mô tả:ok vãi cotton su mỏng nhẹ a hoi bị to nha mặc giấu quần ok	Material	0	positive
+92#105#0	Màu sắc:be Chất liệu:cotton Đúng với mô tả:đúng Áo đẹp nên mua nha giao hàng cũng khá nhanh áo co dãn tốt rất hài lòng	Material	0	positive
+39#73#0	màu sắc:đen đúng với mô tả:ko đúng lắm chất liệu:vãi vãi mỏng , mùi nhiều	Material	2	negative
+76#95#0	mua tặng ba. rất là hài lòng shop nha, shop trả lời tin nhắn thấy cưng lắm, vải đẹp nha shop ơi, giá cả quá hợp lí nữa, sẽ ủng hộ shop tiếp tục.	Material	0	positive
+35#49#0	Đúng với mô tả:đúng Màu sắc:màu be Chất liệu:được Shop giao hàng nhanh lắm, đặt hôm qua sáng nay giao rồi	Material	0	positive
+57#80#0	Đúng với mô tả:đúng Màu sắc:trắng giao hàng nhanh,áo đẹp,chất vải mặc kh bị nóng,nói chung là rất ưng luôn ạ 10/10	Material	0	positive
+0#19#0	chất vải thoáng mát, form áo oke. mặc vừa vặn. thanks shop..	Material	0	positive
+0#12#0	chất lắm nha, rất hài lòng nha mọi người.mặc tết qua đẹp luôn	Material	0	positive
+39#96#0	đặt hàng trước tết mà sau tết mới giao áo vải nhìn có vẻ được nhưng giặt ko biết có bị dãn ra ko shop nên chỉnh phần tay áo cho bo hơn nhìn sẽ trẻ chứ để thùng thình như này nhìn già lắm ủng hộ shop lần sau cải thiện tốt hơn	Material	1	neutral
+85#127#0	Màu sắc:mau đen Đúng với mô tả:vải oki Chất liệu:cotton Áo sieu xinh đường may tỉ mỉ vải k quá mỏng nhưng siêu mát lạnh lun nho( xin lũi tui lấy ảnh nhận xu nha)	Material	0	positive
+56#93#0	Đúng với mô tả:áo giao đúng với hình mẫu, form dáng đẹp Chất liệu:chất vải sờ đã tay, mặc mát	Material	0	positive
+66#91#0	chất liệu:vải màu sắc:đen + xanh lá đúng với mô tả:đúng với mô tả áo không mỏng lắm vải mát	Material	0	positive
+64#78#0	Chất liệu:thun mỏng nhẹ Màu sắc:hồng pastel Đúng với mô tả:8/10 Áo ok vải được form ok tay dài . M6 50kg mặc M vừa	Material	0	positive
+96#120#0	chất liệu:vải xịn màu sắc:đẹp đúng với mô tả:yess đẹp lắm các cậu ạ ưng vãi mình mua tặng sn bố mở ra sờ vải mát đẹp cực	Material	0	positive
+8#24#0	Áo đẹp, chất vải dày dặn, rất đáng tiền. Vải áo siêu siêu đẹppp	Material	0	positive
+195#212#0	màu sắc:xanh đúng với mô tả:đúng mô tả chất liệu:thun lạnh shop giao hàng nhanh, đóng gói đẹp, cẩn thận, có hộp đựng xịn xò. vải áo mặc nhẹ, mát, rất thoải mái. màu áo giao đúng với màu đặt mua. chất liệu vải tốt. sẽ tiếp tục ủng hộ cho shop.	Material	0	positive
+141#209#0	màu sắc:trắng đúng với mô tả:đúng chất liệu:vải thung mỏng mình 1m68 50kg áo mặc vừa người , không phù hợp với những bạn thích mặc đồ rộng , áo khá mỏng có mua thì mấy bạn chọn màu đen để không bị lộ nhiều nha với số tiền bỏ ra thì mình thấy áo như vậy là ổn lắm luôn	Material	1	neutral
+31#43#0	in nổi,nhiều chỉ thừa,form xấu,áo siêu mỏng	Material	2	negative
+12#23#0	áo màu đẹp, chất xịn xò, mua đc hôm flash sale. ủng hộ cho shop 5 sao	Material	0	positive
+52#70#0	chất liệu:ổn màu sắc:đen đúng với mô tả:đúng tạm ổn nhưng vải hơi mỏng phù hợp với giá tiền giao hàng nhanh	Material	2	negative
+20#42#0	đúng với mô tả:đúng chất liệu:vãi hơi mỏng màu sắc:trăngs áo bị ố vàng có đôi chổ bị bẩn nhiều chỉ thừa.	Material	2	negative
+69#110#0	cảm giác thật khó tả khi hôm trước mua giá gốc hôm sau sale tụt quần chất liệu và áo không có gì để bàn cãi cả	Material	0	positive
+67#87#0	đúng với mô tả:đúng màu sắc:đen chất liệu:vải hàng giao nhanh nha. vải hơi mỏng và nóng nhưng giá vậy phù hợp vs áo rồi.	Material	2	negative
+34#68#0	đúng với mô tả:đúng màu sắc:trắng chất liệu:vải đẹp tuy vải hơi mỏng nhưng đúng vs giá tiền ns chung vậy cũng oki la rồi	Material	2	negative
+13#38#0	áo rất đẹp ạ chất liệu nhìn rất sịn sò đường may kĩ k có chủ thừa mỗi cái giao hàng hơi lâu chút	Material	0	positive
+30#50#0	đúng với mô tả:dung voi mo ta chất liệu:nhẹ và mát màu sắc:đẹp đúng với miêu tả, tôi rất hài lòng với sản phẩm	Material	0	positive
+69#82#0	áo đẹp, shop đóng gói cẩn thận, giao hàng nhanh. màu giống hình ảnh, chất vải đẹp.	Material	0	positive
+0#12#0	chất vải tốt, giao nhanh, ảnh và video không liên quan lắm đâu	Material	0	positive
+30#49#0	giao hàng nhanh, đóng gói đẹp vải mặc thoáng mát. sale giá rẻ ok	Material	0	positive
+38#68#0	áo màu đẹp & đúng như hình quảng cáo, chất vải mình sờ thấy mềm, mát, nói chung là ưng ý. nếu mặc thấy hợp sẽ ủng hộ shop những lần sau.	Material	0	positive
+0#18#0	chất liệu:hơi nóng cho 4 sao shipber nhiệt tình vui tính , hoà đồng , thân thiện , còn về áo thì hơi nhăn ko đúng vs mô tả mặc cx đc so vs giá tiền ok r.	Material	2	negative
+0#12#0	chất vải đẹp, đường may kỹ, k có chỉ thừa. giá cả hợp lý. mặc quá là ưng. mọi người nên mua nhé. sẽ ủng hộ shop dài dài.	Material	0	positive
+51#116#0	Màu sắc:trắng Đúng với mô tả:đúng Chất liệu:cotton chất vải đúng thích luon mn không quá dày k quá mỏng, mặc mát xỉu, sẽ ghé ủng hộ lần 2 nho (hình ảnh mang tính chất nhận xu)	Material	0	positive
+0#13#0	chất liệu:tốt màu sắc:tốt đúng với mô tả:tốt giao hàng nhanh, shop nhiệt tình. đồ đẹp. sẽ ủng hộ tiếp! tks.	Material	0	positive
+77#88#0	mới giặt 1 lần mà hình in sắp vỡ hết r. giặt lần 2 chắc nứt hết. form áo ok, chất vải ok. nhưng hình in chán quá	Material	0	positive
+30#43#0	sản phẩm chất lượng ok lắm ạ, vải mịn êm ái, giao hàng nhanh nữa shop quá uy tín,mình sẽ ủng hộ tiếp cám ơn shop.	Material	0	positive
+0#20#0	chất liệu:thoáng mát màu sắc:đẹp, phù hợp đúng với mô tả:ok giao hàng nhanh chóng, đóng gỏi kĩ lưỡng, chất liệu thoáng mát, bận ok, thoải mái, mình 65kg - xl bận là vừa chuẩn.	Material	0	positive
+25#79#0	mua 3 áo thun + 1 sơ mi. rất hài lòng về giá cả cũng như chất liệu vải, màu sắc. chắc chắn sẽ mua tiếp trong những lần sau. cảm ơn shop!	Material	0	positive
+0#26#0	chất liệu:chất vải mềm mại giao hàng nhanh.màu săc hài hoà,sẽ ủng hộ shop tiếp.	Material	0	positive
+65#76#0	màu sắc:khác hoàn toàn chất liệu:quá mỏng đúng với mô tả:ko đúng áo quá mỏng	Material	2	negative
+0#87#0	chất liệu:áo như áo đá bóng chất áo như chất nilong giống áo đá bóng nhưng dày hơn chút	Material	2	negative
+0#7#0	vải đẹp. giao hàng siêu nhanh. shop tư vấn nhiệt tình. sẽ quay lại ủng hộ shop tiếp ạ 	Material	0	positive
+0#18#0	áo mỏng có hơi lỗi may chưa chắc chắn	Material	2	negative
+27#39#0	màu sắc:đúng theo đơn hàng chất liệu:ok chất lượng tốt, đánh giá 5 nhưng chọn 4sao. ko giang cư mận lại bảo là cheat.	Material	0	positive
+0#35#0	áo k đc dày dặn cho mấy áo móng lắm tay áo ngắn , áo hơi nhăn không đc gói trong hộp như mn thôi cũng k sao :(((	Material	2	negative
+32#44#0	Đã nhận được hàng Áo đẹp Mặc ok Chất vải đẹp Mặc đẹp mua tiếp Lười chưa muốn thử	Material	0	positive
+12#23#0	áo rất đẹp. vải dày dặn. màu hồng y hình nha. áo với mức giá như vậy là quá rẻ quá đẹp nha. shop giao đúng màu, đúng size. sẽ ủng hộ shop. 	Material	0	positive
+64#71#0	đúng với mô tả:hơi chất liệu:không bt màu sắc:đen phần chữ lòe, áo mỏng , không ưng lắm	Material	2	negative
+33#65#0	giao hàng nhanh, đúng với mô tả, áo đẹp thấm hút mồ hôi thoải mái	Material	0	positive
+12#22#0	Màu sắc:kem Áo dày dặn, không có chỉ thừa, giao hàng cũng khá nhanh, cao 1m61 50kg mặc size L cho thoải mái nhé, lần sau sẽ ủng hộ shop tiếp	Material	0	positive
+67#80#0	đúng với mô tả:k hẳn chất liệu:mỏng màu sắc:trắng giao hàng nhanh, chất vải mỏng, hình in ko đc đẹp lắm, cũng đc thôi	Material	2	negative
+13#30#0	màu sắc:đúng chất liệu:vải xuf đúng với mô tả:đúng không ổn cho lắm	Material	2	negative
+31#62#0	đúng với mô tả:den màu sắc:đen chất liệu:sờ vào thấy mát đẹp ạ có túi bọc lại đoàng hàng nha mn	Material	0	positive
+85#132#0	đúng với mô tả:đúng với mô tả chất liệu:thoáng mát, mỏng nhẹ màu sắc:đúng với mô tat chất áo nhẹ tênh, mát, nhanh khô, xứng đáng mua. mình mua tặng bố và ng yêu, ai mặc cũng đều thích	Material	0	positive
+18#30#0	áo mặc thoải mái, chất dày dặn. shop đóng gói sản phẩm cẩn thận. ship hàng khá nhanh và đúng sản phẩm . chất lượng phù hợp với giá cả. các bạn nên mua	Material	0	positive
+85#100#0	đúng với mô tả:đúng chất liệu:vải thun màu sắc:đen hơi chật so với kích thước mô tả, vải tốt co giãn. rẻ chất tốt.	Material	0	positive
+38#79#0	màu sắc:như mô tả đúng với mô tả:đúng chất liệu mát, thấm hút mồ hôi, khô nhanh. shop giao hàng nhanh	Material	0	positive
+44#61#0	chất liệu:vải bên ngoài màu nhạt lắm m.n ơi chất vải hơi mỏng nói chung là hợp với giá tiền thôi ạ	Material	2	negative
+0#20#0	Chất liệu:Thoang mat Màu sắc:Màu xám, thiết kế đẹp Đúng với mô tả:Ja Mang tính chất nhận xu nhưng nói chung là áo đẹp, vải tốt, ô sờ kê	Material	0	positive
+60#68#0	Màu sắc:be Đúng với mô tả:đúng với mô tả Chất liệu:cotton , chất đẹp Áo khá rộng ạ, chất mát, giặt xong nhớ gĩu trc khi phơi nhen	Material	0	positive
+0#31#0	thực sự chất lượng kém vải mỏng bên bên shop lúc đầu có gọi điện và nói là sẽ ck lại tiền đổi lại 5sao nhưng mà khi mình đánh giá 5sao r shop cũng chưa ck cho mình nhắn tin shop không rep shop làm như này không khác gì lừa đảo	Material	2	negative
+10#17#0	form đẹp, vải mát, giá ok nên mình quay lại mua cái thứ 2 đây ah	Material	0	positive
+49#69#0	đúng với mô tả:ko đúng vs hình ảnh màu sắc:bị dơ chất liệu:mỏng đồ rẽ	Material	2	negative
+46#71#0	mua tặng nhưng sợ chê là màu có vẻ đứng tuổi, được cái chất áo siêu đẹp, có thể mua tiếp màu khác	Material	0	positive
+89#97#0	- mua cái thứ 4 rồi. lần này chọn màu trắng, vẫn cứ là hài lòng, áo mặc đẹp, chuẩn form, vải tốt, shop vẫn tặng thẻ đt 10k. yêu shop	Material	0	positive
+9#24#0	quá đẹp, vải rất ok luôn, giá rẻ mà chất lượng tuyệt vời, đã mua của shop nhiều lần gòi	Material	0	positive
+0#20#0	chất liệu:thoáng khí màu sắc:ddoej vải thoáng khí. giặt nhanh khô. lần sau sẽ quay lại	Material	0	positive
+64#87#0	Đúng với mô tả:đúng màu sắc và kích thước Áo đẹp nhưng hơi rộng Chất vải rất thích luôn	Material	0	positive
+15#23#0	Hình dễ thương vải okla forget to ưewww me a call when you get a	Material	0	positive
+0#16#0	chất vải mềm,mịn phôm đẹp, ông xã rất vừa ý ạ, cảm ơn pazin store đã tư vấn nhiệt tình	Material	0	positive
+38#54#0	chất liệu:mát đóng gói khá chắc chắn, vải sờ có vẻ mát. chưa mặc nên chưa đánh giá được	Material	0	positive
+0#13#0	chất liệu:đẹp màu sắc:đúng đúng với mô tả:đúng sản phẩm đẹp đã mua tới lần 2 rất ưng shop cập nhật thêm nhiều mẫu áo nữa đi ạ	Material	0	positive
+11#29#0	màu sắc:ok chất liệu:hơi mỏng đúng với mô tả:đúng với giá tiền rẻ ntnay hợp lý các bạn lên mua nha mình mua 2 cái mà đẹp ghê 	Material	1	neutral
+34#57#0	Áo giao nhanh, shipper dễ thương. Chất liệu ok, thoải mái. Giá ok, sẽ quay lại nhiề nha shop ơi	Material	0	positive
+41#74#0	màu sắc:xanh bóng đêm đúng với mô tả:sai chất liệu:nóng chất lượng vải kém, phục vụ kém, bị sốc khi sờ vải k mát 1 tý nào hết, hotmate	Material	2	negative
+0#21#0	chất liệu:được thoáng màu sắc:đẹp đúng với mô tả:đúng áo polo đẹp. thoáng. mẫu mã ok. đáng để mua.	Material	0	positive
+19#31#0	áo mình mua cho bố chất vải đẹp đường may dày dặn không cò chỉ thừa màu khá đẹp nên mua nhé mọi người	Material	0	positive
+102#151#0	Màu sắc:màu be Đúng với mô tả:đúng với mô tả Chất liệu:chất vải dày dặn, thấm mồ hôi Giao hàng nhanh, chất vải đẹp so với giá tiền nhưng có vẻ hơi nóng …	Material	1	neutral
+34#44#0	đồ minh mua cho ba bận đẹp quá tr vải xịn xò giá cả quá rẻ mn mua về cho ba hay cho ny bận nhìn vừa sang vừa đẹp	Material	0	positive
+41#61#0	đúng với mô tả:đúng màu sắc:xanh rêu đậm chất liệu:thoáng mát hàng chuẩn size, chuẩn màu, đẹp	Material	0	positive
+7#21#0	áo đẹp mắc thoáng mát, giá cả mêm hơn so với nhiều hãng khác, sẽ ủng hộ nhiều	Material	0	positive
+0#24#0	chất vải đẹp, thoáng mát. nhân viên giải hạng tận tâm. sẽ mua thêm lần 2 ạ	Material	0	positive
+34#72#0	giao hàng nhanh,đóng gói cẩn thận,chất vải thì trên cả tuyệt vời luôn ák,ko ngờ áo đẹp đến vậy,sẽ ủng hộ shop những lần sau 	Material	0	positive
+30#61#0	đúng với mô tả:đúng với mô tả chất liệu:mát mẻ, không bai vải màu sắc:trắng trợn hàng đẹp lắm ạ..đóng gói cẩn thận	Material	0	positive
+63#93#0	áo siêu ưng luôn. shop trả lời nhiệt tình. giao hàng cx nhanh. áo chất đẹp phết mng nên mua ạ	Material	0	positive
+0#13#0	chất liệu:đẹp màu sắc:xanh đen đúng với mô tả:đúng chát vải đẹp nên mua nha mn	Material	0	positive
+0#21#0	Chất xinh mặc rất oki form đẹp mặc rông thì lên đặt lớn hơn 1 sz nhé	Material	0	positive
+68#107#0	Màu áo xinh lắm nha, nhưng màu xanh vintage hơi đậm hơn so với ảnh, chất vải vừa vặn không bị mỏng dính đâu, shop nhiệt tình nữa. Hàng chất lượng nhen	Material	0	positive
+44#64#0	chất liệu:thun lạnh màu sắc:xanh bóng đêm l chất vải ok, mặc mát, màu lạ, giao hàng nhanh, size vừa người	Material	0	positive
+36#91#0	màu sắc:đen đúng với mô tả:chưa hẳn chất liệu:vải mua mặc hè vì vải khá mỏng, nhưng cũng ổn, hình in xấu vì bị mốc và hơi nhỏ . shop bỏ vào túi zip, đóng gói sơ xài ,khuyên mọi người đợi săn giá rẻ	Material	0	positive
+20#32#0	Đúng với mô tả:yess Chất liệu:ổn Màu sắc:đẹp Áo ổn giá cả hợp lí hs sv. Mặc ổn	Material	0	positive
+0#13#0	chất liệu:xấu màu sắc:bthg đúng với mô tả:sai	Material	2	negative
+47#58#0	sản phẩm tuyệt vời giá cả hợp lý. áo đẹp lắm ạ mặc rất mát mọi người nên mua nhé	Material	0	positive
+36#67#0	ko giống mẫu 100% giao cũng nhanh . chất vải bằng thun mặc hơi nóng	Material	2	negative
+0#18#0	chất vải mỏng, mát . áo rất đẹp đáng mua . kích thước vừa với mô tả	Material	0	positive
+6#37#0	áo rẻ nhưng chất cũng bình thường nhé. shop gói hàng cẩn thận.	Material	1	neutral
+0#26#0	vải mỏng, mặc vào rất nóng, tiền nào của nấy thôi! áo này chỉ mặc ở nhà, mặc ra ngoài dễ lộ bên trong nha	Material	2	negative
+0#29#0	chất liệu:vải đẹp, mặc tạm ổn tầm tiền như này mặc vậy là ote ròi màu sắc:be	Material	0	positive
+51#69#0	hàng giao nhanh đóng gói đẹp. sản phẩm siêu ưng ý, chất vải mặc thích. giá sale rẻ sẽ ủng hộ shop dài dài	Material	0	positive
+75#104#0	shop tư vấn tận tình, màu áo ngoài rất đẹp, bố mình m72, 67 kg mặc vừa in, có điều chất sẽ ko đc mát lắm	Material	1	neutral
+0#15#0	chất liệu:cx đc màu sắc:đr hình in hơi bé	Material	1	neutral
+36#55#0	Giao hàng nhanh, đóng gói cẩn thận, chất vải cũng âu kê, hình trên áo in rõ nét	Material	0	positive
+16#38#0	màu sắc:màu đẹp chất liệu:vai hơi mỏng , đúng với mô tả:giống như hình mẫu , áo bé quá giống áo em bé hơn hình ảnh mang tính chất nhận xu 	Material	2	negative
+56#70#0	chất liệu:thun thể thao màu sắc:xanh đúng với mô tả:đẹp áo mát mịn đẹp, chồng mình rất thích đồ của colmate lúc nào ra hàng mới đều ủng hộ 	Material	0	positive
+16#55#0	màu sắc:đen (m) chất liệu vải không được đẹp , hơi mỏng , áo nhỏ hơi chật nếu mọi người có đặt thì đặt size lớn hơn một chút là đc	Material	2	negative
+24#36#0	áo đẹp giao hàng nhanh, chất dày dặn giá này quá rẻ,sẽ còn mua tiếp	Material	0	positive
+13#30#0	màu sắc:đúng chất liệu:xù lông đc nha cx đẹp giao hàng nhanh hình in đẹp nhưng ko ưng chất vải cho lắm	Material	2	negative
+0#23#0	áo chất đẹp, thoáng mát, đóng gói cẩn thận tuy nhiên chờ đợi thời gian giao hàng lâu quáa	Material	0	positive
+0#9#0	vải mỏng,xấu,ko đẹp như hình	Material	2	negative
+8#18#0	giá rẻ, áo vải mát, đóng gói cẩn thận lắm nha, sẽ ủng hộ shop khi có mẫu mới nữa nè	Material	0	positive
+32#53#0	đúng với mô tả:khong giống font chất liệu:bình thường màu sắc:đúng	Material	1	neutral
+62#69#0	Màu sắc:be Chất liệu:cotton Đúng với mô tả:yep Áo giao nhanh, chất ok, phần cổ hơi thô, chọn viền cổ khác, mềm và nhỏ hơn xíu sẽ ok hơn	Material	0	positive
+86#102#0	chất liệu:vai thun mat me màu sắc:xanh rêu đậm đúng với mô tả:chính xác sản phẩm tốt. vải mỏng vừa mát nhưng không bị mất form. ai mặc thoải mái thì hãy up 1 size nhé	Material	0	positive
+47#67#0	giao hàng nhanh, giá cả hợp lý với chất lượng, vải mỏng mặc khá mát	Material	0	positive
+0#23#0	vải co giản 4 chìu luôn màu đẹp lựa đúng mẫu của ba mình thích lun . sẽ quay lại mua tiếp những lần sauu	Material	0	positive
+58#77#0	chất liệu:thun co dan màu sắc:xanh den đúng với mô tả:100 hàng mặc thoáng mát đóng hôp đep lắm lời cảm ơn rất tuyêt cho shop 5 sao giao nhanh ủngho	Material	0	positive
+0#4#0	mỏng	Material	2	negative
+8#36#0	áo xịn, chất vải mỏng mát nhưng đanh, đóng gói đẹp, được tặng túi nữa	Material	0	positive
+34#45#0	giao hàng chậm. chất lượng áo tốt vải mềm đẹp đáng tiền. nên mua	Material	0	positive
+0#13#0	chất liệu:tốt màu sắc:ok đã mua lần 2 cluong tốt giá ok ae nên mua	Material	0	positive
+30#37#0	Áo đẹp xuất sắc, giống mô tả, dày dặn, form to, mặc rộng thoải mái luôn	Material	0	positive
+0#20#0	vải áo sơ mi mịn mát .58kg 1m65 vừa size xl.mua thêm 2 cái áo thun vải cũng ok.ai thích mặc ôm thì lay size m thôi nhé	Material	0	positive
+59#70#0	mua lần thứ 2 vì sản phẩm đẹp. chất lượng tốt. giá hợp lý. vải đẹp lắm. giao hàng nhanh. sẽ ủng hộ shop khi có nhu cầu. mình 1m67, 52kg mặc vừa size m.	Material	0	positive
+10#27#0	chất liệu:ko thích chắc vãi ko hài lòng	Material	2	negative
+28#49#0	áo khá vừa, tem mác xịn sò, chất liệu bình thường, phù hợp với giá tiền.	Material	1	neutral
+0#13#0	áo thoáng mát, vừa size. dùng trong thể thao thì hợp lý quá rồi	Material	0	positive
+58#75#0	chất liệu:thun màu sắc:xanh bạc hà, xanh aqua áo rất đẹp, chất thun rất mát và chuẩn form. mặc đi tập cũng ok luôn. mình đặt nhầm size nhưng được shop đồng ý đổi trả rất nhiệt tình	Material	0	positive
+58#88#0	Chất lượng sản phẩm tuyệt vời. Áo mặc rộng rãi thoái mái, thoáng mát, vải không bị nhăn.	Material	0	positive
+0#17#0	chất liệu:áo mỏng đúng với mô tả:ko giống màu sắc:giống với hình áo mỏng vải nóng cx ko giãn lắm nhm rẻ nên mua	Material	2	negative
+0#41#0	mặc đi tập rất thoáng mát chất giặt nhanh không, hợp gu mình , giá cả còn phải chăng nữa, sẽ ủng hộ dài	Material	0	positive
+110#131#0	ban đầu mình thấy giá còn chả kì vọng gì cơ . nhưng ai ngờ nhận đc hàng nó còn tuyệt vời hơn cả giá tiền ấy , chất mát rất đáng thử giao hàng nhanh .	Material	0	positive
+0#13#0	chất liệu:tốt màu sắc:trắng đúng với mô tả:giao hàng nhanh,nên mua nhé m.n	Material	0	positive
+16#23#0	Áo xịn nha mn , vải đẹp hinhd in chắc chắn Đc cái chất vải hơi nóng xíu nhưng vẫn ok lắm ạ	Material	0	positive
+46#91#0	đúng với mô tả:có áo xương the black giao sai chất liệu:áo mỏng chất áo mỏng lắm nhma cx ổn giao sai 1 áo nhma giá này thì ổn có túi zip nhìn cx kelly thầm thì:)))	Material	1	neutral
+31#216#0	đẹp, mát, đường may chắc chắn. áo mới mua về sờ mát lạnh. màu đen mặc thì đúng là ít nhăn thật. nhưng màu trắng thì nhăn thấy ghê luôn nha, ủi và giặt tay thì lần nào cũng nhăn vậy. nhăn như áo chợ nên thôi 2 sao nhé	Material	0	positive
+26#56#0	áo đẹp chuẩn size mn nha, chất mịn mát k nhăn, k dày lắm nhưng mình thấy ok lắm ạ	Material	0	positive
+0#15#0	Vải dày dặn mềm đúng áo brand áp mã còn có 110k thui, nên mua nhé mn vải mềm thích, 1m66 mặc size M vừa	Material	0	positive
+51#72#0	chất liệu:xinh lam màu sắc:den đúng với mô tả:dung vải dễ dính lông thui chứ tất cả đều rất uke	Material	2	negative
+0#23#0	chất liệu:chats mac mat màu sắc:den đúng với mô tả:kha ok cho shop 5 sao vì chất lượng tuyệt vời vải mặc mát lun nè đóng gói có hộp rất xinh nhen	Material	0	positive
+40#63#0	giao hàng nhanh, đóng gói sp chắc chắn, chất vải rất đẹp và mát, phù hợp với giá tiền	Material	0	positive
+39#52#0	đúng với mô tả:ko đúng lắm màu sắc:đẹp chất liệu:đẹp đẹp nên mua	Material	0	positive
+0#11#0	áo chất đẹp. mua sale đc giá rẻ quá là ưng luôn. chồng mình mặc khen nha. ảnh và video mang tc nhận xu	Material	0	positive
+10#18#0	chất liệu:vải nóng đúng với mô tả:chán màu sắc:nâu đừng mua,nhìn chán luôn	Material	2	negative
+33#51#0	đúng với mô tả:95% màu sắc:trắng chất liệu:hơi nóng áo khá đẹp nm vải mặc mùa này hơi nóng á*ảnh và vd mang tchat nhận xu :))*	Material	2	negative
+114#143#0	màu sắc:trắng chất liệu:vải mỏng đúng với mô tả:kh đúng vs mô tả cho lắm mua về áo hơi vc hình in kh đúng như ảnh vải mỏng dễ nhìn đc bên trong	Material	2	negative
+0#17#0	chất đẹp, mặc mát. màu y hình. nói chung rất ưng 	Material	0	positive
+39#49#0	h.a mang tc minh hoa, mình mua cho ck, áo mặc mát, quần hơi ôm tí	Material	1	neutral
+21#46#0	Đúng với mô tả:5 sao Chất liệu:vải ok cực luôn Màu sắc:màu như hình đẹp hơn luôn í ạ nhận sp rất ưng áo đẹp sẽ tiếp tục ủng hộ ạa	Material	0	positive
+30#102#0	đúng với mô tả:ko màu sắc:bth chất liệu:rat mong tuỳ mọi thik mặc mỏng hay ko chứ mặc hơi chạt vs nóng	Material	2	negative
+67#78#0	Màu sắc:trắng Chất liệu:cotton Đúng với mô tả:đúng Giao hàng nhanh chất áo đẹp hình in đẹp giá sale hợp lí shipper thân thiện tuy nhiên cổ áo bo chật quá mong shop khác phục ạ	Material	0	positive
+81#114#0	chất liệu:vải nóng đúng với mô tả:khá giống nhưng không hề giống màu sắc:bắt mắt chất quá tệ. đúng là hàng rẻ tiền. ko giống như cận cảnh mẫu	Material	2	negative
+33#45#0	áo phù hợp với giá tiền, màu đẹp chất cũng ok giá cũng phải chăng. sz chuẩn bla bla blaa..,,,.	Material	0	positive
+14#28#0	màu sắc:trắng áo hơi mỏng ạ, giao hàng nhanh vừa giá tiền shiper thân thiện	Material	2	negative
+44#51#0	Màu cưng xĩu xinh xắn Đúng là giá cả hợp lý Vải đẹp	Material	0	positive
+0#13#0	chất liệu:mát màu sắc:đen đúng với mô tả:sản phẩm đẹp phù hợp với giá tiền k nghĩ là rẻ thế mà áo nhận lại quá ứng	Material	0	positive
+0#20#0	chất liệu:mỏng, nóng, rõ màu sắc:hơi be, chứ k trắng đúng với mô tả:không sp không như mong đợi, nh giá tiền thì ok	Material	2	negative
+12#24#0	màu sắc:đen vải hơi mỏng nhưng hình in xinh	Material	2	negative
+0#7#0	áo mỏng ship nhanh giá rẻ hình ảnh chỉ mang tính chất nhận xu	Material	1	neutral
+53#84#0	màu sắc:đen chất liệu:đúng với miên tả áo đẹp lắm mn mặc mát, thoáng vải mềm mịn lắm á nên mua thử nha	Material	0	positive
+0#35#0	chất vải thoáng mát mặc lên rất mát mẫu mã đẹp phù hợp với nhiều lứa tuổi	Material	0	positive
+46#71#0	màu sắc:đẹp luôn đúng với mô tả:y chang mô tả chất liệu:chất mịn thoáng mình cũng biết và mua 1 vài sản phẩm của colmate. khác biết hoàn toàn so với 5s và yody. colmate ở tầm cao khác. tiếc 1 chút là ko có cửa hàng ở các thành phố . nhưng chắc là chiến lược của colmate. chúc colmate luôn thành công và mình cũng đã gthieu khá nhiều ngừoi quen cho biết về sản phẩm	Material	0	positive
+41#52#0	áo fresize có rộng chút nhưng không sao, áo hơi mỏng với màu không giống hình lắm	Material	1	neutral
+79#170#0	lần đầu mua hàng của shop mà ưng k tả nổi, giao đúng mẫu, đúng màu, đúng size. chất vãi thì khỏi phải bàn, dày dặn, k xù, mát mịn bên trong nữa. ông xã mình mặc rất thích.  sẽ ủng hộ tiếp 	Material	0	positive
+77#104#0	màu sắc:ddungs đúng với mô tả:đúng sản phẩm chưa bao giờ làm mình thất vọng, mặc mát thấm hút mồ hôi tốt, sẻ ủng hộ dài lâu	Material	0	positive
+35#81#0	màu sắc:trắng đúng với mô tả:không chất liệu:vải mỏng vải rất mỏng luon mọi người.shop không xếp áo mà bỏ bừa vào bao làm áo nhăn.mọi người mua thì nên mua màu đen nha.chữ in không thẳng hàng ngay giữa mà cứ bị méo kiểu gì á.nhưng với giá rẻ v thì mua về mặc nhà là oke	Material	2	negative
+86#248#0	chất liệu:quá mỏng nhìn xuyên thấu cả bên trong đúng với mô tả:ko , kém màu sắc:trắng cái áo lúc nhận hàng cứ tưởng dày dặn ai ngờ móng lắm , nhìn xuyên thấu bên trong luôn , cực kỳ mỏng . mik khuyên mn ko nên đặt màu trắng , màu trắng rất rất mỏng	Material	2	negative
+69#91#0	quá tệ, dây như chó cắn vậy shop, mua để mặc hay để vứt đi vậy shop, vải cũng tệ, haiz haiz	Material	2	negative
+8#65#0	áo đẹp, nhưng giặt 1,2 lần là phai màu hết à rồi áo còn bị xù nữa	Material	2	negative
+15#46#0	Áo rất xinh ạ, vải kh quá dày cũng kh quá mỏng, hình in rất đẹp, size xl mình đo được là 75cm, nhìn chung rất tốt, m.n nên mua nha	Material	0	positive
+28#203#0	chất lượng ok với giá tiền, hơi lỏng lẻo một chút, dùng thử một thời gian xem sao. chất liệu da tương đối ổn ko làm thủ công rất tốt, bề mặt sáng bóng, nhìn vẻ ngoài mẫu mã rất đẹp, giống hàng chính hãng	Material	0	positive
+189#269#0	Thất vọng, thật sự thất vọng vì đã bỏ ra số tiền như vậy để nhận đc 1 chiếc áo QUÁ MỎNG, vải mỏng có thể nhìn thấy đc cả nội y ( như ảnh 2,3) thật sự mua xong cảm thấy phí tiền, mẫu thì ok nhưng vải quá MỎNG. Mua xong chắc chỉ móc vào tủ chứ ko dám mặc ra ngoài luôn ấy. Mong shop khắc phục vấn đề này	Material	2	negative
+65#75#0	màu sắc:xanh navy đúng với size đặt hàng, áo mặc vừa, thoải mái, co dãn tốt	Material	0	positive
+15#68#0	Áo giống hình, chất vải không dày cũng không mỏng, cầm áo mịn đã tay	Material	0	positive
+79#125#0	giao hàng đúng nhanh hơn so với dự kiến, gói hàng cẩn thận, áo đẹp lắm nha shop, chất vải mát k bị nóng đâu, cầm nặng tay lắm, khá chất lượng	Material	0	positive
+0#27#0	chất liệu:chất liệu vải mát màu sắc:màu sắc như mô tả giao hàng nhanh nhiệt tình.	Material	0	positive
+0#10#0	áo dày dặn đường kim mũi chỉ ok giá cả hợp lý những chất thì hơn cả hợp lý	Material	0	positive
+18#31#0	màu sắc:màu trắng chất liệu:tốt đúng với mô tả:hàng đẹp hàng đẹp nhưng hơi mỏng vs giá này là hợp lí	Material	1	neutral
+0#13#0	chất liệu:tốt màu sắc:đẹp đúng với mô tả:ảnh sao hàng đẹp y vậy tư vấn rất nhiệt tình áo rất đẹp và đáng mua mọi người ơi mình cao 1m65 nặng 60 kí mặc size l vừa y luôn lên dáng cực chuẩn nhé . còn ủng hộ shop dài dài nha	Material	0	positive
+0#36#0	Vải cực đẹp, k nóng, độ dày vừa phải, với mức giá này thì k thể chê vào đâu được. 100đ cho chiếc áo cute này nha shop	Material	0	positive
+0#51#0	Áo vải rất ưng nha, vải cotton nhìn rất là thỏi mái ... giao hàng cũng nhanh, canh sale mua áo rẻ. Mình khá là ưng	Material	0	positive
+55#154#0	đúng với mô tả:đúng chất liệu:mát màu sắc:trắng áo đẹp vải mặc mát oke, sau một lần giặt phơi khô xong thì áo kiểu như bị khô cứng ko được mềm như lúc mới và chỉ ở phần cánh tay bị xù lên nhưng logo vẫn nguyên ko bị nứt nha	Material	1	neutral
+76#92#0	màu sắc:xanh và trắng đúng với mô tả:đúng chất liệu:cotton giao hàng nhanh, vải đẹp, dày dặn đúng màu sắc, mà mình đặt size hơi nhỏ nên nhìn có vẻ chật. nặng 53kg cao 1m67 mà size m vẫn chật vai và nách.	Material	0	positive
+42#48#0	Shop giao hàng nhanh. Áo đẹp, hơi rộng á. Vải ổn so với tầm giá. Nch okela.	Material	0	positive
+96#127#0	chất liệu:thun màu sắc:xanh và xanh đen đúng với mô tả:đúng mô tả form chuẩn, mặc khá ôm người, tuy nhiên mặc cảm thấy hơi nóng	Material	2	negative
+0#42#0	chất liệu:vải pha, nóng chất liệu vải nóng ,hình in ổn	Material	2	negative
+44#57#0	Màu sắc:màu be Chất liệu:vải Hàng giao nhanh, vải rất mát, áo rất đẹp, vải không quá mỏng	Material	0	positive
+36#62#0	chỉ thừa nhiều hàng chất lượng kém ,mới mặc vài lần đã xù lông không đáng tiền .	Material	2	negative
+0#93#0	vải đẹp ngoài sức tưởng tượng, sờ vào vải nó mát, mua 2 cái cho chồng,ck nói vải này đẹp nè e, đặt thêm 2 cái nữa đi e! ok liền	Material	0	positive
+47#63#0	chất liệu:vải màu sắc:đen đúng với mô tả:không vải rất mỏng nha,size l mà nhỏ như size s á,chỉ thừa rất nhiều,mng cân nhắc trc khi mua.	Material	2	negative
+28#36#0	rất đáng mua nhé mọi người, chất mát, đúng sz, mặc rất thoải mái	Material	0	positive
+17#29#0	giao hàng nhanh, vải, màu đẹp, đúng size. lần đầu mua của shop nhưng rất hài lòng. sẽ ủng hộ tiếp	Material	0	positive
+0#49#0	vải áo đẹp, không dễ bị nhăn là điểm cộng lớn nha. ngoài ra shop tư vấn nhiệt tình dễ thương nè. sẽ tiếp tục ủng hộ shop 	Material	0	positive
+56#79#0	màu sắc:màu trắng chất liệu:tốt đúng với mô tả:hàng đẹp hàng đẹp nhưng hơi mỏng vs giá này là hợp lí	Material	1	neutral
+7#20#0	áo đẹp chất vải tốt, form rộng rãi vừa vặn. giao hàng cũng nhanh.	Material	0	positive
+0#85#0	áo chất vải mát đẹp, sờ chất mát tay, mặc thích lắm nha, mua về ai cũng hỏi mua ở đâu	Material	0	positive
+0#13#0	Chất liệu:tốt Màu sắc:hồng pastel Lần đầu mua ưng lắm mà viền cổ áo hơi to nha còn lại ok lắm giá rẻ	Material	0	positive
+12#34#0	Màu sắc:nâu Chất liệu:vải hơi mỏng Đúng với mô tả:hơi mỏng Qwẻtyúioplkhgdazxcvbnm chỉ mang tính chất nhận xu nhée	Material	2	negative
+42#57#0	Màu sắc:OK Chất liệu:OK Đúng với mô tả:OK Áo chất đẹp nhé với giá tiền như này thì áo thế là OK lắm rồi Á	Material	0	positive
+0#13#0	chất liệu:tot đúng với mô tả:kh giống lắm	Material	0	positive
+8#31#0	áo đẹp, thoáng, mát, hút mồ hôi. đã mua 3 sản áo. chất lượng đảm bảo	Material	0	positive
+0#17#0	chất liệu vải đẹp, form mặc thoải mái, riêng có 1 điểm chưa hài lòng đó là điểm may giữa vai và tay áo hơi bị rúm.	Material	0	positive
+21#48#0	giao hàng khá nhanh, áo chất lượng tốt, khá mát. bạn mình mặc vừa in, đứng áo. ncl đc, mn nên mua nhé	Material	0	positive
+13#24#0	áo form đẹp, vải mát mịn, màu dễ mặc. nói chung rất ưng ý ạ! giá cả cũng khá phải chăng. cảm ơn shop ạ!	Material	0	positive
+43#76#0	hộp không móp gì luôn nè, ship xịn quá ta. áo này chống nhăn nên mình mua đó hi	Material	0	positive
+35#104#0	hông biết nói gì hơn quá tuyệt vời chất vải đẹp quá luôn á shop êi 100 điểm cho chất vải áo quá đẹp luôn mn nên mua nhé	Material	0	positive
+123#155#0	màu sắc:xanh đúng với mô tả:dung vs hinh mặc rất êm và thoai chất liệu:tot rat hai long vơi sản phảm se quay lại làn sau . vải êm tốt và bền đẹp mặc mát mẽ . cảm ơn shop thật nhìu	Material	0	positive
+147#170#0	mình cộng điểm đóng gói hàng, hình thức rất ok, lần đầu mình mua của shop đã tạo ấn tượng rốt áo được xếp đẹp hộp đẹp luôn, mặc hay tặng đều tiện. vải dày dặn ok nhé shop	Material	0	positive
+14#37#0	Đã nhận dc áo Áo dày dặn chất đẹp nha Mua sale còn dc tặng thêm quà nữa	Material	0	positive
+28#42#0	chất lượng tốt với tầm giá, mặc thoáng mát. nchung ngon bổ rẻ do mua đc khuyến mãi	Material	0	positive
+15#23#0	áo bẩn áo rách vải mỏng khuyên mọi người đừng mua!	Material	2	negative
+51#75#0	áo đẹp lắm nha mọi người. giao đúng size đúng màu. chất vải đẹp lắm mặc mát.. màu nào cũng đỉnh hết nha. nên mua đủ màu	Material	0	positive
+45#75#0	giao hàng rất nhanh, đóng gói đẹp chắc chắn, chất vải ok thoáng mát dễ chịu.	Material	0	positive
+49#74#0	sản phẩm tuyệt vời, áo đẹp, nhuộm công nghệ mới, chất liệu mát, chất lượng, giá hợp lý, đóng gói sản phẩm kỹ và đẹp, rất đáng tiền, ủng hộ shope trong lâu dài	Material	0	positive
+0#12#0	chất liệu ổn, giá quá rẻ cho fom áo đẹp này ạ, hơi bị lỗi chỉ thừa nhưng mà k sao, chồng mình bình thường mặc size l nhưng đặt size l bị rộng, nên mình phải đặt lại 2 cái size m là vừa nha, nếu muốn mặc ôm thì mọi ng đặt nhích lại 1 size nha m.n	Material	0	positive
+28#35#0	shop lên size chuẩn, áo đẹp vải tốt so với giá, sẽ ủng hộ shop với những sản phẩm khác.	Material	0	positive
+58#66#0	màu sắc:đậm hơn trên hình chất liệu:quá mỏng áo quá rộng, vải mỏng	Material	2	negative
+15#23#0	k giống hình , vải mỏng	Material	2	negative
+0#22#0	áo mỏng quá tr luôn á, giá vậy thì đành chịu rồi. phải shop chịu đầu tư vải xíu là áo đúng đỉnh luôn	Material	2	negative
+0#42#0	từ form dáng đến chất liệu đều rất đẹp nha, ủng hộ shop nha mn, mình mua 4 cái rồi	Material	0	positive
+24#39#0	shop bọc hàng cẩn thận. áo chất dày dặn, form lại đứng và đẹp. rất rất thích sản phẩm của shop	Material	0	positive
+226#363#0	đúng với mô tả:sai chất liệu:vải ko bt màu sắc:sữa t rất thấy vọng với sản phẩm của shop khi shop vẫn đang chuẩn bị hàng t muốn huỷ đơn này đi để đặt màu khác mà shop từ chối khi đã nhận hàng về tay tôi lại càng thất vọng hơn chất vải cực kì khác với trên ảnh , trên ảnh thì nhìn chất kiểu như là vải len nhưng khi nhận hàng thì chất nó kiểu rất xấu mà t ko bt tả màu thì cứ bị vàng vàng nói chung rất xấu	Material	2	negative
+38#45#0	áo đẹp nha. đã mua 7 8 áo ở shop rùi. vải đẹp ngon bỗ rẽ. giao hàng nhanh	Material	0	positive
+26#51#0	áo vải đẹp hợp giá tiền , chất dày dặn cầm chắc tay mình mua trúng màu hơi già một chút nhưng màu tối cũng dễ mặt nên hk sao ạ , nói chung là đẹp nên mua.	Material	0	positive
+0#34#0	áo mặc khá mát dễ chịu, khô thoáng, cho shop 5 sao	Material	0	positive
+57#79#0	màu sắc:đen đúng với mô tả:form đẹp, cổ đứng, chất lượng chất liệu:vải thun mát 5 sao	Material	0	positive
+31#42#0	đóng gói rất kỹ nha oki la lắm vải đẹp mát	Material	0	positive
+16#34#0	Giao hàng nhanh nhưng vải hơi mỏng nhưng với giá thì cx đc màu sắc đúng với hình	Material	2	negative
+4#28#0	đẹp nhm chỉ là hơi mỏng thoy	Material	1	neutral
+59#69#0	chất liệu:vải cotton màu sắc:nhiều màu đúng với mô tả:đúng áo dày dặn đúng form mặc mát lắm nha nên mua	Material	0	positive
+73#181#0	chất liệu:vải màu sắc:be , trắng vải rất mỏng , hàng đóng gói cẩn thận , chất liệu dễ nhăn lúc lấy áo ra nhăn kinh khủng dù đem treo móc nhưng vẫn nhăn nhiều nên suy nghĩ kĩ khi mua chất lượng ko như mong đợi lắm	Material	2	negative
+8#44#0	áo đẹp, rất hài lòng về chất liệu và màu sắc. shop giao đúng size. giá cả hợp lý. sẽ tiếp tục ủng hộ shop.	Material	0	positive
+48#57#0	Đúng với mô tả:đúng Chất liệu:cotton Màu sắc:be Vải ưng ý, hình dễ thương, các bạn chọn đúng size của shop nha đừng chọn lên cho rộng vì áo rộng lắm mặc đúng size hoi. cơ mà mình thấy form này bạn trai mình mặc lại đẹp hơn, tặng cho anh ấy luôn òi, ảnh khen đẹp quài.	Material	0	positive
+9#152#0	Màu đẹp, lúc mới nhận về thì mình sờ thấy vải mềm mượt nhưng không hiểu sao giặt xong thì thấy vải cứng hơn,hơi dão cổ 1 tí luôn mặc dù giặt tay lần đầu, giá rẻ, ai cao m6 muốn mặc dài với rộng thì nên mặc sz L nha	Material	2	negative
+0#13#0	thun mịn, mát, form vừa phải, đẹp. mùa dịch nhưng đóng gói và giao hàng nhanh chóng.	Material	0	positive
+43#59#0	Đúng với mô tả:đúng Màu sắc:be Áo đẹp lắm. Chất vải mền mịn, áo form rộng mặc thoải mái.	Material	0	positive
+45#57#0	đồ đẹp nên mua nha các bác ck e mặc vừa in . chất vải đẹp shop tư vấn nhiệt tỉnh còn có cả quà tặng đồ cho máy giặt r nên e để hình minh hoạ ak 	Material	0	positive
+75#106#0	Màu sắc:trắng Đúng với mô tả:đúng Chất liệu:không biết đẹp áo rất đẹp luôn mặc lên mát thấm hút mồ hôi tốt. Giao hàng nhanh sẽ tiếp tục ủng hộ shop. Hình ảnh mang tính chất nhận xu	Material	0	positive
+65#72#0	Đúng với mô tả:đúng Chất liệu:cotton Màu sắc:trắng Hàng đẹp nha ,vải mịn Rất ổn shipper thân thiện Nên mua	Material	0	positive
+38#50#0	chất liệu:thun màu sắc:đúng với mô tả vải hơi mỏng, tạm ổn , giao hàng nhanh, shiper thân thiện	Material	2	negative
+78#86#0	chất liệu:mỏng màu sắc:đen đúng với mô tả:75% cũng tạm thui, tiền nào của đó. vải mỏng, áo cũng bth hong to lắm (em 1m57 50kg), mng nhìn hình đánh giá nhe	Material	2	negative
+114#149#0	màu sắc:đẹp đúng với mô tả:chuẩn chất liệu:mát, chống nhăn, quick dry ngon, bổ, rẻ, hàng việt nam chất lượng cao. chất lượng mát, mau khô, chống nhăn, form đẹp. sẽ ủng hộ dài dài.	Material	0	positive
+0#17#0	chất liệu:mặc mát màu sắc:xanh đúng với mô tả:đúng giao hàng nhanh, mua mình không thích màu đã nhận nên được đổi trả fre. 100 điểm chất lượng ước gì anh lấy được nàng, để anh mua gạch bát tràng về xây. xây dọc rồi lại xây ngang, xây hồ bán nguyệt cho nàng rửa chân	Material	0	positive
+41#82#0	Màu sắc:Be Đúng với mô tả:đúng với mô tả Hàng nhận được chất vải đẹp lắm mọi người!!!!	Material	0	positive
+57#95#0	áo đẹp lắm mn ạ , nghe chị Hà Linh review nên mua theo , áo đẹp ,mát , k bị nóng , chất dày dặn	Material	0	positive
+0#21#0	hang dep, mac rat mat, lan dau minh mua mà hai long den v, se ung ho lan sau	Material	0	positive
+0#20#0	áo ngứa gần chết -_-	Material	2	negative
+0#76#0	hàng siêu siêu đẹp áo cầm nặng tay chất sịn sò k quá dày cũng không quá mỏng mày ngoài đẹp hơn nhiều mình chụp bị dìm do ánh sáng k tốt nên mua nhé	Material	0	positive
+50#98#0	Màu sắc:xanh Đúng với mô tả:đúng Chất liệu:cotton vải ổn không mỏng, vừa vặn, vải cảm giác khá mát giao hàng khá nhanh tuyệt vời jakanhaiaknv gưiajjb khiuijnaf	Material	0	positive
+29#184#0	hình in ngả vàng, k sắc nét. chất xấu, nóng, khi giặt lần đầu thì phai và ra rất nhiều bông vải, nổi váng lên (mình chưa gặp áo nào khi giặt lại như này, k biết lần giặt sau có hết k). mình mua lúc giá k flash sale nên thấy cao. tóm lại, k xứng đáng vs giá tiền và những review đâu ! thất zọng	Material	2	negative
+56#71#0	shop giao hàng nhanh. chuẩn hình chất lượng chờ sử dụng.vải mỏng sờ mềm còn ko biết co mát thật ko	Material	0	positive
+18#31#0	đúng với mô tả:ok chất liệu:tốt màu sắc:đẹp	Material	0	positive
+142#153#0	Màu sắc:be Đúng với mô tả:đẹp lắm luôn Chất liệu:vải dày dặn hình in rõ nét áo đẹp lắm nha ai đang băn khoăn k biết mua hay k thì yên tâm nhé vải dày dặn form xinh lắm lun	Material	0	positive
+0#13#0	Chất liệu:đẹp Đúng với mô tả:đúng Màu sắc:be áo đẹp giao hàng hơi lâu nh kh sao áo mặc mát , vải mềm mặc kh ngứa đáng mua nha mn ơi	Material	0	positive
+109#132#0	Đúng với mô tả:đúng Màu sắc:hồng Chất liệu:vải K có giấy thơm đặt hơi to shop đóng gói chắc chắn hình in đẹp với lại vải cũng tạm ổn	Material	0	positive
+69#84#0	chất liệu:cotton đúng với mô tả:không màu sắc:be giao hàng nhanh ok, áo thơm, vải ổn, size áo đúng, nhưng mà màu be này lạ lắm:)))) nó đậm hơn 2 tông so với hình nên mình cũng k ưng í lắm mng ạ. nhưng tại giá cũng rẻ nên k đòi hỏi j	Material	0	positive
+31#40#0	áo đẹp, màu cũng k bị nổi quá, có co dãn, đóng gói chắc chắn, form áo đẹp. mua tặng bố hoặc ny hợp lý	Material	0	positive
+22#39#0	giao hàng nhanh chóng chất vải thun mát giao hàng đúng với size số	Material	0	positive
+23#30#0	size chuẩn, vừa người, vải mát, giao hàng nhanh, đóng gói cẩn thận	Material	0	positive
+55#156#0	đúng với mô tả:cũng đúng màu sắc:trắng chất liệu:vải.. vải.bình thường à không vải quá mỏng :(( trên hình trông cũng oke nhưng tới lúc giao thì vải rất mỏng và quá rộng (cũng không trách được vì chỉ có fresize ) nhưng mak tiền nào của nấy, mua rẻ thì chỉ được vậy thoi (nghèo quá mà) :/ hình ảnh chỉ mang tính chất nhận xu =)))	Material	2	negative
+52#71#0	chất liệu:vải màu sắc:trắng. xanh đúng với mô tả:ok áo chất vải mềm nhẹ. màu xanh bên ngoài hơi đậm hơn	Material	0	positive
+59#165#0	đúng với mô tả:khong giônhs hình mẫu xíu nào màu sắc:trắng chất liệu:100% thun không phải cotton tệ nhất từ trc tới giờ mình mua , tệ vãi , không như mình mong đợi ạ , hình in sát áo , không giống mẫu 1 xíu nào , chữ g nhỏ khong phải là dán , thất vọng thật sự , khong qlai vào lần sau nụa, mua xong vef làm giẻ lau í	Material	2	negative
+8#22#0	áo đẹp, vải sờ vào mát, có điều hơi hôi. mình mua cho bạn trai. nên chưa thử. không biết mặc thế nào	Material	0	positive
+0#74#0	vải ko đc mát như áo mình mua ở siêu thị. nghe có vẻ bí ko thấm hút mồ hôi	Material	2	negative
+0#13#0	chất liệu:kém màu sắc:bình thường	Material	2	negative
+20#37#0	xứng đág đồng tiền. vải đẹp , mịn mát! phom chuẩn ! lên phom đẹp! nên mua , ko phải do dự gì nè các bạn	Material	0	positive
+42#54#0	e đã nhận đc áo, hàng ok ạ đúng vừa size, chất vải mềm phù hợp với giá thành. sẽ ủng hộ shop thêm đánh giá 5sao ạ	Material	0	positive
+91#102#0	Đúng với mô tả:dạ đúng Chất liệu:vai Màu sắc:be kem áo xinh lăm cả nhà, hình in nét và dp, vải mịn mát giao cũng nhanh nữa, nchung la ứng ừng ưng	Material	0	positive
+49#70#0	chất liệu:mát màu sắc:màu đen đúng với mô tả:yes áo mát, mặc thoải mái, cũng vì vậy mà k đứng form	Material	0	positive
+0#19#0	Áo dày dặn chất đẹp ok trong tầm giá, mình ở HN nên giao hơi lâu xíu. Sẽ ủng hộ shop thêm lần sau	Material	0	positive
+54#85#0	đóng gói hàng rất đẹp và có tâm, giao hàng nhanh cực, vải áo xuất sắc hơn cả mong đợi, cho shop 5 sao	Material	0	positive
+114#177#0	áo bình thường chả có gì đặc sắc màu sắc cũng không như mẫu, nói chung tiền nào của đấy nên thôi chấp nhận vậy ai mua hàng của shop này nên mua màu đen chứ mấy màu sáng mỏng lét	Material	1	neutral
+31#44#0	giá rẻ mà chất ok lắm luôn ấy, mềm, mịn, mát. nói giá dưới 100k mà mn còn ko tin	Material	0	positive
+13#21#0	áo màu đẹp. vải đẹp. giao hành nhanh. dáng áo cũng ok. mua giờ sale nên giá cũng ok. hài lòng với sản phẩm	Material	0	positive
+111#127#0	chất liệu:thế thao màu sắc:đen đúng với mô tả:như hình đăng shop đóng gói cẩn thận. hàng hiệu săn được giá rẻ. chất áo vừa phải mặc thoải mái. nên mua nha mọi người.	Material	0	positive
+80#99#0	đúng với mô tả:ko đúng lắm chất liệu:ko bt màu sắc:đen khá hụt hẫng hình nhỏ vs chất vải mỏng lắm .	Material	2	negative
+26#38#0	đúng với mô tả:gionga mag vải mỏng quá=)) chất liệu:vải màu sắc:be giao hàng nhanh shiper thân thiên	Material	2	negative
+42#49#0	mua size m nhưng cảm thấy hơi bé một xíu, vải mát, đóng gói kĩ, đẹp	Material	0	positive
+15#34#0	Màu trắng đẹp, vải ko dày, ko mỏng, hợp giâ tiền Hình in oke, mn nên mua trải nghiệm thử ạ Mình m53 46kg sizeM vừa in	Material	1	neutral
+0#38#0	áo chất đẹp, dày dặn, có lỗ thoáng khí, đường may đẹp, cẩn thận. giá rẻ. mọi người nên mua	Material	0	positive
+0#21#0	vải mỏng nhìn rất tốt. còn bền hay không thì xài mới biết. màu đẹp như hình. nhìn tươi sáng	Material	0	positive
+93#120#0	chất liệu:không biết màu sắc:xanh đúng với mô tả:cũng đúng nous chung là cũng được, cung đẹp chỉ có chỗ vải là ko ung ý.	Material	2	negative
+93#103#0	brand đa dạng sp, phù hợp nhiều độ tuổi. em trai và cả bố mình đều có thể lựa chọn sp ở đây. áo chất ok và package đẹp.	Material	0	positive
+13#26#0	ship nhanh , chất vải nóng áo cũng được	Material	2	negative
+0#28#0	Áo không quá dày vải mặc mát hình ảnh in sắc nét rất hài lòng sẽ ủng hộ tiếp Hình ảnh chỉ mang tính chất nhận xu	Material	1	neutral
+15#30#0	Form áo chuẩn, chất liệu đẹp ạ nhưng màu không hẳn be sáng mà be hơi xanh xanh í ạ. Cảm ơn shop sẽ ủng hộ shop trong thời gian tới ạ!	Material	0	positive
+32#46#0	màu xám xanh pastel nhé. áo to, vải ko dày lắm, được cái giao hàng nhanh chóng mn ạ. sẽ quay lại ủng hộ ạ. cảm ơn shop	Material	2	negative
+0#17#0	chất lượng áo đẹp nhưng chất lượng hình in kém. đánh giá 4 sao vì áo giao không có hộp cũng ko có móc khoá	Material	0	positive
+12#38#0	áo như hình nhưng vải dễ bị dạc , mỏng nhìn chung cx đẹp	Material	2	negative
+0#12#0	chất liệu:ok màu sắc:ok đúng với mô tả:k aos chất mátttf hơi mỏng giao hàng nhanh ship nhiệt tình	Material	0	positive
+0#12#0	chất liệu:ok màu sắc:ok đúng với mô tả:ok sản phẩm ok ổn hình ảnh mang tính chất minh hoạ lấy xu 200	Material	0	positive
+0#17#0	chất liệu vải tốt , mua đợt sale giá rẻ tuyệt vời tặng shop 5 sao ra tết sẽ ủng hộ thêm nữa	Material	0	positive
+81#117#0	chất liệu:thun lanh màu sắc:xanh đúng với mô tả:đúng hàng đóng gói kỹ càng, đẹp, chất vải nhẹ, mát, mọi người nên mua	Material	0	positive
+4#21#0	đẹp nhưng áo hơi mỏng	Material	1	neutral
+97#105#0	màu sắc:xanh bạc hà đúng với mô tả:đúng mô tả shop giao hàng nhanh,đóng gói cẩn thận, màu áo đẹp chất mát, nhưng về chồng không thích màu nên muốn đổi sang màu khác	Material	0	positive
+87#106#0	Đúng với mô tả:đúng Màu sắc:đen Chất liệu:vải Shop tư vấn nhiệt tình, giao hành nhanh. Vải siêu dày và mịn sẽ ủng hộ lần sau .	Material	0	positive
+11#47#0	Màu sắc:be Chất liệu:thun dày có vẻ sẽ hơi nóng Đúng với mô tả:đúng giao hàng nhanh sản phẩm cx khá là ổn nha shop rất chu đáo đó nha	Material	1	neutral
+20#34#0	áo đẹp lắm lun chất vải thì quá ok với giá tiền như vậy lại có một cái ao. hơi bị xịn lần sau sẽ tiếp tục ủng hộ shop	Material	0	positive
+102#109#0	màu sắc:đen, xanh chất liệu:vải chứ chi :(( đúng với mô tả:ừa rất đúng sai là sai ở người chọn sz đẹp vải mát	Material	0	positive
+83#122#0	chất liệu:hơi nóng cho 4 sao shipber nhiệt tình vui tính , hoà đồng , thân thiện , còn về áo thì hơi nhăn ko đúng vs mô tả mặc cx đc so vs giá tiền ok r.	Material	2	negative
+18#31#0	màu sắc:giống ảnh chất liệu:đẹp đã.mua một lần chất lượng hơn cả mong đợi nên mua tiếp lần nữa .lần 2 mua đc giá sale. sẽ ủng hộ shop lâu dài.chúc shop ngày càng đắt hàng.	Material	0	positive
+82#98#0	Màu sắc:be Chất liệu:ok Đúng với mô tả:đúng Áo form rộng nên khi đặt mn lùi size, chất vải dày dặn in rõ nét ạ	Material	0	positive
+68#81#0	Chất liệu:kbit Màu sắc:kem Đúng với mô tả:ye áo hịn lắm nhe mng ơi, mặc khá mát á, nên mặc đúng size nhe tại áo rộng lắm =))) shipper hơi lâu thui nma áo đẹp nên kệ	Material	0	positive
+72#100#0	mình thấy sản phẩm chất lượng khá là tốt. đường chỉ chắc chắn k bị lỗi, chất vải mát và kh phải mỏng. tóm lại chiếc áo này bthuong mình đi ra mua shop toàn bán 2-300k thôi. sẽ ủng hộ shop nhiều. hi vọng shop sẽ có nhiều sp và nhiều mẫu mã để đc chọn.thanks!	Material	0	positive
+27#63#0	sản phẩm đẹp chuẩn mẫu đặt vải thoág mát rất ok khi mặc mùa này	Material	0	positive
+40#53#0	Màu sắc:hồng pastel Đúng với mô tả:đúng Chất liệu:oki Shop giao nhanh ,hỗ trợ đổi trả oki , chất vải rất ưng ,phù hợp với giá tiền	Material	0	positive
+0#15#0	áo chất vải đẹp tầm giá 90k này thì thực sự rất rẻ so với chất lượng.	Material	0	positive
+30#64#0	shop soạn và giao hàng nhanh, chất vải cầm nặng tay, co giãn tốt, giá rẻ mà chất lượng	Material	0	positive
+8#15#0	áo đẹp, vải đẹp, đã mua nhiều lần, 2 cái này nữa là 10 cái rồi nha, nên mua nha mọi người	Material	0	positive
+33#46#0	mình đã đặt ở đây lần thứ 3 rồi, chất liệu tốt fom đẹp, áo này ngoài shop chắc bán 200 giá ở đây quá ok, nên mua nhé mọi người	Material	0	positive
+16#75#0	giá rẻ. sp đẹp. 95% cotton nên vải mềm mịn. co dãn nhẹ. mỏng mặc thoáng mát. nên mua ạ.	Material	0	positive
+39#84#0	màu sắc:đúng đúng với mô tả:đúng nhưng hơi dày chất liệu:dày hàng ok lắm nha hơi dày nhưng với số tiền ấy mình ko đòi hỏi gì nhiều nên mya nha mọi người phù hợp với túi tiền lắm nha	Material	1	neutral
+0#12#0	chất liệu:ok màu sắc:ok đúng với mô tả:ok shop quá uy tín, mua nhầm size mà được tư vấn đổi nhiệt tình, sẽ quay lại nhiều lần nữa, cám ơn shop nhiều	Material	0	positive
+0#53#0	vải bình thường không quá mỏng, mặc mát, thoát mồ hôi, đứng form màu đẹp	Material	1	neutral
+0#18#0	chất liệu:hơi mỏng đúng với mô tả:ko màu sắc:đúng rộng	Material	1	neutral
+53#64#0	chuẩn đúng như mô tả, chất lương sản phẩm tuyệt vời, mặc vừa mát	Material	0	positive
+0#24#0	chất vải và đường may ổn, có vẻ hơi giày k bjt thấm mồ hôi tốt k. nhưng nhìn chung phù hợp với giá tiền, thái độ chăm sóc khách hàng tốt	Material	1	neutral
+32#53#0	màu sắc:đen đúng với mô tả:đúng chất liệu:cotton mỏng	Material	2	negative
+56#68#0	đúng với mô tả:hơi khác hình màu sắc:đúng chất liệu:vải vải mỏng lắm với cả nhiều chỉ thừa ,có chỗ chưa may vào, nhìn cũng được, với giá này thì chắc cũng hợp lí rồimn xem xét nha	Material	2	negative
+50#148#0	Màu sắc:trang Chất liệu:vai cotton Đúng với mô tả:maybe sau 1-2 lần giặt thì mình thấy màu áo và vải không còn ưng ý nữa, có hơi thất vọng một tẹo ạ shop đóng hàng kĩ, cảm ơn shop	Material	2	negative
+40#57#0	Áo xinh mà rẻ, giống mẫu, mặc cũng được nhưng mà hơi nóng. Take care khách hàng tốt	Material	2	negative
+80#95#0	sản phẩm oki nhé ạ lại còn được tặng thêm gel rửa tay đó mn ạ.tặng ny thích lắm chất mát mẻ oki	Material	0	positive
+0#13#0	chất liệu:tốt màu sắc:xanh xám trắng đúng với mô tả:ok sản phẩm tốt .shop giao đúng màu đúng kích thước.rất hài lòng.chất lượng tốt so vs giá cả.rất đáng để mua	Material	0	positive
+69#112#0	Đúng với mô tả:Ddungs Màu sắc:trắng Chất liệu:100% cotton, ko co dãn Chất liệu áo cũng tạm ổn, ko nóng cx ko mát, 1m50 mặc size M vừa đẹp....	Material	0	positive
+157#220#0	vải xịn xò lắm luôn nha mà giá thì quá rẻ, xưa giờ toàn mua trong shop mấy áo kiểu này không dưới 200k ấy. có điều màu xanh hơi đậm hơn trong hình của shop. chắc mai mốt đặt thêm vài cái nữa chứ thích vải áo của shop quá	Material	0	positive
+19#38#0	áo phom khá là đẹp vải mỏng thoáng mát nói chung giá đó thì cũng rất ok	Material	0	positive
+0#39#0	chất liệu:vải mỏng vải có phần hơi mỏng nhưng so với giá tiền thi hợp lí	Material	2	negative
+12#44#0	sp cũng ok. chất liệu ko nịnh da lắm hơi ráp. mình thích áo adidas hơn	Material	2	negative
+0#12#0	chất liệu:ổn đúng với mô tả:đúng màu sắc:đen	Material	0	positive
+91#116#0	đúng với mô tả:đc chất liệu:ko biết miêu tả màu sắc:đen hàng về nhanh áo in hình giống ảnh nhưng chất vải ko đẹp lắm nhưng với giá này ko đòi hỏi nhiều	Material	2	negative
+46#115#0	Hình ảnh và video chỉ mang tính chất nhận xu. Mình thấy chất vải không quá mềm và mình không nghĩ kà là 100% cotton. Giao hàng nhanh đường may đẹp nên mua nha	Material	1	neutral
+0#10#0	áo vải đẹp, giá tốt, giao hàng hơi chậm. với giá như thế này mà áo rất đẹp sẽ ủng hộ shop những lần tới..	Material	0	positive
+33#59#0	chất liệu:thun mỏng màu sắc:aqua vải mềm mịn nhẹ thoáng mát đẹp nhé mn nên mua	Material	0	positive
+76#90#0	đúng với mô tả:đúng như mô tả chất liệu:cotton màu sắc:xám đậm sản phẩm ok, vài thoáng mát, đúng size, giao hàng nhanh	Material	0	positive
+64#86#0	chất liệu:vải màu sắc:trắng đóng gói đẹp . chuẩn bị hàng nhanh. vải thoáng mát dày dặn. săn đc sale nên hời	Material	0	positive
+32#45#0	Đúng với mô tả:đúng Màu sắc:đẹp Chất liệu:tốt Quần đẹp, dày dặn, lên form chuẩn, giao hàng nhanh, đóng gói cẩn thận	Material	0	positive
+0#11#0	mỏng cực kì	Material	2	negative
+0#7#0	áo mỏng còn lại vẫn ok	Material	2	negative
+37#58#0	Chất liệu:mịn Màu sắc:trắng rất đẹp, vải mịn không bị nóng, nên mua nha mọi người, mình mua theo chiều cao chứ ko theo cân nặng, rất vừa ko rộng k chật m65	Material	0	positive
+156#172#0	áo đẹp mọi người nên mua nha hihi mình mu giá sale nên rẻ nè mua cho chồng thích quá chừng vãi đẹp rẻ nữa chế ngta dễ thương nói chung là okk lắm luôn nhen vải thích dã man luôn chế k gì đẹp bằng nè 3. cái áo chưa tới 300k má ơi rẻ quá	Material	0	positive
+34#51#0	đóng gói cẩn thận giao hàng nhanh chất lượng vải ổn đáng đồng tiền	Material	0	positive
+0#34#0	áo vải đẹp, thoáng mát, không nhăn. mua được ngày flash sale nên giá cực mềm. rất hài lòng.	Material	0	positive
+65#76#0	đúng với mô tả:đúng chất liệu:k bt màu sắc:đen trắng áo đẹp, rẻ, vảy dày dặn nhưng 1 bên tay áo hơi bung chỉ và mặc lên nhìn kì vì tay áo bị rúm vào. vs giá này cũng k mong gì hơn	Material	0	positive
+23#40#0	sz bé hơn bình thường. nhưng chất vải ổn	Material	0	positive
+0#7#0	vải đẹp nhìn hàng rất chất lượng để mặc 1 time xem vải có giãn k ok sẽ ủng hộ shop	Material	0	positive
+0#24#0	Chất liệu:cotton mềm mại Đúng với mô tả:hàng OK đúng với mô tả Màu sắc:mầu hồng nhẹ nhàng nha Có giấy cảm ơn nữa nên thấy shop đóng gói hàng cẩn thận tỉ mỉ lắm nha.	Material	0	positive
+0#22#0	chất liệu:áo chất mỏng màu sắc:trắng đúng với mô tả:đúng loại áo này không nên mua màu trắng. 5 sao vì shop cho đổi hàng, chính sách đổi trả xử lý nhanh, tốt	Material	2	negative
+47#72#0	màu sắc:trắng đúng với mô tả: đống gói rất kĩ, chất vải sờ rất thích tay đường chỉ tinh sảo  ship pơ thân thiện	Material	0	positive
+22#32#0	hình in kh giống màu, vải thì ok	Material	0	positive
+17#71#0	giao hàng nhanh, áo chất ko quá mỏng cũng ko quá dày, mùa hè mặc sẽ mát, rất ok với giá thành. đã mua rất nhiều hãng của colmate và rất hài lòng	Material	0	positive
+0#12#0	chất vải mát, giá rẻ mà đc sp chỉn chu thế này là ok rồi. tuy nhiên size hơi rộng. ck mình phải giảm đến 2 size	Material	0	positive
+0#25#0	vải ổn nha không mỏng đâu,hình in nét đẹp lắm,k nứt vỡ khi kéo ra đâu	Material	0	positive
+0#14#0	chất liệu:mỏng màu sắc:đẹp hình in không to và đẹp giống như quảng cáo	Material	2	negative
+46#86#0	shop giao hàng nhanh chất lượng sản phẩm tốt. vải vừa vặn. vải mới cầm hơi thô xíu xiu	Material	1	neutral
+19#29#0	thiết kế chỉnh chu thoáng mát, đóng gói và giao hàng nhanh. colmate thật tuyệt vời.	Material	0	positive
+0#16#0	chất liệu:tạm ổn đúng với mô tả:đúng mô tả, mặc tạm ổn, thời gian mới đánh giá được độ bền màu sắc:tạm ổn	Material	1	neutral
+52#73#0	Chất liệu:vải Đúng với mô tả:đúng Màu sắc:be Áo đẹp vải mát nhưng dễ nhăn Giao hàng nhanh rất ổn k	Material	1	neutral
+59#73#0	chất liệu:vai đúng với mô tả:10/10 giao hàng nhanh chóng , vải áo đẹp nha , đúng size vải mặc mát	Material	0	positive
+0#55#0	áo thun nam polo trơn vải cá sấu cotton cao cấp mềm mịn, áo phông polo nam đẹp cổ bẻ ngắn tay có đủ bảng màu cực hot shop áo polo vnxk hân hạnh được phục vụ quý khách. những sản phẩm mới nhất vẫn liên tục được cập nhật mỗi ngày phù hợp với nhiều lứa tuổi.	Material	0	positive
+45#81#0	màu sắc:trắng chữ và các chi tiết in khá ổn, vải hơi mỏng và mặc lâu thì khá nóng.	Material	2	negative
+41#53#0	màu sắc:quả mơ mình nhận đc áo xinh lắm, chất vải đẹp nhưng do chọn size bé quá nên mặc thành baby te	Material	0	positive
+0#22#0	chất liệu:vải vụn mỏng đúng với mô tả:hình ảnh in nhòe màu sắc:đen hơi tệ , k đáng để mua lại	Material	2	negative
+16#38#0	màu sắc:màu đẹp chất liệu:vải hơi mỏng, hình thêu đẹp	Material	2	negative
+12#19#0	Áo xịn lắm, vải mịn, đường may đẹp, shop đóng gói cẩn thận với ship nhanh. Tui cao m62~48kg mặc size M là vừa nha	Material	0	positive
+52#68#0	đúng với mô tả:đúng màu sắc:hồng chất liệu:không rõ chất vải cũng ok mọi người tham khảo trước khi mua nhé mình thì sẽ ủng hộ shop nhiều	Material	0	positive
+56#67#0	Màu sắc:hồng nhạt Chất liệu:cọton Đúng với mô tả:khá ổn Áo mỏng mát , hài lòng giao nhanh ship Thân Thiện giá ổn đóng gói kĩ cho shop 5sao	Material	0	positive
+0#12#0	chất liệu:ok màu sắc:đúng đúng với mô tả:ok giao ok, đóng gói đẹp cẩn thận,	Material	0	positive
+43#60#0	màu sắc:đen chất liệu:cotton su sp khá tốt nhưng mà mỏng lắm với giá rẻ thì ko đỏi hỏi gì thêm	Material	2	negative
+0#17#0	chất liệu:vai đẹp mặc vừa 55kg 1m7 mặc size này rất đẹp chất liệu tốt màu sắc:đen đúng với mô tả:size l	Material	0	positive
+76#111#0	hộp sịn sò. áo màu cũng đẹp, ko hiểu sao chụp vào máy ảnh nó ra màu kì ghê. cảm giác chất này ko đc mát lắm đâu. nhưng mua ông ck mặc, nếu ko ưng cũng ko sao.	Material	1	neutral
+14#32#0	màu sắc:trắng chất liệu:mỏng nhé đúng với mô tả:ko đọc ko bt áo bé so với người	Material	2	negative
+38#80#0	đúng với mô tả:đúng nha màu sắc:trắng chất liệu:vải chất cotton mỏng áo khá mỏng nhưng với giá tiền này cũng khá hợp lí	Material	2	negative
+12#19#0	màu sắc:đen áo mỏng nh phù hợp giá tiền	Material	2	negative
+24#35#0	chất lượng sản phẩm tốt,vải mát đẹp, giá quá ư là ok, shiper giao hàng thân thiện nhiệt tình, đóng gói sản phẩm cẩn thận chắc chắn, đáng tiền lắm ạ, mk mua lần này là lần hai rồi, chúc shop buôn may bán dắt ☺️	Material	0	positive
+0#31#0	chất liệu:vải quá mỏng nhưg mát màu sắc:trăng đúng với mô tả:đúng số tiền như v là không cần đòi hỏi gì nữa nên mua nha	Material	1	neutral
+0#24#0	chất liệu:vải thoáng mát màu sắc:đen áo đẹp vừa với giá tiền mặc thoáng mát ok	Material	0	positive
+23#34#0	giao hàng nhanh chóng, chất vải ổn, đóng gói ok, sẽ ủng hộ trong những dịp tới	Material	0	positive
+79#91#0	áo siêu đẹp nha các bạn. mình 1m74 65kg mặc size m vừa form, size l thoải mái. chất vải đẹp lại. chắc chắn sẽ mua thêm.	Material	0	positive
+99#115#0	Màu sắc:be Chất liệu:kbho Đúng với mô tả:đẹp không chỉ thừa Đẹp khỏi chê Săn duoc sale nen cung re Chất liệu ok nha Nên mua nha mng Siêu đẹp	Material	0	positive
+0#22#0	chất liệu:chất liệu ổn nhưng 1 số đường may lỗi chất lượng ổn so với tầm giá	Material	0	positive
+15#25#0	áo chất lượng, vải mát mẻ, giá thành rẻ, đã mua được nhiều lần và giao hàng rất nhanh	Material	0	positive
+0#28#0	Vải dày dặn nhưng ko bị nóng và form áo rất là phù hợp với giá tiền, mình m63 63kg mặc L siêu rộng rãi thoải mái	Material	0	positive
+37#50#0	hàng ổn nha ae. đường may chắc chăn. chất liệu đẹp. shop giao hàng nhanh. size chuẩn.	Material	0	positive
+0#15#0	áo chất mịn đẹp. giao hàng khá nhanh. đóng gói sản phẩm cẩn thận.	Material	0	positive
+12#23#0	hàng y hình vải mềm mát phom to nên lùi 1 size	Material	0	positive
+29#41#0	đúng với mô tả:ok màu sắc:ik chất liệu:ok hinh anh và video chi mang tinh nhan xu	Material	0	positive
+61#87#0	hình ảnh và vid mang tính chất tượng trưng shop đóng gói kỹ, áo ổn, mát, ko dày dặn lắm, vải hơi rũ form	Material	1	neutral
+24#47#0	đúng với mô tả:đúng đấy nhưng áo quá mỏng lun ý .giao hàng nhanh màu sắc:trắng chất liệu:vải nếu mng muốn mua thì nên cân nhắc nhá tại áo mỏng lắm luôn .mng nhìn áo trên ảnh z chứ áo quá mỏng luôn với lại là áo có mùi rất khó ngửi . cho shop 1sao	Material	2	negative
+53#79#0	Áo xinh lắm nha, shop đóng gói cẩn thận, có túi zip. Vải áo oke k dày k qá mỏng, hình in rõ nét đẹp lắm nha. Nên mua	Material	0	positive
+0#31#0	vải trơn, mượt, co dãn vừa phải, màu đẹp, màu bên ngoài nhạt hơn hình chút nha vì mình chụp ngoài sáng, vải này chắc chắn ko xù lông, kiểu như thun lạnh á, sợ hơi nóng , đường may cẩn thận	Material	1	neutral
+0#12#0	chất liệu:ok hàng chất lượng và đẹp. khá hài lòng. lần sau sẽ ủng hộ shop tiếp	Material	0	positive
+26#47#0	hàng rất ưng ý như mô tả, chất vải mát thấm hút, giao hàng nhanh	Material	0	positive
+17#49#0	Giao hàng nhanh. Áo cầm chắc tay nặng vải dày đẹp. Rất ưng	Material	0	positive
+0#23#0	áo vải thể thao dày dặn, logo in xịn không phải như mấy loại khác. vải sờ chất khá mát	Material	0	positive
+22#34#0	hang đẹp và giống màu.chat cung ok.noi chung la ck mình thích.màu cũng đẹp .sẽ tiếp tục ủng hộ shop	Material	0	positive
+68#83#0	chất liệu:nóng như dẻ lau nhà đúng với mô tả:1% màu sắc:nâu cổ rộng vải mỏng ko đẹp ko nên mua giao hàng siêu nhanh	Material	2	negative
+80#102#0	Đúng với mô tả:đẹp Màu sắc:trắng Chất liệu:ổn sản phẩm đep, ai cx có thể mặc đc vải mát đáng đồng tiền nên cho 5 sao	Material	0	positive
+76#96#0	mình săn sale giá có 86k nhưng mà chất lượng thì quá tuyệt vời. áo đẹp cực, vải dày cầm nặng tay, k có chỉ thừa, chất mặc k nóng, nói chung là quá ưng	Material	0	positive
+15#31#0	đúng với mô tả:mỏng lộ áo trong . hình ko đúng như mẫu , chất liệu:ngắn vãi	Material	2	negative
+104#167#0	vải trơn, mượt, co dãn vừa phải, màu đẹp, màu bên ngoài nhạt hơn hình chút nha vì mình chụp ngoài sáng, vải này chắc chắn ko xù lông, kiểu như thun lạnh á, sợ hơi nóng , đường may cẩn thận	Material	1	neutral
+0#7#0	áo mỏng với nhỏ	Material	2	negative
+23#47#0	tôi đã nhận được hàng, chất liệu vải thoáng mát, tôi rất hài lòng. chúc shop bán được nhiều đơn hàng nhé!	Material	0	positive
+32#43#0	hàng rất đẹp mk săn sale nên rẻ chất cx đẹp nên mua nha shop gói hàng rất cẩn thận shop cx rất nhiệt tình sp nên mua giao hàng nhanh	Material	0	positive
+0#7#0	vài dày, đường may đẹp. màu sắc y hình. giao hàng nhanh chỉ 2 ngày là nhận được. shop còn ghi là tặng card đt 10k. vi vọng nhận đc.	Material	0	positive
+25#62#0	áo rất đẹp nha mọi ngừi, chất cotton này mặc mát và co dãn tốt. mặc đi làm đi chơi đều được. sẽ tiếp tục ủng hộ shop .	Material	0	positive
+28#52#0	Màu sắc giống với ảnh: kem. Chất vải mềm mại, co dãn. Tuy nhiên form áo hơi to, bình thường mình mặc size L nhưng mặc áo này size L thì lại to quá. Sẽ quay lại.	Material	0	positive
+0#91#0	áo ổn chất mát, nhưng mà kiểu hơi mỏng baybay, hợp mấy a zai body tý, gầy mặc hơi điêu điêu, mua hôm trc hôm sau sale, buồn =)))	Material	1	neutral
+0#13#0	chất liệu:đẹp đóng gòi chắc chắn vs nhiều lớp, áo bọc cẩn thận đẹp vừa với người.	Material	0	positive
+37#75#0	đúng với mô tả:sop in hơi lỗi bị lem chất liệu:cũng mát mỏng dễ thấm mồ hôi màu sắc:đen đẹp nhưng in bị lem	Material	0	positive
+153#166#0	màu sắc:không ưa nha chất liệu:vải mỏng đúng với mô tả:3/10 kích thước khá vừa ý nhưng có tâm đi shop ơi cái chữ nó in không giống tẹo nào luôn ý shop , vải cũng mỏng th tiền nào của nấy cho 4 sao mong shop chụp ảnh có tâm xíu đừng sài ảnh mạng, đóng gói đẹp cẩn thận	Material	2	negative
