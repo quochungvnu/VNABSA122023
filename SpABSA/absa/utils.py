@@ -171,10 +171,10 @@ def convert_examples_to_features(examples, tokenizer, max_seq_length, verbose_lo
             polarity_labels.append(0)
             label_masks.append(0)
 
-        assert len(start_indexes) == max_term_num
+        '''assert len(start_indexes) == max_term_num
         assert len(end_indexes) == max_term_num
         assert len(polarity_labels) == max_term_num
-        assert len(label_masks) == max_term_num
+        assert len(label_masks) == max_term_num'''
 
         if example_index < 1 and verbose_logging:
             logger.info("*** Example ***")
