@@ -117,7 +117,7 @@ def convert_examples_to_features(examples, tokenizer, max_seq_length, verbose_lo
         tokens = []
         token_to_orig_map = {}
         segment_ids = []
-        tokens.append("[CLS]")
+        tokens.append("SEP")
         segment_ids.append(0)
 
         for index, token in enumerate(all_doc_tokens):
