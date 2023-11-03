@@ -472,7 +472,7 @@ def read_absa_data(path):
     :return:
     """
     dataset = []
-    with open(path, encoding='UTF-8') as fp:
+    with open(path, encoding='UTF-8', sep='\t') as fp:
         for line in fp:
             record = {}
             sent, tag_string = line.strip().split('####')
