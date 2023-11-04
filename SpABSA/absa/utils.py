@@ -117,7 +117,7 @@ def convert_examples_to_features(examples, tokenizer, max_seq_length, verbose_lo
         tokens = []
         token_to_orig_map = {}
         segment_ids = []
-        tokens.append("SEP")
+        tokens.append("[CLS]")
         segment_ids.append(0)
 
         for index, token in enumerate(all_doc_tokens):
@@ -150,17 +150,11 @@ def convert_examples_to_features(examples, tokenizer, max_seq_length, verbose_lo
                 start_position = tok_start_position + 1   # [CLS]
                 end_position = tok_end_position + 1   # [CLS]
                 start_positions[start_position] = 1
-                end_positions[end_position] = 1
                 start_indexes.append(start_position)
                 end_indexes.append(end_position)
                 term_length = tok_end_position - tok_start_position + 1
                 max_term_length = term_length if term_length > max_term_length else max_term_length
                 bio_labels[start_position] = 1  # 'B'
-                if start_position < end_position:
-                    for idx in range(start_position + 1, end_position + 1):
-                        bio_labels[idx] = 2  # 'I'
-                for idx in range(start_position, end_position + 1):
-                    polarity_positions[idx] = label_to_id[polarity]
 
         polarity_labels = [label_to_id[polarity] for polarity in example.polarities]
         label_masks = [1] * len(polarity_labels)
@@ -173,8 +167,8 @@ def convert_examples_to_features(examples, tokenizer, max_seq_length, verbose_lo
 
         assert len(start_indexes) == max_term_num
         assert len(end_indexes) == max_term_num
-        assert len(polarity_labels) == max_term_num
-        assert len(label_masks) == max_term_num
+        #assert len(polarity_labels) == max_term_num
+        #assert len(label_masks) == max_term_num
 
         if example_index < 1 and verbose_logging:
             logger.info("*** Example ***")

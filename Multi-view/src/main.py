@@ -18,7 +18,7 @@ from pytorch_lightning.callbacks.early_stopping import EarlyStopping
 from pytorch_lightning.callbacks.progress import TQDMProgressBar
 from pytorch_lightning.callbacks import LearningRateMonitor
 
-from transformers import AdamW, T5Tokenizer
+from transformers import AdamW, T5Tokenizer, AutoTokenizer
 from t5 import MyT5ForConditionalGeneration
 from transformers import get_linear_schedule_with_warmup
 
@@ -595,7 +595,7 @@ def train_function(args):
     if args.do_train:
         print("\n", "=" * 30, f"NEW EXP: {args.task} on {args.dataset}",
               "=" * 30, "\n")
-        tokenizer = T5Tokenizer.from_pretrained(args.model_name_or_path, local_files_only=True if args.model_name_or_path != "t5-base" else False)
+        tokenizer = AutoTokenizer.from_pretrained(args.model_name_or_path)
 
         # sanity check
         # show one sample to check the code and the expected output
@@ -692,7 +692,7 @@ def train_function(args):
         model_path = os.path.join(args.output_dir, "final")
         # model_path = args.model_name_or_path  # for loading ckpt
 
-        tokenizer = T5Tokenizer.from_pretrained(model_path)
+        tokenizer = AutoTokenizer.from_pretrained(model_path)
         tfm_model = MyT5ForConditionalGeneration.from_pretrained(model_path)
         model = T5FineTuner(args, tfm_model, tokenizer)
 
