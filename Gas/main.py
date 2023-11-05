@@ -230,7 +230,10 @@ def evaluate(data_loader, model, paradigm, task, sents):
         print(outs)
         dec = [tokenizer.decode(ids, skip_special_tokens=True) for ids in outs]
         target = [tokenizer.decode(ids, skip_special_tokens=True) for ids in batch["target_ids"]]
-
+        print('dec: ')
+        print(dec)
+        print('tar: ')
+        print(target)
         outputs.extend(dec)
         targets.extend(target)
 
