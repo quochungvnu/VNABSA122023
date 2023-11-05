@@ -624,7 +624,7 @@ def train_function(args):
         print("\n****** Conduct Training ******")
 
         # initialize the T5 model
-        tfm_model = MyT5ForConditionalGeneration.from_pretrained(
+        tfm_model = T5ForConditionalGeneration.from_pretrained(
             args.model_name_or_path)
         model = T5FineTuner(args, tfm_model, tokenizer)
 
