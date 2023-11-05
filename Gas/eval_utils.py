@@ -49,7 +49,7 @@ def extract_pairs(seq):
     for ap in aps:
         # the original sentence might have 
         try:
-            at, ots = ap.split('[SEP]')
+            at, ots = ap.split('*')
         except ValueError:
             at, ots  = '', ''
         
@@ -69,7 +69,7 @@ def extract_triplets(seq):
     triplets = []
     for ap in aps:
         try:
-            a, b, c = ap.split('[SEP]')
+            a, b, c = ap.split('*')
         except ValueError:
             a, b, c = '', '', ''
         
