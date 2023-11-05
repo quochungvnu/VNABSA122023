@@ -10,7 +10,7 @@ from torch.utils.data import DataLoader
 import pytorch_lightning as pl
 from pytorch_lightning import seed_everything
 
-from transformers import AdamW, T5Tokenizer, AutoTokenizer, T5ForConditionalGeneration, AutoModelForSeq2SeqLM
+from transformers import AdamW, T5Tokenizer, AutoTokenizer, T5ForConditionalGeneration
 from transformers import get_linear_schedule_with_warmup
 
 from data_utils import ABSADataset
@@ -86,8 +86,8 @@ def get_dataset(tokenizer, type_path, args):
 class T5FineTuner(pl.LightningModule):
     def __init__(self, hparams):
         super(T5FineTuner, self).__init__()
-
-        self.model = AutoModelForSeq2SeqLM.from_pretrained('VietAI/vit5-base')
+        self.hparams = hparams
+        self.model = T5ForConditionalGeneration.from_pretrained('VietAI/vit5-base')
         self.tokenizer = AutoTokenizer.from_pretrained('VietAI/vit5-base')
 
     def is_logger(self):
@@ -123,19 +123,19 @@ class T5FineTuner(pl.LightningModule):
         tensorboard_logs = {"train_loss": loss}
         return {"loss": loss, "log": tensorboard_logs}
 
-    '''def training_epoch_end_self(self, outputs):
+    def training_epoch_end_self(self, outputs):
         avg_train_loss = torch.stack([x["loss"] for x in outputs]).mean()
         tensorboard_logs = {"avg_train_loss": avg_train_loss}
-        return {"avg_train_loss": avg_train_loss, "log": tensorboard_logs, 'progress_bar': tensorboard_logs}'''
+        return {"avg_train_loss": avg_train_loss, "log": tensorboard_logs, 'progress_bar': tensorboard_logs}
 
-    '''def validation_step(self, batch, batch_idx):
+    def validation_step(self, batch, batch_idx):
         loss = self._step(batch)
         return {"val_loss": loss}
 
     def validation_epoch_end(self, outputs):
         avg_loss = torch.stack([x["val_loss"] for x in outputs]).mean()
         tensorboard_logs = {"val_loss": avg_loss}
-        return {"avg_val_loss": avg_loss, "log": tensorboard_logs, 'progress_bar': tensorboard_logs}'''
+        return {"avg_val_loss": avg_loss, "log": tensorboard_logs, 'progress_bar': tensorboard_logs}
 
     def configure_optimizers(self):
         '''Prepare optimizer and schedule (linear warmup and decay)'''
@@ -155,10 +155,10 @@ class T5FineTuner(pl.LightningModule):
         self.opt = optimizer
         return [optimizer]
 
-    '''def optimizer_step(self, epoch, batch_idx, optimizer, optimizer_idx, second_order_closure=None):
+    def optimizer_step(self, epoch, batch_idx, optimizer, optimizer_idx, second_order_closure=None):
         optimizer.step()
         optimizer.zero_grad()
-        self.lr_scheduler.step()'''
+        self.lr_scheduler.step()
 
     def get_tqdm_dict(self):
         tqdm_dict = {"loss": "{:.4f}".format(self.trainer.avg_loss), "lr": self.lr_scheduler.get_last_lr()[-1]}
@@ -232,7 +232,7 @@ def evaluate(data_loader, model, paradigm, task, sents):
     raw_scores, fixed_scores, all_labels, all_preds, all_preds_fixed = compute_scores(outputs, targets, sents, paradigm, task)
     results = {'raw_scores': raw_scores, 'fixed_scores': fixed_scores, 'labels': all_labels,
                'preds': all_preds, 'preds_fixed': all_preds_fixed}
-    # pickle.dump(results, open(f"{args.output_dir}/results-{args.task}-{args.dataset}-{args.paradigm}.pickle", 'wb'))
+    pickle.dump(results, open(f"{args.output_dir}/results-{args.task}-{args.dataset}-{args.paradigm}.pickle", 'wb'))
 
     return raw_scores, fixed_scores
 
