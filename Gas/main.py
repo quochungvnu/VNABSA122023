@@ -82,13 +82,13 @@ def get_dataset(tokenizer, type_path, args):
                        paradigm=args.paradigm, task=args.task, max_len=args.max_seq_length)
 
 
-class T5FineTuner(pl.LightningModule):
+class ViT5FineTuner(pl.LightningModule):
     def __init__(self, hparams):
-        super(T5FineTuner, self).__init__()
+        super(ViT5FineTuner, self).__init__()
         self.hparams = hparams
 
-        self.model = T5ForConditionalGeneration.from_pretrained(hparams.model_name_or_path)
-        self.tokenizer = AutoTokenizer.from_pretrained('VietAI/vit5-base')
+        self.model = AutoModelForSeq2SeqLM.from_pretrained(hparams.model_name_or_path)
+        self.tokenizer = AutoTokenizer.from_pretrained(hparams.model_name_or_path)
 
     def is_logger(self):
         return True
@@ -248,7 +248,7 @@ print("\n", "=" * 30, f"NEW EXP: {args.task.upper()} on {args.dataset}", "=" * 3
 
 seed_everything(args.seed)
 
-tokenizer = AutoTokenizer.from_pretrained('VietAI/vit5-base')
+tokenizer = AutoTokenizer.from_pretrained(args.model_name_or_path)
 
 # show one sample to check the sanity of the code and the expected output
 print(f"Here is an example (from dev set) under `{args.paradigm}` paradigm:")
@@ -261,7 +261,7 @@ print('Output:', tokenizer.decode(data_sample['target_ids'], skip_special_tokens
 # training process
 if args.do_train:
     print("\n****** Conduct Training ******")
-    model = T5FineTuner(args)
+    model = ViT5FineTuner(args)
 
     checkpoint_callback = pl.callbacks.ModelCheckpoint(
         filepath=args.output_dir, prefix="ckt", monitor='val_loss', mode='min', save_top_k=3
@@ -325,7 +325,7 @@ if args.do_eval:
             # reload the model and conduct inference
             print(f"\nLoad the trained model from {checkpoint}...")
             model_ckpt = torch.load(checkpoint)
-            model = T5FineTuner(model_ckpt['hyper_parameters'])
+            model = ViT5FineTuner(model_ckpt['hyper_parameters'])
             model.load_state_dict(model_ckpt['state_dict'])
 
             dev_result = evaluate(dev_loader, model, args.paradigm, args.task)

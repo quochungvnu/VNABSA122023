@@ -67,7 +67,7 @@ def extract_triplets(seq):
     triplets = []
     for ap in aps:
         try:
-            a, b, c = ap.split('|')
+            a, b, c = ap.split('[SEP]')
         except ValueError:
             a, b, c = '', '', ''
         

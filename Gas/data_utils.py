@@ -113,9 +113,9 @@ def get_annotated_tasd_targets(sents, labels):
                 at_dict[at] = [[ac], polarity]
         for at, ac_pol in at_dict.items():
             if len(ac_pol[0]) == 1:
-                annotated_at = f"[{at}|{ac_pol[0][0]}|{ac_pol[1]}]"
+                annotated_at = f"[{at}[SEP]{ac_pol[0][0]}[SEP]{ac_pol[1]}]"
             else:
-                annotated_at = f"[{at}|{', '.join(ac_pol[0])}|{ac_pol[1]}]"
+                annotated_at = f"[{at}[SEP]{', '.join(ac_pol[0])}[SEP]{ac_pol[1]}]"
             if at != 'NULL':
                 # print('at:', at, 'replaced_at:', annotated_at)
                 s_str = s_str.replace(at, annotated_at)
