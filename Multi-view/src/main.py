@@ -215,15 +215,18 @@ class T5FineTuner(pl.LightningModule):
                                    return_dict_in_generate=True,
                                    output_scores=True,
                                    num_beams=1)
-
         dec = [
             self.tokenizer.decode(ids, skip_special_tokens=True)
             for ids in outs.sequences
         ]
+        print('dec: ')
+        print(dec)
         target = [
             self.tokenizer.decode(ids, skip_special_tokens=True)
             for ids in batch["target_ids"]
         ]
+        print('target: ')
+        print(target)
         scores, _, _ = compute_scores(dec, target, verbose=False)
         f1 = torch.tensor(scores['f1'], dtype=torch.float64)
 
@@ -693,7 +696,7 @@ def train_function(args):
         # model_path = args.model_name_or_path  # for loading ckpt
 
         tokenizer = AutoTokenizer.from_pretrained(model_path)
-        tfm_model = MyT5ForConditionalGeneration.from_pretrained(model_path)
+        tfm_model = T5ForConditionalGeneration.from_pretrained(model_path)
         model = T5FineTuner(args, tfm_model, tokenizer)
 
         if args.load_ckpt_name:
