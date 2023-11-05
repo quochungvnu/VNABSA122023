@@ -10,7 +10,7 @@ from torch.utils.data import DataLoader
 import pytorch_lightning as pl
 from pytorch_lightning import seed_everything
 
-from transformers import AdamW, T5Tokenizer, AutoTokenizer, T5ForConditionalGeneration, AutoModel
+from transformers import AdamW, T5Tokenizer, AutoTokenizer, T5ForConditionalGeneration, AutoModelForSeq2SeqLM
 from transformers import get_linear_schedule_with_warmup
 
 from data_utils import ABSADataset
@@ -87,7 +87,7 @@ class T5FineTuner(pl.LightningModule):
     def __init__(self, hparams):
         super(T5FineTuner, self).__init__()
 
-        self.model = AutoModel.from_pretrained('VietAI/vit5-base')
+        self.model = AutoModelForSeq2SeqLM.from_pretrained('VietAI/vit5-base')
         self.tokenizer = AutoTokenizer.from_pretrained('VietAI/vit5-base')
 
     def is_logger(self):
