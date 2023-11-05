@@ -4,18 +4,7 @@ import re
 import editdistance
 
 sentiment_word_list = ['positive', 'negative', 'neutral']
-aspect_cate_list = ['location general',
- 'food prices',
- 'food quality',
- 'ambience general',
- 'service general',
- 'restaurant prices',
- 'drinks prices',
- 'restaurant miscellaneous',
- 'drinks quality',
- 'drinks style_options',
- 'restaurant general',
- 'food style_options']
+aspect_cate_list = ["Design", "General", "Material", "Price", "Service"]
 
 
 def extract_spans_extraction(task, seq):
