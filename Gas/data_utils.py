@@ -113,9 +113,9 @@ def get_annotated_tasd_targets(sents, labels):
                 at_dict[at] = [[ac], polarity]
         for at, ac_pol in at_dict.items():
             if len(ac_pol[0]) == 1:
-                annotated_at = f"[{at}|{ac_pol[0][0]}|{ac_pol[1]}]"
+                annotated_at = f"[{at}[SEP]{ac_pol[0][0]}[SEP]{ac_pol[1]}]"
             else:
-                annotated_at = f"[{at}|{', '.join(ac_pol[0])}|{ac_pol[1]}]"
+                annotated_at = f"[{at}[SEP]{', '.join(ac_pol[0])}[SEP]{ac_pol[1]}]"
             if at != 'NULL':
                 # print('at:', at, 'replaced_at:', annotated_at)
                 s_str = s_str.replace(at, annotated_at)
@@ -299,7 +299,7 @@ def write_results_to_log(log_file_path, best_test_result, args, dev_results, tes
     Record dev and test results to log file
     """
     local_time = time.asctime(time.localtime(time.time()))
-    exp_settings = "Exp setting: {0} on {1} under {2} | {3:.4f} | ".format(
+    exp_settings = "Exp setting: {0} on {1} under {2} [SEP] {3:.4f} [SEP] ".format(
         args.task, args.dataset, args.paradigm, best_test_result
     )
     train_settings = "Train setting: bs={0}, lr={1}, num_epochs={2}".format(
