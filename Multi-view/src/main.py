@@ -18,8 +18,8 @@ from pytorch_lightning.callbacks.early_stopping import EarlyStopping
 from pytorch_lightning.callbacks.progress import TQDMProgressBar
 from pytorch_lightning.callbacks import LearningRateMonitor
 
-from transformers import AdamW, T5Tokenizer, AutoTokenizer
-from t5 import MyT5ForConditionalGeneration
+from transformers import AdamW, T5Tokenizer, AutoTokenizer, AutoModelForSeq2SeqLM
+#from t5 import MyT5ForConditionalGeneration
 from transformers import get_linear_schedule_with_warmup
 
 from data_utils import ABSADataset, task_data_list, cal_entropy
@@ -624,7 +624,7 @@ def train_function(args):
         print("\n****** Conduct Training ******")
 
         # initialize the T5 model
-        tfm_model = MyT5ForConditionalGeneration.from_pretrained(
+        tfm_model = AutoModelForSeq2SeqLM.from_pretrained(
             args.model_name_or_path)
         model = T5FineTuner(args, tfm_model, tokenizer)
 
@@ -693,7 +693,7 @@ def train_function(args):
         # model_path = args.model_name_or_path  # for loading ckpt
 
         tokenizer = AutoTokenizer.from_pretrained(model_path)
-        tfm_model = MyT5ForConditionalGeneration.from_pretrained(model_path)
+        tfm_model = AutoModelForSeq2SeqLM.from_pretrained(model_path)
         model = T5FineTuner(args, tfm_model, tokenizer)
 
         if args.load_ckpt_name:
