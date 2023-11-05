@@ -226,7 +226,8 @@ def evaluate(data_loader, model, paradigm, task, sents):
         outs = model.model.generate(input_ids=batch['source_ids'].to(device), 
                                     attention_mask=batch['source_mask'].to(device), 
                                     max_length=128)
-
+        print("output: ")
+        print(outs)
         dec = [tokenizer.decode(ids, skip_special_tokens=True) for ids in outs]
         target = [tokenizer.decode(ids, skip_special_tokens=True) for ids in batch["target_ids"]]
 
