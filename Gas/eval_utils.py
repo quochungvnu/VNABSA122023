@@ -63,8 +63,6 @@ def extract_pairs(seq):
 
 def extract_triplets(seq):
     aps = re.findall('\[.*?\]', seq)
-    print('aps: ')
-    print(aps)
     aps = [ap[1:-1] for ap in aps]
     triplets = []
     for ap in aps:
