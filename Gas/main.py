@@ -227,7 +227,6 @@ def evaluate(data_loader, model, paradigm, task, sents):
                                     attention_mask=batch['source_mask'].to(device), 
                                     max_length=128)
         print("output: ")
-        print(outs)
         dec = [tokenizer.decode(ids, skip_special_tokens=True) for ids in outs]
         target = [tokenizer.decode(ids, skip_special_tokens=True) for ids in batch["target_ids"]]
         print('dec: ')
