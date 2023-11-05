@@ -10,7 +10,7 @@ from torch.utils.data import DataLoader
 import pytorch_lightning as pl
 from pytorch_lightning import seed_everything
 
-from transformers import AdamW, T5ForConditionalGeneration, T5Tokenizer#, AutoTokenizer, AutoModelForSeq2SeqLM
+from transformers import AdamW, T5ForConditionalGeneration, T5Tokenizer, AutoTokenizer, AutoModelForSeq2SeqLM
 from transformers import get_linear_schedule_with_warmup
 
 from data_utils import ABSADataset
@@ -88,7 +88,7 @@ class T5FineTuner(pl.LightningModule):
         self.hparams = hparams
 
         self.model = T5ForConditionalGeneration.from_pretrained(hparams.model_name_or_path)
-        self.tokenizer = T5Tokenizer.from_pretrained(hparams.model_name_or_path)
+        self.tokenizer = AutoTokenizer.from_pretrained(hparams.model_name_or_path)
 
     def is_logger(self):
         return True
@@ -248,7 +248,7 @@ print("\n", "=" * 30, f"NEW EXP: {args.task.upper()} on {args.dataset}", "=" * 3
 
 seed_everything(args.seed)
 
-tokenizer = T5Tokenizer.from_pretrained(args.model_name_or_path)
+tokenizer = AutoTokenizer.from_pretrained(args.model_name_or_path)
 
 # show one sample to check the sanity of the code and the expected output
 print(f"Here is an example (from dev set) under `{args.paradigm}` paradigm:")
