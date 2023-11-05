@@ -49,7 +49,7 @@ def extract_pairs(seq):
     for ap in aps:
         # the original sentence might have 
         try:
-            at, ots = ap.split('|')
+            at, ots = ap.split('[SEP]')
         except ValueError:
             at, ots  = '', ''
         
