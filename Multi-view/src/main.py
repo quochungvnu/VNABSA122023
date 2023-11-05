@@ -18,7 +18,7 @@ from pytorch_lightning.callbacks.early_stopping import EarlyStopping
 from pytorch_lightning.callbacks.progress import TQDMProgressBar
 from pytorch_lightning.callbacks import LearningRateMonitor
 
-from transformers import AdamW, T5Tokenizer, AutoTokenizer, MyT5ForConditionalGeneration
+from transformers import AdamW, T5Tokenizer, AutoTokenizer, T5ForConditionalGeneration
 #from t5 import MyT5ForConditionalGeneration
 from transformers import get_linear_schedule_with_warmup
 
