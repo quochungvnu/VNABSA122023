@@ -49,7 +49,7 @@ def extract_pairs(seq):
     for ap in aps:
         # the original sentence might have 
         try:
-            at, ots = ap.split(' [SEP] ')
+            at, ots = ap.split('|')
         except ValueError:
             at, ots  = '', ''
         
@@ -67,7 +67,7 @@ def extract_triplets(seq):
     triplets = []
     for ap in aps:
         try:
-            a, b, c = ap.split(' [SEP] ')
+            a, b, c = ap.split('|')
         except ValueError:
             a, b, c = '', '', ''
         
@@ -328,8 +328,6 @@ def compute_scores(pred_seqs, gold_seqs, sents, io_format, task):
     
     print("\nResults of raw output")
     raw_scores = compute_f1_scores(all_predictions, all_labels)
-    print(all_predictions)
-    print(all_labels)
     print(raw_scores)
 
     # fix the issues due to generation
