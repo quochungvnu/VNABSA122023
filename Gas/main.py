@@ -88,7 +88,7 @@ class T5FineTuner(pl.LightningModule):
         self.hparams = hparams
 
         self.model = T5ForConditionalGeneration.from_pretrained(hparams.model_name_or_path)
-        self.tokenizer = AutoTokenizer.from_pretrained(hparams.model_name_or_path)
+        self.tokenizer = AutoTokenizer.from_pretrained('VietAI/vit5-base')
 
     def is_logger(self):
         return True
@@ -248,7 +248,7 @@ print("\n", "=" * 30, f"NEW EXP: {args.task.upper()} on {args.dataset}", "=" * 3
 
 seed_everything(args.seed)
 
-tokenizer = AutoTokenizer.from_pretrained(args.model_name_or_path)
+tokenizer = AutoTokenizer.from_pretrained('VietAI/vit5-base')
 
 # show one sample to check the sanity of the code and the expected output
 print(f"Here is an example (from dev set) under `{args.paradigm}` paradigm:")
