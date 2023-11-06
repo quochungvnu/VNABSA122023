@@ -64,13 +64,14 @@ cate_list = {
     "rest15": rest_aspect_cate_list,
     "rest": rest_aspect_cate_list,
     "rest16": rest_aspect_cate_list,
+    "rest17": rest_aspect_cate_list,
     "laptop": laptop_aspect_cate_list,
     "laptop14": laptop_aspect_cate_list
 }
 
 task_data_list = {
     "aste": ["laptop14", "rest14", "rest15", "rest16"],
-    "tasd": ['rest15', "rest16"],
+    "tasd": ['rest15', "rest16", "rest17"],
     "acos": ['laptop16', "rest16"],
     "asqp": ['rest15', "rest16"],
 }
@@ -83,7 +84,8 @@ force_words = {
     },
     'tasd': {
         "rest15": rest_aspect_cate_list + list(sentword2opinion.values()) + ['[SSEP]'],
-        "rest16": rest_aspect_cate_list + list(sentword2opinion.values()) + ['[SSEP]']
+        "rest16": rest_aspect_cate_list + list(sentword2opinion.values()) + ['[SSEP]'],
+        "rest17": rest_aspect_cate_list + list(sentword2opinion.values()) + ['[SSEP]']
     },
     'acos': {
         "rest": rest_aspect_cate_list + list(sentword2opinion.values()) + ['[SSEP]'],
@@ -121,6 +123,10 @@ optim_orders_all = {
                     '[C] [A] [S]', '[S] [C] [A]', '[S] [A] [C]'
                 ],
                 "rest16": [
+                    '[A] [C] [S]', '[A] [S] [C]', '[C] [S] [A]',
+                    '[C] [A] [S]', '[S] [C] [A]', '[S] [A] [C]'
+                ],
+                "rest17": [
                     '[A] [C] [S]', '[A] [S] [C]', '[C] [S] [A]',
                     '[C] [A] [S]', '[S] [C] [A]', '[S] [A] [C]'
                 ]
