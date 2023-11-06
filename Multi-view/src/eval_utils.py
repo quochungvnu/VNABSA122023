@@ -5,7 +5,7 @@ import numpy as np
 
 def extract_spans_para(seq, seq_type):
     quads = []
-    sents = [s.strip() for s in seq.split('*')]
+    sents = [s.strip() for s in seq.split('[SSEP]')]
     for s in sents:
         try:
             tok_list = ["[C]", "[S]", "[A]", "[O]"]
@@ -97,11 +97,11 @@ def compute_scores(pred_seqs, gold_seqs, verbose=True):
     for i in range(num_samples):
         gold_list = extract_spans_para(gold_seqs[i], 'gold')
         pred_list = extract_spans_para(pred_seqs[i], 'pred')
-        #if verbose and i < 10:
+        if verbose and i < 10:
 
-            #print("gold ", gold_seqs[i])
-            #print("pred ", pred_seqs[i])
-            #print()
+            print("gold ", gold_seqs[i])
+            print("pred ", pred_seqs[i])
+            print()
 
         all_labels.append(gold_list)
         all_preds.append(pred_list)

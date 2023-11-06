@@ -354,7 +354,7 @@ def get_para_targets(sents, labels, data_name, data_type, top_k, task, args):
             for each_q in quad_list:
                 tar.append(each_q[o][1])
 
-            targets.append(" * ".join(tar))
+            targets.append(" [SSEP] ".join(tar))
             # add prompt
             new_sent = add_prompt(cur_sent, o.split(), task, data_name, args)
             new_sents.append(new_sent)
@@ -387,7 +387,7 @@ def get_para_targets_dev(sents, labels, data_name, task, args):
             one_quad_sentence = " ".join(element_list)
             all_quad_sentences.append(one_quad_sentence)
 
-        target = ' * '.join(all_quad_sentences)
+        target = ' [SSEP] '.join(all_quad_sentences)
         targets.append(target)
 
         # add prompt

@@ -18,8 +18,8 @@ from pytorch_lightning.callbacks.early_stopping import EarlyStopping
 from pytorch_lightning.callbacks.progress import TQDMProgressBar
 from pytorch_lightning.callbacks import LearningRateMonitor
 
-from transformers import AdamW, T5Tokenizer, AutoTokenizer, T5ForConditionalGeneration
-#from t5 import MyT5ForConditionalGeneration
+from transformers import AdamW, T5Tokenizer, AutoTokenizer
+from t5 import MyT5ForConditionalGeneration
 from transformers import get_linear_schedule_with_warmup
 
 from data_utils import ABSADataset, task_data_list, cal_entropy
@@ -215,18 +215,15 @@ class T5FineTuner(pl.LightningModule):
                                    return_dict_in_generate=True,
                                    output_scores=True,
                                    num_beams=1)
+
         dec = [
             self.tokenizer.decode(ids, skip_special_tokens=True)
             for ids in outs.sequences
         ]
-        print('dec: ')
-        print(dec)
         target = [
             self.tokenizer.decode(ids, skip_special_tokens=True)
             for ids in batch["target_ids"]
         ]
-        print('target: ')
-        print(target)
         scores, _, _ = compute_scores(dec, target, verbose=False)
         f1 = torch.tensor(scores['f1'], dtype=torch.float64)
 
@@ -577,13 +574,13 @@ def evaluate(model, task, data, data_type):
                     print()
 
                 # if no output, use the first path
-                output_str = " * ".join(
+                output_str = " [SSEP] ".join(
                     output) if output else multi_outputs[0]
 
                 outputs.append(output_str)
 
     # stats
-    labels_counts = Counter([len(l.split('*')) for l in outputs])
+    labels_counts = Counter([len(l.split('[SSEP]')) for l in outputs])
     print("pred labels count", labels_counts)
 
     scores, all_labels, all_preds = compute_scores(outputs,
@@ -627,8 +624,8 @@ def train_function(args):
         print("\n****** Conduct Training ******")
 
         # initialize the T5 model
-        tfm_model = T5ForConditionalGeneration.from_pretrained(
-            args.model_name_or_path)
+        tfm_model = MyT5ForConditionalGeneration.from_pretrained(
+            args.model_name_or_path, local_files_only=True if args.model_name_or_path != "t5-base" else False)
         model = T5FineTuner(args, tfm_model, tokenizer)
 
         # load data
@@ -696,7 +693,7 @@ def train_function(args):
         # model_path = args.model_name_or_path  # for loading ckpt
 
         tokenizer = AutoTokenizer.from_pretrained(model_path)
-        tfm_model = T5ForConditionalGeneration.from_pretrained(model_path)
+        tfm_model = MyT5ForConditionalGeneration.from_pretrained(model_path)
         model = T5FineTuner(args, tfm_model, tokenizer)
 
         if args.load_ckpt_name:
@@ -705,7 +702,7 @@ def train_function(args):
             checkpoint = torch.load(ckpt_path)
             model.load_state_dict(checkpoint["state_dict"])
 
-        log_file_path = os.path.join(args.output_dir, "results.txt")
+        log_file_path = os.path.join(args.output_dir, "result.txt")
 
         # compute the performance scores
         with open(log_file_path, "a+") as f:
@@ -769,6 +766,6 @@ if __name__ == '__main__':
     #     f1_res.append(res)
 
     # f1_str = "F1 all seeds: {}, avg: {:.2f}\n".format(f1_res, sum(f1_res) / len(f1_res))
-    # log_file_path = os.path.join(args.output_dir, "results.txt")
+    # log_file_path = os.path.join(args.output_dir, "result.txt")
     # with open(log_file_path, "a+") as f:
     #     f.write(f1_str)
