@@ -346,7 +346,7 @@ class T5FineTuner(pl.LightningModule):
                 sp_tokenize_res.extend(self.tokenizer(sp, return_tensors='pt')['input_ids'].tolist()[0])
             for task in force_words.keys():
                 dic['sentiment_tokens'][task] = sp_tokenize_res
-            dic['sentiment_tokens'] = sp_tokenize_res
+            #dic['sentiment_tokens'] = sp_tokenize_res
             special_tokens_tokenize_res = []
             for w in ['[O','[A','[S','[C','[SS']:
                 special_tokens_tokenize_res.extend(self.tokenizer(w, return_tensors='pt')['input_ids'].tolist()[0])
