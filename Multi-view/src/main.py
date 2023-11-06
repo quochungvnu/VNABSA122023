@@ -327,7 +327,7 @@ class T5FineTuner(pl.LightningModule):
         """
         import json
         if not os.path.exists('./force_tokens.json'):
-            dic = {"cate_tokens":{}, "all_tokens":{}, "sentiment_tokens":[], 'special_tokens':[]}
+            dic = {"cate_tokens":{}, "all_tokens":{}, "sentiment_tokens":{}, 'special_tokens':[]}
             for task in force_words.keys():
                 dic["all_tokens"][task] = {}
                 for dataset in force_words[task].keys():
@@ -344,7 +344,6 @@ class T5FineTuner(pl.LightningModule):
             sp_tokenize_res = []
             for sp in ['great', 'ok', 'bad']:
                 sp_tokenize_res.extend(self.tokenizer(sp, return_tensors='pt')['input_ids'].tolist()[0])
-                print(sp_tokenize_res)
             for task in force_words.keys():
                 dic['sentiment_tokens'][task] = sp_tokenize_res
             dic['sentiment_tokens'] = sp_tokenize_res
