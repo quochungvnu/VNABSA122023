@@ -630,7 +630,7 @@ def train_function(args):
 
         # initialize the T5 model
         tfm_model = MyT5ForConditionalGeneration.from_pretrained(
-            args.model_name_or_path, local_files_only=True if args.model_name_or_path != "t5-base" else False)
+            args.model_name_or_path)
         model = T5FineTuner(args, tfm_model, tokenizer)
 
         # load data
