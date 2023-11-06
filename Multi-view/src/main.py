@@ -9,7 +9,7 @@ from tqdm import tqdm
 from collections import Counter
 import random
 import numpy as np
-
+import json
 import torch
 from torch.utils.data import DataLoader
 import torch.nn.functional as F
@@ -355,6 +355,9 @@ class T5FineTuner(pl.LightningModule):
             import json
             with open("force_tokens.json", 'w') as f:
                 json.dump(dic, f, indent=4)
+
+        with open("force_tokens.json", 'r') as f:
+            force_tokens = json.load(f)
 
         to_id = {
             'OT': [667],
