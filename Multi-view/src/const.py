@@ -56,8 +56,8 @@ laptop_aspect_cate_list = [
     'laptop price'
 ]
 
-with open("force_tokens.json", 'r') as f:
-    force_tokens = json.load(f)
+'''with open("force_tokens.json", 'r') as f:
+    force_tokens = json.load(f)'''
 
 cate_list = {
     "rest14": rest_aspect_cate_list,
