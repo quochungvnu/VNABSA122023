@@ -9,7 +9,6 @@ from tqdm import tqdm
 from collections import Counter
 import random
 import numpy as np
-import json
 import torch
 from torch.utils.data import DataLoader
 import torch.nn.functional as F
@@ -326,6 +325,7 @@ class T5FineTuner(pl.LightningModule):
         Constrained Decoding
         # ids = self.tokenizer("text", return_tensors='pt')['input_ids'].tolist()[0]
         """
+        import json
         if not os.path.exists('./force_tokens.json'):
             dic = {"cate_tokens":{}, "all_tokens":{}, "sentiment_tokens":[], 'special_tokens':[]}
             for task in force_words.keys():
@@ -352,7 +352,7 @@ class T5FineTuner(pl.LightningModule):
                 special_tokens_tokenize_res.extend(self.tokenizer(w, return_tensors='pt')['input_ids'].tolist()[0]) 
             special_tokens_tokenize_res = [r for r in special_tokens_tokenize_res if r != 784]
             dic['special_tokens'] = special_tokens_tokenize_res
-            import json
+
             with open("force_tokens.json", 'w') as f:
                 json.dump(dic, f, indent=4)
 
