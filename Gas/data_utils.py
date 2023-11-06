@@ -34,10 +34,10 @@ def get_annotated_uabsa_targets(sents, labels):
             for tup in tuples:
                 ap, sent = tup[0], tup[1]
                 if len(ap) == 1:
-                    sents[i][ap[0]] = f"[{sents[i][ap[0]]}|{senttag2word[sent]}]"
+                    sents[i][ap[0]] = f"[{sents[i][ap[0]]}*{senttag2word[sent]}]"
                 else:
                     sents[i][ap[0]] = f"[{sents[i][ap[0]]}"
-                    sents[i][ap[-1]] = f"{sents[i][ap[-1]]}|{senttag2word[sent]}]" 
+                    sents[i][ap[-1]] = f"{sents[i][ap[-1]]}*{senttag2word[sent]}]"
         annotated_targets.append(sents[i])
 
     return annotated_targets
@@ -61,10 +61,10 @@ def get_annotated_aope_targets(sents, labels):
             else:
                 annotation = f"{' '.join(opt)}"
                 if len(ap) == 1:
-                    sents[i][ap[0]] = f"[{sents[i][ap[0]]}|{annotation}]"
+                    sents[i][ap[0]] = f"[{sents[i][ap[0]]}*{annotation}]"
                 else:
                     sents[i][ap[0]] = f"[{sents[i][ap[0]]}"
-                    sents[i][ap[-1]] = f"{sents[i][ap[-1]]}|{annotation}]" 
+                    sents[i][ap[-1]] = f"{sents[i][ap[-1]]}*{annotation}]"
         annotated_targets.append(sents[i])
 
     return annotated_targets
@@ -88,12 +88,12 @@ def get_annotated_aste_targets(sents, labels):
                 else:
                     sents[i][ap[-1]] = f"{sents[i][ap[-1]][:-1]}, {' '.join(op)}]"
             else:
-                annotation = f"{senttag2word[sent]}|{' '.join(op)}"
+                annotation = f"{senttag2word[sent]}*{' '.join(op)}"
                 if len(ap) == 1:
-                    sents[i][ap[0]] = f"[{sents[i][ap[0]]}|{annotation}]"
+                    sents[i][ap[0]] = f"[{sents[i][ap[0]]}*{annotation}]"
                 else:
                     sents[i][ap[0]] = f"[{sents[i][ap[0]]}"
-                    sents[i][ap[-1]] = f"{sents[i][ap[-1]]}|{annotation}]"
+                    sents[i][ap[-1]] = f"{sents[i][ap[-1]]}*{annotation}]"
         annotated_targets.append(sents[i])
     return annotated_targets
 

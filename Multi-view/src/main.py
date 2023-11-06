@@ -577,13 +577,13 @@ def evaluate(model, task, data, data_type):
                     print()
 
                 # if no output, use the first path
-                output_str = " [SSEP] ".join(
+                output_str = " * ".join(
                     output) if output else multi_outputs[0]
 
                 outputs.append(output_str)
 
     # stats
-    labels_counts = Counter([len(l.split('[SSEP]')) for l in outputs])
+    labels_counts = Counter([len(l.split('*')) for l in outputs])
     print("pred labels count", labels_counts)
 
     scores, all_labels, all_preds = compute_scores(outputs,
