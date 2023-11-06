@@ -319,42 +319,44 @@ class T5FineTuner(pl.LightningModule):
     def rindex(_list, _value):
         return len(_list) - _list[::-1].index(_value) - 1
 
-    def prefix_allowed_tokens_fn(self, task, data_name, source_ids, batch_id,
-                                 input_ids):
-        """
-        Constrained Decoding
-        # ids = self.tokenizer("text", return_tensors='pt')['input_ids'].tolist()[0]
-        """
-        import json
+    def prefix_allowed_tokens_fn(self, task, data_name, source_ids, batch_id, input_ids):
         if not os.path.exists('./force_tokens.json'):
-            dic = {"cate_tokens":{}, "all_tokens":{}, "sentiment_tokens":[], 'special_tokens':[]}
+            force_tokens = {
+                "cate_tokens": {},
+                "all_tokens": {},
+                "sentiment_tokens": [],
+                'special_tokens': []
+            }
+
             for task in force_words.keys():
-                dic["all_tokens"][task] = {}
+                force_tokens["all_tokens"][task] = {}
                 for dataset in force_words[task].keys():
                     cur_list = force_words[task][dataset]
                     tokenize_res = []
                     for w in cur_list:
                         tokenize_res.extend(self.tokenizer(w, return_tensors='pt')['input_ids'].tolist()[0])
-                    dic["all_tokens"][task][dataset] = tokenize_res
-            for k,v in cate_list.items():
+                    force_tokens["all_tokens"][task][dataset] = tokenize_res
+
+            for k, v in cate_list.items():
                 tokenize_res = []
                 for w in v:
-                    tokenize_res.extend(self.tokenizer(w, return_tensors='pt')['input_ids'].tolist()[0]) 
-                dic["cate_tokens"][k] = tokenize_res
+                    tokenize_res.extend(self.tokenizer(w, return_tensors='pt')['input_ids'].tolist()[0])
+                force_tokens["cate_tokens"][k] = tokenize_res
+
             sp_tokenize_res = []
             for sp in ['great', 'ok', 'bad']:
                 sp_tokenize_res.extend(self.tokenizer(sp, return_tensors='pt')['input_ids'].tolist()[0])
             for task in force_words.keys():
-                dic['sentiment_tokens'][task] = sp_tokenize_res
-            dic['sentiment_tokens'] = sp_tokenize_res
+                force_tokens['sentiment_tokens'][task] = sp_tokenize_res
+
             special_tokens_tokenize_res = []
-            for w in ['[O','[A','[S','[C','[SS']:
-                special_tokens_tokenize_res.extend(self.tokenizer(w, return_tensors='pt')['input_ids'].tolist()[0]) 
+            for w in ['[O', '[A', '[S', '[C', '[SS']:
+                special_tokens_tokenize_res.extend(self.tokenizer(w, return_tensors='pt')['input_ids'].tolist()[0])
             special_tokens_tokenize_res = [r for r in special_tokens_tokenize_res if r != 784]
-            dic['special_tokens'] = special_tokens_tokenize_res
+            force_tokens['special_tokens'] = special_tokens_tokenize_res
 
             with open("force_tokens.json", 'w') as f:
-                json.dump(dic, f, indent=4)
+                json.dump(force_tokens, f, indent=4)
 
         with open("force_tokens.json", 'r') as f:
             force_tokens = json.load(f)
