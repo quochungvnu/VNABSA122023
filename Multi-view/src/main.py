@@ -220,6 +220,8 @@ class T5FineTuner(pl.LightningModule):
             self.tokenizer.decode(ids, skip_special_tokens=True)
             for ids in outs.sequences
         ]
+        print("dec2: ------------------------")
+        print(dec)
         target = [
             self.tokenizer.decode(ids, skip_special_tokens=True)
             for ids in batch["target_ids"]
