@@ -144,8 +144,8 @@ def compute_scores(pred_seqs, gold_seqs, verbose=True):
         pred_list = extract_spans_para(pred_seqs[i], 'pred')
         print('gold_list: ')
         print(gold_list)
-        print('pred_list: ')
-        print(pred_list)
+        print('pred_seqs: ')
+        print(pred_seqs[i])
         if verbose and i < 10:
 
             print("gold ", gold_seqs[i])
