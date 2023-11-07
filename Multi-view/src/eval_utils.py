@@ -12,7 +12,7 @@ def extract_spans_para(seq, seq_type):
     if seq_type == 'pred':
         for s in sents:
             try:
-                tok_list = ["[C ]", "[S ]", "[A ]", "[O ]"]
+                tok_list = ["[C]", "[S]", "[A]", "[O]"]
 
                 for tok in tok_list:
                     if tok not in s:
