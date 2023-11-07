@@ -390,22 +390,24 @@ class T5FineTuner(pl.LightningModule):
         num_right_brace = len(right_brace_index)
         last_right_brace_pos = right_brace_index[-1][0] if right_brace_index.nelement() > 0 else -1
         last_left_brace_pos = left_brace_index[-1][0] if left_brace_index.nelement() > 0 else -1
+        print('left_brace_index: ')
+        print(left_brace_index)
+        print('last_right_brace_pos: ')
+        print(last_right_brace_pos)
+        print('last_left_brace_pos')
+        print(last_left_brace_pos)
         cur_id = input_ids[-1]
 
         if cur_id in to_id['[']:
-            print('a')
             return force_tokens['special_tokens']
         elif cur_id in to_id['AT'] + to_id['OT'] + to_id['EP'] + to_id['SP'] + to_id['AC']:
-            print('b')
             return to_id[']']  
         elif cur_id in to_id['SS']:
-            print('c')
             return to_id['EP'] 
 
         # get cur_term
         if last_left_brace_pos == -1:
-            #return to_id['['] + [1]   # start of sentence: [
-            return to_id['[']
+            return to_id['['] + [1]   # start of sentence: [
         elif (last_left_brace_pos != -1 and last_right_brace_pos == -1) \
             or last_left_brace_pos > last_right_brace_pos:
             return to_id[']']  # ]
@@ -442,8 +444,7 @@ class T5FineTuner(pl.LightningModule):
             ret += to_id[']'] 
         else:
             raise ValueError
-        #ret.extend(to_id['['] + [1]) # add [
-        ret.extend(to_id['['])
+        ret.extend(to_id['['] + [1]) # add [
         return ret
 
 
