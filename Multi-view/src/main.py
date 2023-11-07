@@ -359,6 +359,19 @@ class T5FineTuner(pl.LightningModule):
             force_tokens = json.load(f)
 
         to_id = {
+            'OT': [667],
+            'AT': [188],
+            'SP': [134],
+            'AC': [254],
+            'SS': [4256],
+            'EP': [8569],
+            '[': [784],
+            ']': [908],
+            'it': [34],
+            'null': [206,195]
+        }
+
+        '''to_id = {
             'OT': [35927],
             'AT': [35871],
             'SP': [35858],
@@ -368,8 +381,8 @@ class T5FineTuner(pl.LightningModule):
             '[': [1163],
             ']': [1117],
             'it': [9570],
-            'null': [20,3275]
-        }
+            'null': [20, 3275]
+        }'''
 
         left_brace_index = (input_ids == to_id['['][0]).nonzero()
         right_brace_index = (input_ids == to_id[']'][0]).nonzero()
