@@ -12,15 +12,15 @@ def extract_spans_para(seq, seq_type):
     if seq_type == 'pred':
         for s in sents:
             try:
-                tok_list = ["[C]", "[S]", "[A]", "[O]"]
+                tok_list = ["[C ]", "[S ]", "[A ]", "[O ]"]
 
                 for tok in tok_list:
                     if tok not in s:
                         s += " {} null".format(tok)
-                index_ac = s.index("[C ]")
-                index_sp = s.index("[S ]")
-                index_at = s.index("[A ]")
-                index_ot = s.index("[O ]")
+                index_ac = s.index("[C]")
+                index_sp = s.index("[S]")
+                index_at = s.index("[A]")
+                index_ot = s.index("[O]")
 
                 combined_list = [index_ac, index_sp, index_at, index_ot]
                 arg_index_list = list(np.argsort(combined_list))
