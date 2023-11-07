@@ -9,48 +9,90 @@ def extract_spans_para(seq, seq_type):
         sents = [s.strip() for s in seq.split('[SS EP ]')]
     else:
         sents = [s.strip() for s in seq.split('[SSEP]')]
-    for s in sents:
-        try:
-            tok_list = ["[C]", "[S]", "[A]", "[O]"]
-
-            for tok in tok_list:
-                if tok not in s:
-                    s += " {} null".format(tok)
-            index_ac = s.index("[C]")
-            index_sp = s.index("[S]")
-            index_at = s.index("[A]")
-            index_ot = s.index("[O]")
-
-            combined_list = [index_ac, index_sp, index_at, index_ot]
-            arg_index_list = list(np.argsort(combined_list))
-
-            result = []
-            for i in range(len(combined_list)):
-                start = combined_list[i] + 4
-                sort_index = arg_index_list.index(i)
-                if sort_index < 3:
-                    next_ = arg_index_list[sort_index + 1]
-                    re = s[start:combined_list[next_]]
-                else:
-                    re = s[start:]
-                result.append(re.strip())
-
-            ac, sp, at, ot = result
-
-            # if the aspect term is implicit
-            if at.lower() == 'it':
-                at = 'null'
-        except ValueError:
+    if seq_type == 'pred':
+        for s in sents:
             try:
-                print(f'In {seq_type} seq, cannot decode: {s}')
-                pass
-            except UnicodeEncodeError:
-                print(f'In {seq_type} seq, a string cannot be decoded')
-                pass
-            ac, at, sp, ot = '', '', '', ''
+                tok_list = ["[C ]", "[S ]", "[A ]", "[O ]"]
 
-        quads.append((ac, at, sp, ot))
+                for tok in tok_list:
+                    if tok not in s:
+                        s += " {} null".format(tok)
+                index_ac = s.index("[C ]")
+                index_sp = s.index("[S ]")
+                index_at = s.index("[A ]")
+                index_ot = s.index("[O ]")
 
+                combined_list = [index_ac, index_sp, index_at, index_ot]
+                arg_index_list = list(np.argsort(combined_list))
+
+                result = []
+                for i in range(len(combined_list)):
+                    start = combined_list[i] + 4
+                    sort_index = arg_index_list.index(i)
+                    if sort_index < 3:
+                        next_ = arg_index_list[sort_index + 1]
+                        re = s[start:combined_list[next_]]
+                    else:
+                        re = s[start:]
+                    result.append(re.strip())
+
+                ac, sp, at, ot = result
+
+                # if the aspect term is implicit
+                if at.lower() == 'it':
+                    at = 'null'
+            except ValueError:
+                try:
+                    print(f'In {seq_type} seq, cannot decode: {s}')
+                    pass
+                except UnicodeEncodeError:
+                    print(f'In {seq_type} seq, a string cannot be decoded')
+                    pass
+                ac, at, sp, ot = '', '', '', ''
+
+            quads.append((ac, at, sp, ot))
+    else:
+        for s in sents:
+            try:
+                tok_list = ["[C]", "[S]", "[A]", "[O]"]
+
+                for tok in tok_list:
+                    if tok not in s:
+                        s += " {} null".format(tok)
+                index_ac = s.index("[C]")
+                index_sp = s.index("[S]")
+                index_at = s.index("[A]")
+                index_ot = s.index("[O]")
+
+                combined_list = [index_ac, index_sp, index_at, index_ot]
+                arg_index_list = list(np.argsort(combined_list))
+
+                result = []
+                for i in range(len(combined_list)):
+                    start = combined_list[i] + 4
+                    sort_index = arg_index_list.index(i)
+                    if sort_index < 3:
+                        next_ = arg_index_list[sort_index + 1]
+                        re = s[start:combined_list[next_]]
+                    else:
+                        re = s[start:]
+                    result.append(re.strip())
+
+                ac, sp, at, ot = result
+
+                # if the aspect term is implicit
+                if at.lower() == 'it':
+                    at = 'null'
+            except ValueError:
+                try:
+                    print(f'In {seq_type} seq, cannot decode: {s}')
+                    pass
+                except UnicodeEncodeError:
+                    print(f'In {seq_type} seq, a string cannot be decoded')
+                    pass
+                ac, at, sp, ot = '', '', '', ''
+
+            quads.append((ac, at, sp, ot))
     return quads
 
 
