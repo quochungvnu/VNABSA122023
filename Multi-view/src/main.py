@@ -219,8 +219,6 @@ class T5FineTuner(pl.LightningModule):
             self.tokenizer.decode(ids, skip_special_tokens=True)
             for ids in outs.sequences
         ]
-        print("dec2: ------------------------")
-        print(dec)
         target = [
             self.tokenizer.decode(ids, skip_special_tokens=True)
             for ids in batch["target_ids"]
@@ -390,12 +388,6 @@ class T5FineTuner(pl.LightningModule):
         num_right_brace = len(right_brace_index)
         last_right_brace_pos = right_brace_index[-1][0] if right_brace_index.nelement() > 0 else -1
         last_left_brace_pos = left_brace_index[-1][0] if left_brace_index.nelement() > 0 else -1
-        print('left_brace_index: ')
-        print(left_brace_index)
-        print('last_right_brace_pos: ')
-        print(last_right_brace_pos)
-        print('last_left_brace_pos')
-        print(last_left_brace_pos)
         cur_id = input_ids[-1]
 
         if cur_id in to_id['[']:
