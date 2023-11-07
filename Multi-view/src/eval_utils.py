@@ -5,7 +5,10 @@ import numpy as np
 
 def extract_spans_para(seq, seq_type):
     quads = []
-    sents = [s.strip() for s in seq.split('[SSEP]')]
+    if seq_type == 'pred':
+        sents = [s.strip() for s in seq.split('[SS EP ]')]
+    else:
+        sents = [s.strip() for s in seq.split('[SSEP]')]
     for s in sents:
         try:
             tok_list = ["[C]", "[S]", "[A]", "[O]"]
