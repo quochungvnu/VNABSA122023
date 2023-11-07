@@ -3,7 +3,7 @@ import json
 senttag2opinion = {'pos': 'great', 'neg': 'bad', 'neu': 'ok'}
 sentword2opinion = {'positive': 'great', 'negative': 'bad', 'neutral': 'ok'}
 
-rest_aspect_cate_list = ["Design", "General", "Material", "Price", "Service"]
+rest_aspect_cate_list = ["design", "general", "material", "price", "service"]
 
 laptop_aspect_cate_list = [
     'keyboard operation_performance', 'os operation_performance',
