@@ -6,21 +6,21 @@ import numpy as np
 def extract_spans_para(seq, seq_type):
     quads = []
     if seq_type == 'pred':
-        sents = [s.strip() for s in seq.split('[SS EP ]')]
+        sents = [s.strip() for s in seq.split('[SSEP]')]
     else:
         sents = [s.strip() for s in seq.split('[SSEP]')]
     if seq_type == 'pred':
         for s in sents:
             try:
-                tok_list = ["[C ]", "[S ]", "[A ]", "[O ]"]
+                tok_list = ["[C]", "[S]", "[A]", "[O]"]
 
                 for tok in tok_list:
                     if tok not in s:
                         s += " {} null".format(tok)
-                index_ac = s.index("[C ]")
-                index_sp = s.index("[S ]")
-                index_at = s.index("[A ]")
-                index_ot = s.index("[O ]")
+                index_ac = s.index("[C]")
+                index_sp = s.index("[S]")
+                index_at = s.index("[A]")
+                index_ot = s.index("[O]")
 
                 combined_list = [index_ac, index_sp, index_at, index_ot]
                 arg_index_list = list(np.argsort(combined_list))
@@ -146,6 +146,8 @@ def compute_scores(pred_seqs, gold_seqs, verbose=True):
         print(gold_list)
         print('pred_seqs: ')
         print(pred_seqs[i])
+        print('pred_list: ')
+        print(pred_list)
         if verbose and i < 10:
 
             print("gold ", gold_seqs[i])
