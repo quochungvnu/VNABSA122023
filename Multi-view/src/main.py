@@ -384,8 +384,8 @@ class T5FineTuner(pl.LightningModule):
             'null': [20, 3275]
         }
 
-        left_brace_index = (input_ids == to_id['['][0]).nonzero()
-        right_brace_index = (input_ids == to_id[']'][0]).nonzero()
+        left_brace_index = (input_ids == to_id['['][0])#.nonzero()
+        right_brace_index = (input_ids == to_id[']'][0])#.nonzero()
         num_left_brace = len(left_brace_index)
         num_right_brace = len(right_brace_index)
         last_right_brace_pos = right_brace_index[-1][
@@ -395,10 +395,13 @@ class T5FineTuner(pl.LightningModule):
         cur_id = input_ids[-1]
 
         if cur_id in to_id['[']:
+            print('a')
             return force_tokens['special_tokens']
-        elif cur_id in to_id['AT'] + to_id['OT'] + to_id['EP'] + to_id['SP'] + to_id['AC']:  
+        elif cur_id in to_id['AT'] + to_id['OT'] + to_id['EP'] + to_id['SP'] + to_id['AC']:
+            print('b')
             return to_id[']']  
-        elif cur_id in to_id['SS']:  
+        elif cur_id in to_id['SS']:
+            print('c')
             return to_id['EP'] 
 
         # get cur_term
