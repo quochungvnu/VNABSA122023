@@ -141,7 +141,7 @@ def compute_scores(pred_seqs, gold_seqs, verbose=True):
 
     for i in range(num_samples):
         gold_list = extract_spans_para(gold_seqs[i], 'gold')
-        pred_list = extract_spans_para(pred_seqs[i], 'pred')
+        pred_list = extract_spans_para(pred_seqs[i], 'gold')
         print('gold_seqs: ')
         print(gold_seqs[i])
         print('gold_list: ')
