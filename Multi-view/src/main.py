@@ -494,15 +494,10 @@ def evaluate(model, task, data, data_type):
                 model.tokenizer.decode(ids, skip_special_tokens=True)
                 for ids in outs.sequences
             ]
-            print("dec: ------------------------")
-            print(dec)
             target = [
                 model.tokenizer.decode(ids, skip_special_tokens=True)
                 for ids in batch["target_ids"]
             ]
-            print('-'*50)
-            print('tar: --------------------------')
-            print(target)
             outputs.extend(dec)
             targets.extend(target)
 
