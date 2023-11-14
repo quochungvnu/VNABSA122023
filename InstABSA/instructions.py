@@ -196,6 +196,9 @@ class InstructionsHandler:
         Now complete the following example-
         input: """
 
+        self.joint['delim_instruct'] = ''
+        self.joint['eos_instruct'] = ' \noutput:'
+
         ################################# ATE #################################
 
         self.ate['bos_instruct1'] = """Definition: The output will be the aspects (both implicit and explicit) which have an associated opinion that are extracted from the input text. In cases where there are no aspects the output should be noaspectterm.
