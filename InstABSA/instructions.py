@@ -14,22 +14,22 @@ class InstructionsHandler:
         self.joint['bos_instruct1'] = """Định nghĩa: Kết quả đầu ra sẽ bao gồm các khía cạnh (cả tiềm ẩn và rõ ràng) và hướng cảm xúc của các khía cạnh. Trong trường hợp không có bất kỳ khía cạnh nào, kết quả đầu ra sẽ là noaspectterm:none.
         Positive example 1-
         input: giao hàng nhanh. nhận đc áo đẹp hơn cả mong đợi! vải áo và đường may rất đẹp đóng gói rất xịn xò, đánh giá 5 sao lần sau sẽ mua ủng hộ shop tiếp ạ.
-        output: giao hàng nhanh:positive [SEP] áo đẹp hơn cả mong đợi:positive
+        output: Service:positive [SEP] General:positive
         Positive example 2-
         input: thấy giá rẻ, khá là đắn đo phân vân với sản phẩm khác. lựa chọn tới lui cuối cùng mua thử. thật đáng đồng tiền, vải mỏng mịn, k dày thô như mấy thun cá sấu khác, chất mát vô cùng. fom đẹp, size vừa vặn. chồng mình thử tới đâu khen tới đó. shop rất nhiệt tình, giao hàng siêu nhanh.
-        output: thật đáng đồng tiền:positive [SEP] vải mỏng mịn:positive [SEP] fom đẹp, size vừa vặn:positive [SEP] shop rất nhiệt tình, giao hàng siêu nhanh:positive
+        output: Price:positive [SEP] Material:positive [SEP] Design:positive [SEP] Service:positive
         Negative example 1-
         input: chất liệu:vải mỏng màu sắc:trắng đúng không đúnh với mô tả sai kích cỡ.
-        output: vải mỏng:negative [SEP] không đúnh với mô tả sai kích cỡ:negative
+        output: Material:negative [SEP] Service:negative
         Negative example 2-
         input: k to như mình nghĩ.
-        output: k to như mình nghĩ:negative
+        output: Design:negative
         Neutral example 1-
         input: chất liệu bình thường đúng với mô tả:bình thường màu sắc bình thường hình ảnh chỉ mang tính chất nhận xu.
-        output: chất liệu bình thường:neutral [SEP] màu sắc bình thường:neutral
+        output: Material:neutral [SEP] Design:neutral
         Neutral example 2-
         input: đúng với mô tả:ýe chất liệu bthg màu sắc:den.
-        output: chất liệu bthg:neutral
+        output: Material:neutral
         Bây giờ hoàn thành example sau-
         input: """
 
@@ -189,10 +189,10 @@ class InstructionsHandler:
         self.joint['bos_instruct1'] = """Định nghĩa: Hãy trích xuất ra các khía cạnh và phân loại cảm xúc của các khía cạnh đó.
         Example 1-
         input: mua size m nhưng cảm thấy hơi bé một xíu, vải mát, đóng gói kĩ, đẹp
-        output: vải mát:positive [SEP] mua size m nhưng cảm thấy hơi bé một xíu:negative [SEP] đóng gói kĩ, đẹp:positive
+        output: Material:positive [SEP] Design:negative [SEP] Service:positive
         Example 2-
         input: Màu sắc:ngà ngà Áo tạm ổn phù hợp giá tiền nhưng khi nhận được áo thì phần ống tay bị mấy vệt đen ko biết có giặt ra đc không
-        output: nhưng khi nhận được áo thì phần ống tay bị mấy vệt đen ko biết có giặt ra đc không:negative [SEP] Áo tạm ổn:neutral [SEP] phù hợp giá tiền:positive 
+        output: Design:negative [SEP] General:neutral [SEP] Price:positive 
         Now complete the following example-
         input: """
 
