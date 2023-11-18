@@ -62,6 +62,12 @@ laptop_aspect_cate_list = [
 cate_list = {
     "rest14": rest_aspect_cate_list,
     "rest15": rest_aspect_cate_list,
+    "rest15_1": rest_aspect_cate_list,
+    "rest15_5": rest_aspect_cate_list,
+    "rest15_10": rest_aspect_cate_list,
+    "rest15_20": rest_aspect_cate_list,
+    "rest15_50": rest_aspect_cate_list,
+    "rest15_75": rest_aspect_cate_list,
     "rest": rest_aspect_cate_list,
     "rest16": rest_aspect_cate_list,
     "rest17": rest_aspect_cate_list,
@@ -71,7 +77,7 @@ cate_list = {
 
 task_data_list = {
     "aste": ["laptop14", "rest14", "rest15", "rest16"],
-    "tasd": ['rest15', "rest16", "rest17"],
+    "tasd": ['rest15','rest15_1','rest15_5','rest15_10','rest15_20','rest15_50','rest15_75' "rest16", "rest17"],
     "acos": ['laptop16', "rest16"],
     "asqp": ['rest15', "rest16"],
 }
@@ -84,6 +90,12 @@ force_words = {
     },
     'tasd': {
         "rest15": rest_aspect_cate_list + list(sentword2opinion.values()) + ['[SSEP]'],
+        "rest15_1": rest_aspect_cate_list + list(sentword2opinion.values()) + ['[SSEP]'],
+        "rest15_5": rest_aspect_cate_list + list(sentword2opinion.values()) + ['[SSEP]'],
+        "rest15_10": rest_aspect_cate_list + list(sentword2opinion.values()) + ['[SSEP]'],
+        "rest15_20": rest_aspect_cate_list + list(sentword2opinion.values()) + ['[SSEP]'],
+        "rest15_50": rest_aspect_cate_list + list(sentword2opinion.values()) + ['[SSEP]'],
+        "rest15_75": rest_aspect_cate_list + list(sentword2opinion.values()) + ['[SSEP]'],
         "rest16": rest_aspect_cate_list + list(sentword2opinion.values()) + ['[SSEP]'],
         "rest17": rest_aspect_cate_list + list(sentword2opinion.values()) + ['[SSEP]']
     },
@@ -119,6 +131,30 @@ optim_orders_all = {
             },
             "tasd": {
                 "rest15": [
+                    '[A] [C] [S]', '[A] [S] [C]', '[C] [S] [A]',
+                    '[C] [A] [S]', '[S] [C] [A]', '[S] [A] [C]'
+                ],
+                "rest15_1": [
+                    '[A] [C] [S]', '[A] [S] [C]', '[C] [S] [A]',
+                    '[C] [A] [S]', '[S] [C] [A]', '[S] [A] [C]'
+                ],
+                "rest15_5": [
+                    '[A] [C] [S]', '[A] [S] [C]', '[C] [S] [A]',
+                    '[C] [A] [S]', '[S] [C] [A]', '[S] [A] [C]'
+                ],
+                "rest15_10": [
+                    '[A] [C] [S]', '[A] [S] [C]', '[C] [S] [A]',
+                    '[C] [A] [S]', '[S] [C] [A]', '[S] [A] [C]'
+                ],
+                "rest15_20": [
+                    '[A] [C] [S]', '[A] [S] [C]', '[C] [S] [A]',
+                    '[C] [A] [S]', '[S] [C] [A]', '[S] [A] [C]'
+                ],
+                "rest15_50": [
+                    '[A] [C] [S]', '[A] [S] [C]', '[C] [S] [A]',
+                    '[C] [A] [S]', '[S] [C] [A]', '[S] [A] [C]'
+                ],
+                "rest15_75": [
                     '[A] [C] [S]', '[A] [S] [C]', '[C] [S] [A]',
                     '[C] [A] [S]', '[S] [C] [A]', '[S] [A] [C]'
                 ],
