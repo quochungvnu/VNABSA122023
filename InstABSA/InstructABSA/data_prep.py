@@ -100,7 +100,9 @@ class DatasetLoader:
             return
         df = self.extract_rowwise_aspect_polarity(df, on=on, key=key, min_val=1)
         df['text'] = df[text_col].apply(lambda x: bos_instruction + x + delim_instruction + eos_instruction)
+        print(df['text'])
         df['labels'] = df[[on, polarity]].apply(lambda x: ', '.join([f"{term}:{pol}" for term, pol in zip(x[0], x[1])]), axis=1)
+        print(df['labels'])
         #df = df.rename(columns = {'polarity': 'labels'})
         return df
 
