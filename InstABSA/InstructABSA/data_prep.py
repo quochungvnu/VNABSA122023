@@ -91,21 +91,19 @@ class DatasetLoader:
         df['text'] = df[text_col].apply(lambda x: bos_instruction + x + eos_instruction)
         return df
 
-    def create_data_in_joint_format(self, df, key, polarity, text_col, on, bos_instruction = '',
-                    delim_instruction = '', eos_instruction = ''):
+    def create_data_in_joint_format(self, df, key, label_key, text_col, aspect_col, bos_instruction = '',
+                                         eos_instruction = ''):
         """
         Prepare the data in the input format required.
         """
         if df is None:
             return
-        df = self.extract_rowwise_aspect_polarity(df, on=on, key=key, min_val=1)
-        df['text'] = df[text_col].apply(lambda x: bos_instruction + x + delim_instruction + eos_instruction)
-        print('text: ')
-        print(df['text'])
-        df['labels'] = df[[on, polarity]].apply(lambda x: ', '.join([f"{term}:{pol}" for term, pol in zip(x[0], x[1])]), axis=1)
-        print('labels: ')
-        print(df['labels'])
-        #df = df.rename(columns = {'polarity': 'labels'})
+        try:
+            df.iloc[0][aspect_col][0][key]
+        except:
+            df = self.reconstruct_strings(df, aspect_col)
+        df['labels'] = df[aspect_col].apply(lambda x: ', '.join([f"{i[key]}:{i[label_key]}" for i in x]))
+        df['text'] = df[text_col].apply(lambda x: bos_instruction + x + eos_instruction)
         return df
 
     def create_data_in_atsc_format(self, df, on, key, text_col, aspect_col, bos_instruction = '',
